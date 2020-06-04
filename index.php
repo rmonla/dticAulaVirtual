@@ -236,6 +236,11 @@
                                     href="https://zoom.us/j/435997049"
                                     >Aula Pública - UTNLaRioja</a>
                                  </p>
+                                <p>
+                                  <script src=»http://www.gmodules.com/ig/ifr? url=http://www.google.com/ig/modules/youtube.xml&up_channel=UTNLaRiojaDTIC&synd=open&w=400&h=300&title=Título+del+Canal&border=&output=js»> </script>
+                                </p>
+  
+
                             </div>
                         </div>
                     </div>
