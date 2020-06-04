@@ -50,18 +50,18 @@
                         <div id="collapse1_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/6536199820"
-                                    >1erAño - IC - UTNLaRioja</a> | 
+                                    <a target="_blank" href="https://utn.zoom.us/j/92023658063"
+                                    >1roICI-UTNLaRioja</a> | 
                                     <a target="_blank" href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/9263404567"
-                                    >2do Año - IC - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/92781193701"
+                                    >2doICI-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/6377704378"
-                                    >3er Año - IC - UTNLaRioja</a> | 
+                                    <a target="_blank" href="https://utn.zoom.us/j/92955020518"
+                                    >3roICI-UTNLaRioja</a> | 
                                     <a target="_blank" href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T"
                                     >Clases_Grabadas</a>
                                   </p>
@@ -72,14 +72,14 @@
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/2837486286"
-                                    >5to Año - IC - UTNLaRioja</a> | 
+                                    <a target="_blank" href="https://utn.zoom.us/j/99884405368"
+                                    >5toICI-UTNLaRIoja</a> | 
                                     <a target="_blank" href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/3368337766"
-                                    >6to Año - IC - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/95518301143"
+                                    >6toICI-UTNLaRIoja</a>
                                  </p>
                                 
                               </div>
@@ -98,26 +98,26 @@
                         <div id="collapse2_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/5996909331"
-                                    >1er Año - IEM - UTNLaRioja</a> | 
+                                    <a target="_blank" href="https://utn.zoom.us/j/91277544291"
+                                    >1roIEM-UTNLaRioja</a> | 
                                     <a target="_blank" href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/7311879420"
-                                    >2do Año - IEM - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/92086937597"
+                                    >2doIEM-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/7445916282"
-                                    >3er Año - IEM - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/92894001255"
+                                    >3roIEM-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/2507839417"
-                                    >4to Año - IEM - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/92351175502"
+                                    >4toIEM-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/7625462138"
-                                    >5to Año - IEM - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/96665531385"
+                                    >5toIEM-UTNLaRioja</a>
                                   </p>
                                 
                             </div>
@@ -135,16 +135,16 @@
                         <div id="collapse3_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/8652449989"
-                                    >1er Año - IEL - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/92116614010"
+                                    >1roIEL-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/3814127465"
-                                    >2do Año - IEL - UTNLaRioja</a>
+                                    <a target="_blank" href="https://utn.zoom.us/j/96130488690"
+                                    >2doIEL-UTNLaRioja</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" href="https://zoom.us/j/7270147747"
-                                    >3er Año - IEL - UTNLaRioja</a> | 
+                                    <a target="_blank" href="https://utn.zoom.us/j/98516961454"
+                                    >3roIEL-UTNLaRioja</a> | 
                                     <a target="_blank" href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv"
                                     >Clases_Grabadas</a>
                                   </p>
