@@ -93,7 +93,10 @@
                                     <a target="_blank" 
                                     href="https://utn.zoom.us/j/95518301143"
                                     >6toICI-UTNLaRIoja</a> | 
-                                 </p>
+                                    <a target="_blank" 
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    >Clases_Grabadas</a>
+                                  </p>
                                 
                               </div>
                           </div>
