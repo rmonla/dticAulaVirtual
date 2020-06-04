@@ -238,6 +238,26 @@
                                  </p>
                             </div>
                         </div>
+
+                        <div class="card">
+                            <div class="card-header" role="tab" id="headingThree">
+                                <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse4_1" aria-expanded="false" aria-controls="collapse3">
+                                    <h4 class="mbr-fonts-style display-5">
+                                        <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                        Clases Grabadas
+                                    </h4>
+                                </a>
+                            </div>
+                            <div id="collapse4_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
+                                <div class="panel-body p-4">
+                                  <iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLSOY8GuPHc0DG-RDkLWTsZn0CjHpBtTZf" frameborder="0" allowfullscreen>
+                                  </body>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+
                     </div>
                     <div class="card">
                         <div class="card-header" role="tab" id="headingThree">
