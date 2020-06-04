@@ -43,7 +43,7 @@
                             <a role="button" class="panel-title collapsed text-black" data-toggle="collapse" data-core="" href="#collapse1_0" aria-expanded="false" aria-controls="collapse1">
                                 <h4 class="mbr-fonts-style display-5">
                                     <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
-                                    Ingeniería Civil <?php echo $bdAulas; ?>
+                                    Ingeniería Civil
                                   </h4>
                               </a>
                           </div>
