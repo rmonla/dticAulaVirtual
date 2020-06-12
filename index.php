@@ -1,7 +1,5 @@
 <?php 
-
-	$bdAulas = '23';
-
+        
  ?>
 <!DOCTYPE html>
 <html  >
@@ -62,13 +60,13 @@
                                     href="https://utn.zoom.us/j/92781193701"
                                     >2doICI-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
-                                    href="https://utn.zoom.us/j/97101886947"
-                                    >3roICI~UTNLaRioja</a> | 
+                                    href="https://utn.zoom.us/j/92955020518"
+                                    >3roICI-UTNLaRioja</a> | 
                                     <a target="_blank" 
                                     href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T"
                                     >Clases_Grabadas</a>
@@ -94,7 +92,7 @@
                                     href="https://utn.zoom.us/j/95518301143"
                                     >6toICI-UTNLaRIoja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 
@@ -126,7 +124,7 @@
                                     href="https://utn.zoom.us/j/92086937597"
                                     >2doIEM-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -134,7 +132,7 @@
                                     href="https://utn.zoom.us/j/92894001255"
                                     >3roIEM-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -142,7 +140,7 @@
                                     href="https://utn.zoom.us/j/92351175502"
                                     >4toIEM-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -150,7 +148,7 @@
                                     href="https://utn.zoom.us/j/96665531385"
                                     >5toIEM-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 
@@ -173,7 +171,7 @@
                                     href="https://utn.zoom.us/j/92116614010"
                                     >1roIEL-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -181,7 +179,7 @@
                                     href="https://utn.zoom.us/j/96130488690"
                                     >2doIEL-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -197,7 +195,7 @@
                                     href="https://utn.zoom.us/j/97174449400"
                                     >4toIEL-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -205,7 +203,7 @@
                                     href="https://utn.zoom.us/j/98672429951"
                                     >5toIEL-UTNLaRioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
@@ -213,7 +211,7 @@
                                     href="https://utn.zoom.us/j/91937629997"
                                     >6toIEL-UTNLarioja</a> | 
                                     <a target="_blank" 
-                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC"
+                                    href="http://www.youtube.com/c/UTNLaRiojaDTIC/playlists"
                                     >Clases_Grabadas</a>
                                   </p>
 
