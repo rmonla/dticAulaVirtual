@@ -73,7 +73,7 @@
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
-                                    href="https://utn.zoom.us/j/92023658063"
+                                    href="https://utn.zoom.us/j/95994613482"
                                     >4toICI-UTNLaRioja</a> | 
                                     <a target="_blank" 
                                     href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"
