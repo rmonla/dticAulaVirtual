@@ -73,8 +73,8 @@
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
-                                    href="https://utn.zoom.us/j/94629812640"
-                                    >4toICI~UTNLaRioja</a> | 
+                                    href="https://utn.zoom.us/j/92023658063"
+                                    >4toICI-UTNLaRioja</a> | 
                                     <a target="_blank" 
                                     href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"
                                     >Clases_Grabadas</a>
