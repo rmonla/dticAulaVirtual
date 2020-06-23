@@ -7,9 +7,11 @@
 
 	$bdLnks = json_decode($bdLnks);
 
-	// echo $bdLnks->{'bdCols'};
 
 	echo '<pre>'.print_r( $bdLnks, true ).'</pre>';
+	
+	echo $bdLnks->{'bdCols'};
+	
 	// echo ( isset( $bdLnks->{'dticServTec'} ))? "Existe" : "NoExiste";
 
 	exit;
