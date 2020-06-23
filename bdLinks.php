@@ -9,9 +9,8 @@
 
 
 	echo '<pre>'.print_r( $bdLnks, true ).'</pre>';
-	
-	echo $bdLnks->['bdCols'];
-	
+	echo $bdLnks->{'bdCols'};
+	// echo $lnkDats->{'dticServTec'}
 	// echo ( isset( $bdLnks->{'dticServTec'} ))? "Existe" : "NoExiste";
 
 	exit;
