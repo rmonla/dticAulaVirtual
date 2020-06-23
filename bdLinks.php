@@ -9,6 +9,7 @@
 
 
 	echo '<pre>'.print_r( $bdLnks, true ).'</pre>';
+	exit
 	// echo ( isset( $bdLnks->{'dticServTec'} ))? "Existe" : "NoExiste";
 	// echo $bdLnks->{'dticServTec'}->desc;
 
