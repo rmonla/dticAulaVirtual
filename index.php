@@ -84,8 +84,9 @@
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
-                                    href="https://utn.zoom.us/j/99884405368"
+                                    href="https://utn.zoom.us/j/91653210363"
                                     >5toICI-UTNLaRIoja</a> | 
+                                    <!-- href="https://utn.zoom.us/j/99884405368" -->
                                     <a target="_blank" 
                                     href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"
                                     >Clases_Grabadas</a>
