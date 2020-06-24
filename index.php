@@ -49,9 +49,8 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstAulas = ['1roICI-', '2doICI-', '3roICI-', '4toICI-', '5toICI~', '6toICI~']; 
-                                  foreach ($lstAulas as $aula)
-                                    echo getAula($aula);
+                                  $lstA = ['1roICI-', '2doICI-', '3roICI-', '4toICI-', '5toICI~', '6toICI~']; 
+                                  foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
                               </div>
@@ -71,9 +70,8 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstAulas = ['1roIEM-', '2doIEM-', '3roIEM-', '4toIEM~', '5toIEM~']; 
-                                  foreach ($lstAulas as $aula)
-                                    echo getAula($aula);
+                                  $lstA = ['1roIEM-', '2doIEM-', '3roIEM-', '4toIEM~', '5toIEM~']; 
+                                  foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
                             </div>
@@ -92,9 +90,8 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstAulas = ['1roIEL-', '2doIEL-', '3roIEL-', '4toIEL~', '5toIEL~', '6toIEL~']; 
-                                  foreach ($lstAulas as $aula)
-                                    echo getAula($aula);
+                                  $lstA = ['1roIEL-', '2doIEL-', '3roIEL-', '4toIEL~', '5toIEL~', '6toIEL~']; 
+                                  foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
                             </div>
