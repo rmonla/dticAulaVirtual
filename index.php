@@ -1,6 +1,5 @@
 <?php 
     include_once 'bdAulas.php';
-          
  ?>
 <!DOCTYPE html>
 <html  >
@@ -49,12 +48,11 @@
                         <div id="collapse1_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 
-                                <?php echo getAula('1roICI-'); ?>
-                                <?php echo getAula('2doICI-'); ?>
-                                <?php echo getAula('3roICI-'); ?>
-                                <?php echo getAula('4toICI-'); ?>
-                                <?php echo getAula('5toICI~'); ?>
-                                <?php echo getAula('6toICI~'); ?>
+                                <?php  
+                                  $lstAulas = ['1roICI-', '2doICI-', '3roICI-', '4toICI-', '5toICI~', '6toICI~']; 
+                                  foreach ($lstAulas as $aula)
+                                    echo getAula($aula);
+                                ?>
 
                               </div>
                           </div>
@@ -71,13 +69,13 @@
                         </div>
                         <div id="collapse2_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
-
-                                <?php echo getAula('1roIEM-'); ?>
-                                <?php echo getAula('2doIEM-'); ?>
-                                <?php echo getAula('3roIEM-'); ?>
-                                <?php echo getAula('4toIEM~'); ?>
-                                <?php echo getAula('5toIEM~'); ?>
                                 
+                                <?php  
+                                  $lstAulas = ['1roIEM-', '2doIEM-', '3roIEM-', '4toIEM~', '5toIEM~']; 
+                                  foreach ($lstAulas as $aula)
+                                    echo getAula($aula);
+                                ?>
+
                             </div>
                         </div>
                     </div>
@@ -93,12 +91,11 @@
                         <div id="collapse3_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 
-                                <?php echo getAula('1roIEL-'); ?>
-                                <?php echo getAula('2doIEL-'); ?>
-                                <?php echo getAula('3roIEL-'); ?>
-                                <?php echo getAula('4toIEL~'); ?>
-                                <?php echo getAula('5toIEL~'); ?>
-                                <?php echo getAula('6toIEL~'); ?>
+                                <?php  
+                                  $lstAulas = ['1roIEL-', '2doIEL-', '3roIEL-', '4toIEL~', '5toIEL~', '6toIEL~']; 
+                                  foreach ($lstAulas as $aula)
+                                    echo getAula($aula);
+                                ?>
 
                             </div>
                         </div>
