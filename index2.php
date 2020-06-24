@@ -1,7 +1,6 @@
 <?php 
     include_once 'bdAulas.php';
-
-           
+          
  ?>
 <!DOCTYPE html>
 <html  >
