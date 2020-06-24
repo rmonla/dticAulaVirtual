@@ -22,6 +22,19 @@
 		"Aula Pública-" => ["435997049",   ""]
 	];
 
+    function getAula($id=''){
+        global $bdAulas;
+
+        if (!isset($bdAulas[$id])) return "<br>ERRORAula<br>";
+
+        list($idZ, $idP) = $bdAulas[$id]; 
+
+        if ($idP) $idP = " | <a target='_blank' href='https://www.youtube.com/playlist?list=$idP'>Clases_Grabadas</a>";
+        return "<a target='_blank' href='https://zoom.us/j/$idZ'>$idUTNLaRioja</a>$idP";
+    }
+
+
+
 	// echo '<pre>'.print_r( $bdAulas, true ).'</pre>';
 
 	// exit;
