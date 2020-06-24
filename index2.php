@@ -50,7 +50,7 @@
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
                                     
-                                    <?php echo getAula('1roICI'); ?>
+                                    <?php echo getAula('1roICI-'); ?>
 
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
