@@ -53,8 +53,8 @@
                                 <?php echo getAula('2doICI-'); ?>
                                 <?php echo getAula('3roICI-'); ?>
                                 <?php echo getAula('4toICI-'); ?>
-                                <?php echo getAula('5toICI-'); ?>
-                                <?php echo getAula('6toICI-'); ?>
+                                <?php echo getAula('5toICI~'); ?>
+                                <?php echo getAula('6toICI~'); ?>
 
                               </div>
                           </div>
@@ -75,8 +75,8 @@
                                 <?php echo getAula('1roIEM-'); ?>
                                 <?php echo getAula('2doIEM-'); ?>
                                 <?php echo getAula('3roIEM-'); ?>
-                                <?php echo getAula('4toIEM-'); ?>
-                                <?php echo getAula('5toIEM-'); ?>
+                                <?php echo getAula('4toIEM~'); ?>
+                                <?php echo getAula('5toIEM~'); ?>
                                 
                             </div>
                         </div>
@@ -96,9 +96,9 @@
                                 <?php echo getAula('1roIEL-'); ?>
                                 <?php echo getAula('2doIEL-'); ?>
                                 <?php echo getAula('3roIEL-'); ?>
-                                <?php echo getAula('4toIEL-'); ?>
-                                <?php echo getAula('5toIEL-'); ?>
-                                <?php echo getAula('6toIEL-'); ?>
+                                <?php echo getAula('4toIEL~'); ?>
+                                <?php echo getAula('5toIEL~'); ?>
+                                <?php echo getAula('6toIEL~'); ?>
 
                             </div>
                         </div>
