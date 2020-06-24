@@ -49,7 +49,7 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstA = ['1roICI-', '2doICI-', '3roICI-', '4toICI-', '5toICI~', '6toICI~']; 
+                                  $lstA = ['1roICI', '2doICI', '3roICI', '4toICI', '5toICI', '6toICI']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
@@ -70,7 +70,7 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstA = ['1roIEM-', '2doIEM-', '3roIEM-', '4toIEM~', '5toIEM~']; 
+                                  $lstA = ['1roIEM', '2doIEM', '3roIEM', '4toIEM', '5toIEM']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
@@ -90,7 +90,7 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstA = ['1roIEL-', '2doIEL-', '3roIEL-', '4toIEL~', '5toIEL~', '6toIEL~']; 
+                                  $lstA = ['1roIEL', '2doIEL', '3roIEL', '4toIEL', '5toIEL', '6toIEL']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
@@ -109,7 +109,7 @@
                         <div id="collapse4_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
 
-                                <?php echo getAula('Aula Pública-'); ?>
+                                <?php echo getAula('Aula Pública'); ?>
 
                             </div>
                         </div>
