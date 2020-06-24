@@ -49,12 +49,9 @@
                         <div id="collapse1_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
                                 <p class="mbr-fonts-style panel-text display-7">
-                                    <a target="_blank" 
-                                    href="https://utn.zoom.us/j/92023658063"
-                                    >1roICI-UTNLaRioja</a> | 
-                                    <a target="_blank" 
-                                    href="https://www.youtube.com/playlist?list=PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV"
-                                    >Clases_Grabadas</a>
+                                    
+                                    <?php getAula('1roICI-'); ?>
+
                                   </p>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
