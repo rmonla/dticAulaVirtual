@@ -5,10 +5,10 @@
 		"1roICI"       => ["92023658063", "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV"],
 		"2doICI"       => ["92781193701", "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH"],
 		"3roICI"       => ["92955020518", "PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T"],
-		"4toICI"       => ["94629812640", "PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"], //Temporal - BASIC
-		// "4toICI"       => ["95994613482", "PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"], //PorDefecto - PRO
-		"5toICI"       => ["96701170714", "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"], //Temporal - PRO BARBEITO
-		// "5toICI"       => ["99884405368", "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"], //PorDefecto - BASIC
+		"4toICI"       => ["94629812640", "PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"], //Temp - BASIC
+		// "4toICI"       => ["95994613482", "PLSOY8GuPHc0BYg076g1CcNPReauxykWTV"], //-11 Def - PRO
+		"5toICI"       => ["96701170714", "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"], //-11 Temp - PRO BARBEITO
+		// "5toICI"       => ["99884405368", "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"], //-14 Def - BASIC
 		"6toICI"       => ["95518301143", ""],
 		"1roIEM"       => ["91277544291", "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM"],
 		"2doIEM"       => ["92086937597", "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB"],
@@ -21,7 +21,6 @@
 		"4toIEL"       => ["97174449400", ""],
 		"5toIEL"       => ["98672429951", ""],
 		"6toIEL"       => ["91937629997", ""],
-		"5toICI"       => ["91653210363", "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up"],
 		"Aula Pública" => ["435997049",   ""]
 	];
 
