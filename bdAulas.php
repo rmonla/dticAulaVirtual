@@ -31,7 +31,10 @@
 
         $id = $id . 'UTNLaRioja';
 
-        if ($idP) $idP = " | <a target='_blank' href='https://www.youtube.com/playlist?list=$idP'>Clases_Grabadas</a>";
+        if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP"
+    	else $idP = "http://www.youtube.com/c/UTNLaRiojaDTIC/playlists";
+
+    	$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
 
         return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
     }
