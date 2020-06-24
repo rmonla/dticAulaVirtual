@@ -48,11 +48,7 @@
                           </div>
                         <div id="collapse1_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
-                                <p class="mbr-fonts-style panel-text display-7">
-                                    
-                                    <?php echo getAula('1roICI-'); ?>
-
-                                  </p>
+                                <?php echo getAula('1roICI-'); ?>
                                 <p class="mbr-fonts-style panel-text display-7">
                                     <a target="_blank" 
                                     href="https://utn.zoom.us/j/92781193701"

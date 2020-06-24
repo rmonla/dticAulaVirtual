@@ -29,8 +29,11 @@
 
         list($idZ, $idP) = $bdAulas[$id]; 
 
+        $id = $id . 'UTNLaRioja';
+
         if ($idP) $idP = " | <a target='_blank' href='https://www.youtube.com/playlist?list=$idP'>Clases_Grabadas</a>";
-        return "<a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP";
+
+        return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
     }
 
 
