@@ -30,7 +30,7 @@
         list($idZ, $idP) = $bdAulas[$id]; 
 
         if ($idP) $idP = " | <a target='_blank' href='https://www.youtube.com/playlist?list=$idP'>Clases_Grabadas</a>";
-        return "<a target='_blank' href='https://zoom.us/j/$idZ'>$id UTNLaRioja</a>$idP";
+        return "<a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP";
     }
 
 
