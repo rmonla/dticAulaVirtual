@@ -31,7 +31,7 @@
 
         $id = $id . 'UTNLaRioja';
 
-        if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP"
+        if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP";
     	else $idP = "http://www.youtube.com/c/UTNLaRiojaDTIC/playlists";
 
     	$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
