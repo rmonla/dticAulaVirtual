@@ -1,6 +1,5 @@
 <?php 
-    include_once 'bdLinks.php';
-
+    include_once 'bdAulas.php';
 
            
  ?>
