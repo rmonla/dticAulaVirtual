@@ -160,7 +160,7 @@
                             <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse7_0" aria-expanded="false" aria-controls="collapse7">
                                 <h4 class="mbr-fonts-style display-5">
                                     <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
-                                    Eventos
+                                    Eventos Agendados
                                 </h4>
                             </a>
                         </div>
