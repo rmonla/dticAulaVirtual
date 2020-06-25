@@ -36,7 +36,8 @@
                 </div>
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_0" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
-                    <div class="card">
+                    
+                    <div class="card"> <!-- Civil -->
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title collapsed text-black" data-toggle="collapse" data-core="" href="#collapse1_0" aria-expanded="false" aria-controls="collapse1">
                                 <h4 class="mbr-fonts-style display-5">
@@ -56,7 +57,8 @@
                               </div>
                           </div>
                     </div>
-                    <div class="card">
+                    
+                    <div class="card"> <!-- Electromecánica -->
                         <div class="card-header" role="tab" id="headingTwo">
                             <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse2_0" aria-expanded="false" aria-controls="collapse2">
                                 <h4 class="mbr-fonts-style display-5">
@@ -77,7 +79,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    
+                    <div class="card"> <!-- Electrónica -->
                         <div class="card-header" role="tab" id="headingThree">
                             <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse3_0" aria-expanded="false" aria-controls="collapse3">
                                 <h4 class="mbr-fonts-style display-5">
@@ -97,9 +100,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    
+                    <div class="card"> <!-- Octógono -->
                         <div class="card-header" role="tab" id="headingThree">
-                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse4_0" aria-expanded="false" aria-controls="collapse3">
+                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse4_0" aria-expanded="false" aria-controls="collapse4">
                                 <h4 class="mbr-fonts-style display-5">
                                     <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
                                     Octógono
@@ -113,35 +117,18 @@
 
                             </div>
                         </div>
-
                     </div>
-                    <div class="card">
-                        <div class="card-header" role="tab" id="headingThree">
-                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse5_0" aria-expanded="false" aria-controls="collapse3">
-                                <h4 class="mbr-fonts-style display-5">
-                                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
-                                    Dpto. PosGrados
-                                </h4>
-                            </a>
-                        </div>
-                        <div id="collapse5_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
-                            <div class="panel-body p-4">
 
-                                <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=OGEzNWE2b2V2NmdrMjljZXBpcXAyOG9wZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
+                    <div class="card"> <!-- Carreras a Término -->
                         <div class="card-header" role="tab" id="headingThree">
-                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse6_0" aria-expanded="false" aria-controls="collapse3">
+                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse5_0" aria-expanded="false" aria-controls="collapse5">
                                 <h4 class="mbr-fonts-style display-5">
                                     <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
                                     Dpto. Carreras a Término
                                 </h4>
                             </a>
                         </div>
-                        <div id="collapse6_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
+                        <div id="collapse5_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
 
                                 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=bnRiNjMzODcxZnBodXZuM2ZtYnBoaGdyNHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
@@ -149,6 +136,43 @@
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="card"> <!-- PosGrados -->
+                        <div class="card-header" role="tab" id="headingThree">
+                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse6_0" aria-expanded="false" aria-controls="collapse6">
+                                <h4 class="mbr-fonts-style display-5">
+                                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                    Dpto. PosGrados
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapse6_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
+                            <div class="panel-body p-4">
+
+                                <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=OGEzNWE2b2V2NmdrMjljZXBpcXAyOG9wZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card"> <!-- Eventos -->
+                        <div class="card-header" role="tab" id="headingThree">
+                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#collapse7_0" aria-expanded="false" aria-controls="collapse7">
+                                <h4 class="mbr-fonts-style display-5">
+                                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                    Eventos
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapse7_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
+                            <div class="panel-body p-4">
+
+                                <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=a2hhcjVxanZlbTdrMjdwZWsyMmxkcWJrZ2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
                 </div>
               </div>
           </div>
