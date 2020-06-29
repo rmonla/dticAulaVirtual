@@ -41,8 +41,6 @@
 
         if (!isset($bdZIDs[$id])) return "<br>ERRORAula<br>";
 
-        $id = $id . '-UTNLaRioja';
-
         // PlayList
 
         $idP = (isset($bdPLs[$id])) ? $bdPLs[$id] : 0 ;
@@ -58,6 +56,10 @@
         
         $idZ = $bdZIDs[$id][$idE];
 
+        // Retorno HTML Aula
+
+        $id = $id . '-UTNLaRioja';
+        
         return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
     }
 	
