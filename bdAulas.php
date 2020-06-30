@@ -58,7 +58,7 @@
 
         // Retorno HTML Aula
 
-        $sep = [' ', ' ', '-', '~'];
+        $sep = [' ', ' ', '~', '-'];
 
         $id = $id . $sep[$idE] . 'UTNLaRioja';
         
