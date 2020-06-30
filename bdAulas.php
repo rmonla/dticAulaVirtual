@@ -58,7 +58,7 @@
 
         // Retorno HTML Aula
 
-        $id = $id . '-UTNLaRioja';
+        $id = $id . '-UTNLaRioja' . str_repeat(".",$idE);
         
         return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
     }
