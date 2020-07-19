@@ -16,18 +16,18 @@
 	$bdZIDs = [ // BD de IDs de Aulas Zoom. 
 		"Estados"      => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
 		"1roICI"       => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
-		"2doICI"       => [    3      , "96761370074", "98072933701", "92781193701"], // 5
+		"2doICI"       => [    2      , "96761370074", "98072933701", "92781193701"], // 5
 		"3roICI"       => [    2      , "96761370074", "97101886947", "92955020518"], // 8
 		"4toICI"       => [    2      , "96761370074", "94629812640", "95994613482"], // 11
 		"5toICI"       => [    2      , "96761370074", "96701170714", ""           ], // 14
 		"6toICI"       => [    2      , "96761370074", "95518301143", ""           ], // 17
 		"1roIEM"       => [    3      , "96761370074", "91277544291", "91277544291"], // 3
-		"2doIEM"       => [    3      , "96761370074", "92086937597", "92086937597"], // 6
+		"2doIEM"       => [    2      , "96761370074", "92086937597", "92086937597"], // 6
 		"3roIEM"       => [    2      , "96761370074", "94060234711", "92894001255"], // 9
 		"4toIEM"       => [    2      , "96761370074", "92351175502", ""           ], // 12
 		"5toIEM"       => [    2      , "96761370074", "96665531385", ""           ], // 15
 		"1roIEL"       => [    3      , "96761370074", "92116614010", "92116614010"], // 4
-		"2doIEL"       => [    3      , "96761370074", "96130488690", "96130488690"], // 7
+		"2doIEL"       => [    2      , "96761370074", "96130488690", "96130488690"], // 7
 		"3roIEL"       => [    2      , "96761370074", "98516961454", "98516961454"], // 10
 		"4toIEL"       => [    2      , "96761370074", "97174449400", ""           ], // 13
 		"5toIEL"       => [    2      , "96761370074", "98672429951", ""           ], // 16
@@ -35,35 +35,35 @@
 		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
-    function getAula($id=''){
-        global $bdPLs;
-        global $bdZIDs;
+	function getAula($id=''){
+		global $bdPLs;
+		global $bdZIDs;
 
-        if (!isset($bdZIDs[$id])) return "<br>ERRORAula<br>";
+		if (!isset($bdZIDs[$id])) return "<br>ERRORAula<br>";
 
-        // PlayList
+		// PlayList
 
-        $idP = (isset($bdPLs[$id])) ? $bdPLs[$id] : 0 ;
+		$idP = (isset($bdPLs[$id])) ? $bdPLs[$id] : 0 ;
 
-        if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP";
-    	else $idP = "http://www.youtube.com/c/UTNLaRiojaDTIC/playlists";
+		if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP";
+		else $idP = "http://www.youtube.com/c/UTNLaRiojaDTIC/playlists";
 
-    	$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
+		$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
 
-    	// ID Aula Zoom
+		// ID Aula Zoom
 
-        $idE = $bdZIDs[$id][0];
-        
-        $idZ = $bdZIDs[$id][$idE];
+		$idE = $bdZIDs[$id][0];
 
-        // Retorno HTML Aula
+		$idZ = $bdZIDs[$id][$idE];
 
-        $sep = [' ', ' ', '~', '-'];
+		// Retorno HTML Aula
 
-        $id = $id . $sep[$idE] . 'UTNLaRioja';
-        
-        return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
-    }
+		$sep = [' ', ' ', '~', '-'];
+
+		$id = $id . $sep[$idE] . 'UTNLaRioja';
+
+		return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
+	}
 	
 	// echo '<pre>'.print_r( $bdZIDs, true ).'</pre>';
 
