@@ -6,7 +6,20 @@
 	$time = 1;
 	$dest = "https://utn.zoom.us/j/97478835879";
 
-	// link -> http://www.frlr.utn.edu.ar/dtic/aulavirtual/preing2021/
+	/**
+	 * 
+
+		link -> http://www.frlr.utn.edu.ar/dtic/aulavirtual/preingreso/
+
+UTNLaRioja le está invitando a una reunión de Zoom programada.
+
+Tema: _*Seminario - Ingreso 2021 - UTNLaRioja*_
+Horario: _3 de Ago 2020 19Hs_
+
+Unirse a la reunión Zoom:
+http://www.frlr.utn.edu.ar/dtic/aulavirtual/preingreso
+
+	 */
 
 	echo <<<HTML
 
