@@ -1,5 +1,5 @@
 <?php 
-	$titu = "Charla - Seminario de Ingreso 2021 - UTNLaRioja [03-Agosto-15Hs]";
+	$titu = "Charla - Seminario de Ingreso 2021 - UTNLaRioja [06-Agosto-15Hs]";
 	$desc = "Acceso Zoom - Destinado a Alumnos Ingresantes.";
 	
 	$imag = "http://www.frlr.utn.edu.ar/dtic/_img/logo-utnlr-dtic-2.png";
