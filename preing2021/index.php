@@ -6,7 +6,7 @@
 	$time = 1;
 	$dest = "https://utn.zoom.us/meeting/register/tJMpcOGgrT4iHd2L4qsm_92ieozPE_DNS9RI";
 
-	// link -> http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/200803-1500/
+	// link -> http://www.frlr.utn.edu.ar/dtic/aulavirtual/preing2021/
 
 	echo <<<HTML
 
