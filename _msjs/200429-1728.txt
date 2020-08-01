@@ -1,0 +1,14 @@
+200429-1728.txt
+[17:28, 29/4/2020] RicardoMONLA: 
+	*Nuevos Cambios en configuraciones de las Aulas*
+
+	_Hola a todos. Les informo que desde Rectorado han hecho nuevamente modificaciones en las políticas de seguridad en el uso de Zoom._
+
+	_Si bien no veo modificaciones muy relevantes, ahora nos dan la posibilidad de que los administradores de cada Regional podamos revertir algunas si hace falta._
+
+	_La de compartir pantalla al inicio de cada reunión sigue sin ser permitida, osea no hay cambios en este tema y les sigo teniendo que dar el acceso como anfitrión cuando ya estén en el aula._
+
+	_A continuación les paso el detalle de los cambios para que estén informados._
+
+	_*Tec. Ricardo MONLA*_
+	_DTIC UTNLaRioja_
