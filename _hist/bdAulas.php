@@ -32,6 +32,9 @@
 		"4toIEL"       => [    2      , "96761370074", "97174449400", ""           ], // 13
 		"5toIEL"       => [    2      , "96761370074", "98672429951", ""           ], // 16
 		"6toIEL"       => [    2      , "96761370074", "91937629997", ""           ], // 18
+		"Matemática"   => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"Física"       => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"Química"      => [    2      , "96761370074", "97478835879", ""           ], // 18
 		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
@@ -51,15 +54,11 @@
 		$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
 
 		// ID Aula Zoom
-
 		$idE = $bdZIDs[$id][0];
-
 		$idZ = $bdZIDs[$id][$idE];
 
 		// Retorno HTML Aula
-
 		$sep = [' ', ' ', '~', '-'];
-
 		$id = $id . $sep[$idE] . 'UTNLaRioja';
 
 		return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
