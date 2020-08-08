@@ -27,13 +27,13 @@
 </head>
 <body>
   <section class="accordion1 cid-rKzC2nyguD" id="accordion1-0">
-
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-8">
                 <div class="section-head text-center space30">
                     <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2"
                     >Aulas Virtuales - UTNLaRioja</h2>
+                <div class="align-right"><a href='index-2.php'>Ver vers2.0</a></div>
                 </div>
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_0" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
