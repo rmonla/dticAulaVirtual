@@ -6,47 +6,37 @@
       $aulas = '';
       $lstA = ['Matemática', 'Física', 'Química']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
-    $grupos .= getGrupo($grupo='preingreso', $titulo='Pre-Ingreso', $aulas);
+      $grupos .= getGrupo('preingreso', 'Pre-Ingreso', $aulas);
   
     //Ingeniería Civil
       $aulas = '';
       $lstA = ['1roICI', '2doICI', '3roICI', '4toICI', '5toICI', '6toICI']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
-    $grupos .= getGrupo($grupo='ICI', $titulo='Ingeniería Civil', $aulas);
+      $grupos .= getGrupo('ICI', 'Ingeniería Civil', $aulas);
   
     //Ingeniería Electromecánica
       $aulas = '';
       $lstA = ['1roIEM', '2doIEM', '3roIEM', '4toIEM', '5toIEM']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
-    $grupos .= getGrupo($grupo='IEM', $titulo='Ingeniería Electromecánica', $aulas);
+      $grupos .= getGrupo('IEM', 'Ingeniería Electromecánica', $aulas);
   
     //Ingeniería Electrónica
       $aulas = '';
       $lstA = ['1roIEL', '2doIEL', '3roIEL', '4toIEL', '5toIEL', '6toIEL']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
-    $grupos .= getGrupo($grupo='IEL', $titulo='Ingeniería Electrónica', $aulas);
+      $grupos .= getGrupo('IEL', 'Ingeniería Electrónica', $aulas);
   
     //Octógono
-      $aulas = getAula('Aula Pública');
-    $grupos .= getGrupo($grupo='OCT', $titulo='Octógono', $aulas);
+      $grupos .= getGrupo('OCT', 'Octógono', getAula('Aula Pública'));
   
     //Dpto. Carreras a Término
-      $aulas = <<<HTML
-      <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=bnRiNjMzODcxZnBodXZuM2ZtYnBoaGdyNHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-HTML;
-    $grupos .= getGrupo($grupo='CTERMINO', $titulo='Dpto. Carreras a Término', $aulas);
+      $grupos .= getGrupo('CATERM', 'Dpto. Carreras a Término', getIframeCal('CATERM'));
   
     //Dpto. PosGrados
-      $aulas = <<<HTML
-                <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=OGEzNWE2b2V2NmdrMjljZXBpcXAyOG9wZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-HTML;
-    $grupos .= getGrupo($grupo='POSG', $titulo='Dpto. PosGrados', $aulas);
+      $grupos .= getGrupo('POSG', 'Dpto. PosGrados', getIframeCal('POSG'));
   
     //Eventos Agendados
-      $aulas = <<<HTML
-                <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=a2hhcjVxanZlbTdrMjdwZWsyMmxkcWJrZ2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-HTML;
-    $grupos .= getGrupo($grupo='EVENTOS', $titulo='Eventos Agendados', $aulas);
+      $grupos .= getGrupo('EVENTOS', 'Eventos Agendados', getIframeCal('EVENTOS'));
 
 ?>
 
