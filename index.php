@@ -197,6 +197,13 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-175446358-1');
+    
+    var gaReg = function(url) {
+      ga('send', 'event', 'outbound', 'click', url, {
+       'transport': 'beacon',
+       'hitCallback': function(){document.location = url;}
+      });
+    };
   </script>
   
 </body>
