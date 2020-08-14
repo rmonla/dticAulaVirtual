@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/dticAulaVirtual.png" type="image/x-icon">
   <meta name="description" content="">
-  <meta http-equiv="Refresh" content="30"/>
+  <meta http-equiv="Refresh" content="150"/>
   
   <title>Aulas Virtuales - UTNLaRioja</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
