@@ -79,14 +79,10 @@
 			$aNom = $aID.$nSep.'UTNLaRioja';
 
 		// Enlace del Aula
-			$aOnClick = "onClick=\"ga('send', 'event', 'Aulas', 'entra', '$aNom');\"";
+			$aOnClick = "onclick=\"gtag('event', '$aNom', {'event_category': '$aID', 'event_label': '', 'value': '$aNom', 'non_interaction': true });\"";
 			$aZoomUrl = "https://zoom.us/j/$aZoomID";
 			$aEnlace = "<a target='_blank' href='$aZoomUrl' $aOnClick>$aNom</a>";
 			
-			// $aOnClick = "onClick=\"_gaq.push([‘_trackEvent’, ‘Aulas’, ‘click’, ‘$aNom’, ‘0’]);\"";
-			// $aEnlace = "<a target='_blank' href='https://zoom.us/j/$aZoomID'>$aNom</a>";
-			// $aEnlace = "<a target='_blank' onclick=\"gaReg('$aZoomUrl'); return false;\" href='$aZoomUrl'>$aNom</a>";
-
 		return "<p class='mbr-fonts-style panel-text display-7'>$aEnlace $aPList</p>";
 	}
 		// onclick="gaReg('$id'); return false;"
