@@ -3,7 +3,7 @@
 	include_once 'bdCals.php';
 
 
-	function htmlDeUrl($url) {
+	function getHtml($url) {
 		return file_get_contents($url);
 	}
 	
@@ -22,4 +22,18 @@
 
 
 	// foreach ($calICI->find("div .date") as $el) echo $el->src.'<br>';
+	// 
+	$dom = new DomDocument();
+	$dom->load($filePath);
+	$finder = new DomXPath($dom);
+	$classname="my-class";
+	$nodes = $finder->query("//*[contains(concat(' ', normalize-space(@class), ' '), ' $classname ')]");
+
+
+	//+++
+	include 'includes/simple_html_dom.php';
+
+	$doc = str_get_html($html);
+	$href = $doc->find('.lastPage')[0]->href;
+
 ?>
