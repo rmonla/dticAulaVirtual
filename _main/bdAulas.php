@@ -1,6 +1,6 @@
 <?php 
 
-	$bdPLs = [ // BD de Play Lists de YouTube.
+	$bdPList = [ // BD de Play Lists de YouTube.
 		"1roICI" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
 		"2doICI" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
 		"3roICI" => "PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T",
@@ -13,8 +13,8 @@
 		"3roIEL" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv"
 	];
 
-	$bdZIDs = [ // BD de IDs de Aulas Zoom. 
-		"Estados"      => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
+	$bdZoomDats = [ // BD de IDs de Aulas Zoom. 
+		"aID/Cols"     => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
 		"1roICI"       => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
 		"2doICI"       => [    3      , "96761370074", "98072933701", "92781193701"], // 5
 		"3roICI"       => [    3      , "96761370074", "97101886947", "92955020518"], // 8
@@ -38,36 +38,54 @@
 		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
+	function getZoomDat($aID){
+		global $bdZoomDats;
+		return isset($bdZoomDats[$aID]) ? $bdZoomDats[$aID] : 0;
+	}
+	function getPListID($aID){
+		global $bdPList;
+		return isset($bdPList[$aID]) ? $bdPList[$aID] : 0;
+	}
+	function getPList($aID){
+		$PListID = getPListID($aID);
+		return $PListID ? 
+			" | <a target='_blank' href='https://www.youtube.com/playlist?list=".$PListID."'>Clases_Grabadas</a>" : '';
+	}
+			//"http://www.youtube.com/c/UTNLaRiojaDTIC/playlists" ;
+
 	/**
 	 * Genera el html de enlace de un aula a partir de in ID que se encuentra en la base de datos.
-	 * @param  string $id ID del Aula
-	 * @return string     HTML de acceso al Aula.
+	 * @param  string $aID ID del Aula
+	 * @return string      HTML de acceso al Aula.
 	 */
-	function getAula($id=''){
-		global $bdPLs;
-		global $bdZIDs;
+	function getAula($aID){
+		// ZoomDat
+			$aZoomDat = getZoomDat($aID);
 
-		if (!isset($bdZIDs[$id])) return "<br>ERRORAula<br>";
+		if ( !$aZoomDat ) return "<br>ERRORAula<br>";
 
 		// PlayList
+			$aPList = getPList($aID) ;
 
-		$idP = (isset($bdPLs[$id])) ? $bdPLs[$id] : 0 ;
+		// Estado del Aula
+			$aEst = $aZoomDat[0];
 
-		if ($idP) $idP = "https://www.youtube.com/playlist?list=$idP";
-		else $idP = "http://www.youtube.com/c/UTNLaRiojaDTIC/playlists";
+		// ID del Aula
+			$aZoomID = $aZoomDat[$aEst];
 
-		$idP = " | <a target='_blank' href='$idP'>Clases_Grabadas</a>";
+		// Nombre del Aula
+			$nSep = [' ', ' ', '~', '-'];
+			$nSep = $nSep[$aEst];
+			$aNom = $aID.$nSep.'UTNLaRioja';
 
-		// ID Aula Zoom
-		$idE = $bdZIDs[$id][0];
-		$idZ = $bdZIDs[$id][$idE];
+		// HTML del Aula
+			$aZoomUrl = "https://zoom.us/j/$aZoomID";
+			// $aHtml = "<a target='_blank' href='https://zoom.us/j/$aZoomID'>$aNom</a>";
+			$aHtml = "<a target='_blank' onclick=\"gaReg('$aZoomUrl'); return false;\" href='$aZoomUrl'>$aNom</a>";
 
-		// Retorno HTML Aula
-		$sep = [' ', ' ', '~', '-'];
-		$id = $id . $sep[$idE] . 'UTNLaRioja';
-
-		return "<p class='mbr-fonts-style panel-text display-7'><a target='_blank' href='https://zoom.us/j/$idZ'>$id</a>$idP</p>";
+		return "<p class='mbr-fonts-style panel-text display-7'>$aHtml$aPList</p>";
 	}
+		// onclick="gaReg('$id'); return false;"
 	
 /**
  * Genera el html del grupo de Aulas.
@@ -98,7 +116,7 @@ function getGrupo($grupo='', $titulo='', $aulas=''){
 HTML;
   }
 
-	// echo '<pre>'.print_r( $bdZIDs, true ).'</pre>';
+	// echo '<pre>'.print_r( $bdZoomDats, true ).'</pre>';
 
 	// exit;
 
