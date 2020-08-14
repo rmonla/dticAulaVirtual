@@ -81,7 +81,8 @@
 		// HTML del Aula
 			$aZoomUrl = "https://zoom.us/j/$aZoomID";
 			// $aHtml = "<a target='_blank' href='https://zoom.us/j/$aZoomID'>$aNom</a>";
-			$aHtml = "<a target='_blank' onclick=\"gaReg('$aZoomUrl'); return false;\" href='$aZoomUrl'>$aNom</a>";
+			$aHtml = "<a target='_blank' href='$aZoomUrl'>$aNom</a>";
+			// $aHtml = "<a target='_blank' onclick=\"gaReg('$aZoomUrl'); return false;\" href='$aZoomUrl'>$aNom</a>";
 
 		return "<p class='mbr-fonts-style panel-text display-7'>$aHtml$aPList</p>";
 	}
