@@ -4,7 +4,7 @@
     $grupos = '';
     //Pre-Ingreso
       $aulas = '';
-      $lstA = ['Matemática', 'Física', 'Química']; 
+      $lstA = ['PreIngMat', 'PreIngFis', 'PreIngQui']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('preingreso', 'Pre-Ingreso', $aulas);
   
