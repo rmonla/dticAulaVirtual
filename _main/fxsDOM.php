@@ -2,38 +2,45 @@
 	include_once 'src/simple_html_dom.php';
 	include_once 'bdCals.php';
 
+	header('Content-Type: text/html; charset=utf-8');
+
 
 	function getHtml($url) {
 		return file_get_contents($url);
 	}
 	
-	function domObj($idCal) {
-		return str_get_html(htmlDeUrl(getUrlCal($idCal, 1)));
-	}
+	$calID = 'PREINGRESO';
 
-		// file_get_html(htmlDeUrl(getUrlCal($idCal, 1)));
-	$url     = getUrlCal('ICI', 1);
-	$strHTML = htmlDeUrl($url);
-	$calICI  = str_get_html($strHTML);
+	$html = getHtml(getUrlCal($calID, 1));
 
-	echo '<pre>';
-	var_dump($calICI);
-	echo '</pre>';
+  $doc = new \DOMDocument();
+  @ $doc->loadHTML($html);
 
+  $xpath = new \DOMXpath($doc);
+  $arrDias = $xpath->query('//div[@class="date"]');
 
-	// foreach ($calICI->find("div .date") as $el) echo $el->src.'<br>';
-	// 
-	$dom = new DomDocument();
-	$dom->load($filePath);
-	$finder = new DomXPath($dom);
-	$classname="my-class";
-	$nodes = $finder->query("//*[contains(concat(' ', normalize-space(@class), ' '), ' $classname ')]");
+  foreach ($arrDias as $dia) {
+		$dia  = $dia->parentNode;
+		$eDia = $dia->getElementsByTagName("div")[0]->nodeValue;
+		echo "<br>$eDia<br>";
 
+  	$trs = $dia->getElementsByTagName("tr");
+		foreach ($trs as $ev) {
+			$tds = $ev->getElementsByTagName("td");
+			foreach ($tds as $td) {
+				switch ($td->getAttribute('class')) {
+			    case 'event-time' :
+			      $eHora = $td->nodeValue;
+			    break;
+			    case 'event-eventInfo' :
+			      $eInfo = $td->nodeValue;
+			    break;
+			  }			
+			}
+			echo "$eHora - ".utf8_decode($eInfo)."<br>";
+		}
 
-	//+++
-	include 'includes/simple_html_dom.php';
+  }
 
-	$doc = str_get_html($html);
-	$href = $doc->find('.lastPage')[0]->href;
 
 ?>
