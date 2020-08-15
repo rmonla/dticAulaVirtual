@@ -1,6 +1,13 @@
 <?php 
 
+	$bdNoms = [ // BD de Play Lists de YouTube.
+		"PreIngMat" => "08:00 - Matemática | Marcela SILVA",
+		"PreIngFis" => "10:15 - Física | Rubén FAINSTEIN",
+		"PreIngQui" => "15:30 - Química | Manuel MERCADO"
+	];
+
 	$bdPList = [ // BD de Play Lists de YouTube.
+		"PreIng" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
 		"1roICI" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
 		"2doICI" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
 		"3roICI" => "PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T",
@@ -15,6 +22,9 @@
 
 	$bdZoomDats = [ // BD de IDs de Aulas Zoom. 
 		"aID/Cols"     => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
+		"PreIngMat"    => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIngFis"    => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIngQui"    => [    2      , "96761370074", "97478835879", ""           ], // 18
 		"1roICI"       => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
 		"2doICI"       => [    3      , "96761370074", "98072933701", "92781193701"], // 5
 		"3roICI"       => [    3      , "96761370074", "97101886947", "92955020518"], // 8
@@ -32,12 +42,13 @@
 		"4toIEL"       => [    2      , "96761370074", "97174449400", ""           ], // 13
 		"5toIEL"       => [    2      , "96761370074", "98672429951", ""           ], // 16
 		"6toIEL"       => [    2      , "96761370074", "91937629997", ""           ], // 18
-		"Matemática"   => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"Física"       => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"Química"      => [    2      , "96761370074", "97478835879", ""           ], // 18
 		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
+	function getNom($aID){
+		global $bdNoms;
+		return isset($bdNoms[$aID]) ? $bdNoms[$aID] : 0;
+	}
 	function getZoomDat($aID){
 		global $bdZoomDats;
 		return isset($bdZoomDats[$aID]) ? $bdZoomDats[$aID] : 0;
@@ -76,7 +87,10 @@
 		// Nombre del Aula
 			$nSep = [' ', ' ', '~', '-'];
 			$nSep = $nSep[$aEst];
-			$aNom = $aID.$nSep.'UTNLaRioja';
+			
+			$aNom = ( $aNom = getNom($aID) ) ? "$nSep $aNom" : "$nSep $aID UTNLaRioja" ;
+
+			// $aNom = $aID.$nSep.'UTNLaRioja';
 
 		// Enlace del Aula
 			$aOnClick = "onclick=\"gtag('event', '$aNom', {'event_category': '$aID', 'event_label': '', 'value': '$aNom', 'non_interaction': true });\"";

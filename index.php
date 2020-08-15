@@ -37,6 +37,29 @@
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_0" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
                     
+                    <div class="card"> <!-- Pre-Ingreso -->
+                        <div class="card-header" role="tab" id="headingOne">
+                            <a role="button" class="panel-title collapsed text-black" data-toggle="collapse" data-core="" href="#PreIng_0" aria-expanded="false" aria-controls="PreIng">
+                                <h4 class="mbr-fonts-style display-5">
+                                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                    Pre-Ingreso
+                                  </h4>
+                              </a>
+                          </div>
+                        <div id="PreIng_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
+                            <div class="panel-body p-4">
+                                
+                                <?php  
+                                  echo "<p>".getPList('PreIng')."</p>";
+
+                                  $lstA = ['PreIngMat', 'PreIngFis', 'PreIngQui']; 
+                                  foreach ($lstA as $a) echo getAula($a);
+                                ?>
+
+                              </div>
+                          </div>
+                    </div>
+                    
                     <div class="card"> <!-- Civil -->
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title collapsed text-black" data-toggle="collapse" data-core="" href="#collapse1_0" aria-expanded="false" aria-controls="collapse1">
