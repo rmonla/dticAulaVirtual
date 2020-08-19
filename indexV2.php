@@ -10,19 +10,19 @@
   
     //Ingeniería Civil
       $aulas = '';
-      $lstA = ['1roICI', '2doICI', '3roICI', '4toICI', '5toICI', '6toICI']; 
+      $lstA = ['ICI_1ro', 'ICI_2do', 'ICI_3ro', 'ICI_4to', 'ICI_5to', 'ICI_6to']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('ICI', 'Ingeniería Civil', $aulas);
   
     //Ingeniería Electromecánica
       $aulas = '';
-      $lstA = ['1roIEM', '2doIEM', '3roIEM', '4toIEM', '5toIEM']; 
+      $lstA = ['IEM_1ro', 'IEM_2do', 'IEM_3ro', 'IEM_4to', 'IEM_5to']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('IEM', 'Ingeniería Electromecánica', $aulas);
   
     //Ingeniería Electrónica
       $aulas = '';
-      $lstA = ['1roIEL', '2doIEL', '3roIEL', '4toIEL', '5toIEL', '6toIEL']; 
+      $lstA = ['IEL_1ro', 'IEL_2do', 'IEL_3ro', 'IEL_4to', 'IEL_5to', 'IEL_6to']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('IEL', 'Ingeniería Electrónica', $aulas);
   
@@ -72,7 +72,7 @@
                 <div class="section-head text-center space30">
                     <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2"
                     >Aulas Virtuales - UTNLaRioja</h2>
-                    <div class="align-right"><a href='./'>Ver vers1.0</a></div>
+                    <div class="align-right"><a href='./'>v2.0.2</a></div>
                 </div>
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_0" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">

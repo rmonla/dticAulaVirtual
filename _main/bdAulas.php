@@ -7,41 +7,42 @@
 	];
 
 	$bdPList = [ // BD de Play Lists de YouTube.
-		"PreIng" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"1roICI" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
-		"2doICI" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
-		"3roICI" => "PLSOY8GuPHc0ByljDRcfwjvkYgvEV2c84T",
-		"4toICI" => "PLSOY8GuPHc0BYg076g1CcNPReauxykWTV",
-		"5toICI" => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
-		"1roIEM" => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
-		"2doIEM" => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
-		"3roIEM" => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc",
-		"1roIEL" => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
-		"3roIEL" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv"
+		"PreIng"  => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
+		"ICI_1ro" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
+		"ICI_2do" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
+		"ICI_3ro" => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
+		"ICI_4to" => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
+		"ICI_5to" => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
+		"IEL_1ro" => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
+		"IEL_2do" => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
+		"IEL_3ro" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
+		"IEM_1ro" => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
+		"IEM_2do" => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
+		"IEM_3ro" => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc"
 	];
 
 	$bdZoomDats = [ // BD de IDs de Aulas Zoom. 
-		"aID/Cols"     => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
-		"PreIngMat"    => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"PreIngFis"    => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"PreIngQui"    => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"1roICI"       => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
-		"2doICI"       => [    3      , "96761370074", "98072933701", "92781193701"], // 5
-		"3roICI"       => [    3      , "96761370074", "97101886947", "92955020518"], // 8
-		"4toICI"       => [    3      , "96761370074", "94629812640", "95994613482"], // 11
-		"5toICI"       => [    2      , "96761370074", "99884405368", ""           ], // 14
-		"6toICI"       => [    2      , "96761370074", "95518301143", ""           ], // 17
-		"1roIEM"       => [    3      , "96761370074", "91277544291", "91277544291"], // 3
-		"2doIEM"       => [    3      , "96761370074", "92086937597", "92086937597"], // 6
-		"3roIEM"       => [    3      , "96761370074", "94060234711", "92894001255"], // 9
-		"4toIEM"       => [    2      , "96761370074", "92351175502", ""           ], // 12
-		"5toIEM"       => [    2      , "96761370074", "96665531385", ""           ], // 15
-		"1roIEL"       => [    3      , "96761370074", "92116614010", "92116614010"], // 4
-		"2doIEL"       => [    3      , "96761370074", "96130488690", "96130488690"], // 7
-		"3roIEL"       => [    3      , "96761370074", "98516961454", "98516961454"], // 10
-		"4toIEL"       => [    2      , "96761370074", "97174449400", ""           ], // 13
-		"5toIEL"       => [    2      , "96761370074", "98672429951", ""           ], // 16
-		"6toIEL"       => [    2      , "96761370074", "91937629997", ""           ], // 18
+		"aID/Cols"  => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
+		"PreIngMat" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIngFis" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIngQui" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"ICI_1ro"   => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
+		"ICI_2do"   => [    3      , "96761370074", "98072933701", "92781193701"], // 5
+		"ICI_3ro"   => [    3      , "96761370074", "97101886947", "92955020518"], // 8
+		"ICI_4to"   => [    3      , "96761370074", "94629812640", "95994613482"], // 11
+		"ICI_5to"   => [    2      , "96761370074", "99884405368", ""           ], // 14
+		"ICI_6to"   => [    2      , "96761370074", "95518301143", ""           ], // 17
+		"IEM_1ro"   => [    3      , "96761370074", "91277544291", "91277544291"], // 3
+		"IEM_2do"   => [    3      , "96761370074", "92086937597", "92086937597"], // 6
+		"IEM_3ro"   => [    3      , "96761370074", "94060234711", "92894001255"], // 9
+		"IEM_4to"   => [    2      , "96761370074", "92351175502", ""           ], // 12
+		"IEM_5to"   => [    2      , "96761370074", "96665531385", ""           ], // 15
+		"IEL_1ro"   => [    3      , "96761370074", "92116614010", "92116614010"], // 4
+		"IEL_2do"   => [    3      , "96761370074", "96130488690", "96130488690"], // 7
+		"IEL_3ro"   => [    3      , "96761370074", "98516961454", "98516961454"], // 10
+		"IEL_4to"   => [    2      , "96761370074", "97174449400", ""           ], // 13
+		"IEL_5to"   => [    2      , "96761370074", "98672429951", ""           ], // 16
+		"IEL_6to"   => [    2      , "96761370074", "91937629997", ""           ], // 18
 		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
