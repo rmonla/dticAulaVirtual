@@ -61,7 +61,7 @@
 	function getPList($aID){
 		$PListID = getPListID($aID);
 		return $PListID ? 
-			" | <a target='_blank' href='https://www.youtube.com/playlist?list=".$PListID."'>Clases_Grabadas</a>" : '';
+			"<a target='_blank' href='https://www.youtube.com/playlist?list=".$PListID."'>Clases_Grabadas</a>" : '';
 	}
 			//"http://www.youtube.com/c/UTNLaRiojaDTIC/playlists" ;
 
@@ -76,8 +76,8 @@
 
 		if ( !$aZoomDat ) return "<br>ERRORAula<br>";
 
-		// PlayList
-			$aPList = getPList($aID) ;
+		// Array enlaces.
+			$aEnlaces = [];
 
 		// Estado del Aula
 			$aEst = $aZoomDat[0];
@@ -94,11 +94,19 @@
 			// $aNom = $aID.$nSep.'UTNLaRioja';
 
 		// Enlace del Aula
-			$aOnClick = "onclick=\"gtag('event', '$aNom', {'event_category': '$aID', 'event_label': '', 'value': '$aNom', 'non_interaction': true });\"";
-			$aZoomUrl = "https://zoom.us/j/$aZoomID";
-			$aEnlace = "<a target='_blank' href='$aZoomUrl' $aOnClick>$aNom</a>";
+			$aOnClick   = "onclick=\"gtag('event', '$aNom', {'event_category': '$aID', 'event_label': '', 'value': '$aNom', 'non_interaction': true });\"";
+			$aZoomUrl   = "https://zoom.us/j/$aZoomID";
+			$aZoom      = "<a target='_blank' href='$aZoomUrl' $aOnClick>$aNom</a>";
+			$aEnlaces[] = $aZoom;
+
+		// PlayList
+			$aPList = getPList($aID) ;
+
+			if ( $aPList ) $aEnlaces[] = $aPList;
+
+			$aEnlaces = implode(' ---> ', $aEnlaces);
 			
-		return "<p class='mbr-fonts-style panel-text display-7'>$aEnlace $aPList</p>";
+		return "<p class='align-center' mbr-fonts-style panel-text display-7'>$aEnlaces</p>";
 	}
 		// onclick="gaReg('$id'); return false;"
 	
