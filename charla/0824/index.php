@@ -1,6 +1,6 @@
 <?php 
-	define('URL', '../../');
-	// define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
+	// define('URL', '../../');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	define('URL_IMG', URL.'_img/');
 	
 	$titu = "Charla - Ley Micaela - UTNLaRioja [_24deAgosto-18Hs_]";
