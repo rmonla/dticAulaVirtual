@@ -24,7 +24,7 @@
 
 	function getIframeCal($idcal=''){
 		global $bdCal;
-		return (isset($bdCal[$idcal]))? "<iframe src='".getUrlCal($idcal)."' style='border:solid 1px #777' width='100%'' height='600' frameborder='' scrolling='no'></iframe>" : 0 ;
+		return (isset($bdCal[$idcal]))? "<iframe src='".getUrlCal($idcal)."' style='border:solid 1px #777' width='100%' height='600' frameborder='' scrolling='no'></iframe>" : 0 ;
 	}
 
 	// echo getUrlCal('ICI');
