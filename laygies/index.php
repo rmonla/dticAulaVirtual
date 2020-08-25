@@ -11,6 +11,29 @@
 	$time = 30;
 	$dest = "../laygies";
 
+	/**
+	 * Hoy comenzamos con el cursado de la licenciatura Nodocente desde las 14.
+Este semestre tendremos 4 asignaturas.
+Se organizará de la siguiente manera:
+
+Diseño y Gestión en Proyectos y Programas en IES 
+[Lun de 14 a 16 Hs.] Claudia RESTTIFO
+
+Seguridad y Salud Laboral - Espacio Electivo 
+[Mié de 14 a 15:30 Hs.] Johanna MENDEZ
+
+Legislación y Procedimientos Administrativos 
+[Mié de 15:30 a 17 Hs.] Silvia IANCHINA
+
+Metodología de la Investigación 
+[Vie de 14 a 16 Hs.] Víctor Oliva
+
+*Miércoles de 14 a 15.30 Johanna Mendez: Espacio Electivo- 
+
+*Miércoles de 15.30 a 17 Silvia Ianchina: 
+
+*Viernes de 14 a 16 Víctor Oliva: Metodología de la Investigación
+	 */
 
 	echo <<<HTML
 
