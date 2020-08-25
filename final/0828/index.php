@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	define('URL_IMG', URL.'_img/');
 	
-	$titu = "Final | Proyecto Final | ICI 6to [_28deAgosto-19Hs_]";
+	$titu = "Final | Proyecto Final | ICI 6to [_28_Agosto-19Hs._]";
 	$desc = "Acceso al Aula Virtual";
 	
 	$urlGenialy = "https://view.genial.ly/5f4474b2a629680d72e9e2be";
