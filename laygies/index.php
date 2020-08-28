@@ -1,10 +1,11 @@
 <?php 
+	header('Content-Type: text/html; charset=utf-8');
 	// define('URL', '../../');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/');
 	define('URL_IMG', URL.'_img/');
 	
-	$titu = "Lic. en Administración y Gestión en Instituciones de Educación Superior";
-	$desc = "Aula Virtual [LAyGIES-Mza]";
+	$titu = "AULA [LAyGIES-Mza]";
+	$desc = "Aula Virtual de la Licenciatura NoDocente";
 	
 	$imag = URL_IMG."laygies.jpg";
 
