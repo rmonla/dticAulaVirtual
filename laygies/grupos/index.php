@@ -1,6 +1,6 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/');
 	define('URL_IMG', URL.'_img/');
 	
 	$titu = "GRUPOS [LAyGIES-Mza]";
@@ -11,7 +11,7 @@
 	$time = 1800;
 	$dest = "../grupos";
 
-	
+	http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/grupos?test=01
 
 	echo <<<HTML
 
