@@ -5,7 +5,7 @@
 	define('URL_IMG', URL.'_img/');
 	
 	$titu = "AULA VIRTUAL [LAyGIES-Mza]";
-	$desc = "Aula Virtual de la Licenciatura en Admnistracion y Gestión de Instutuciones de Educación Superior";
+	$desc = "Licenciatura en Admnistracion y Gestión de Instituciones de Educación Superior";
 	
 	$imag = URL_IMG."laygies.jpg";
 
