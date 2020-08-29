@@ -4,8 +4,8 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/');
 	define('URL_IMG', URL.'_img/');
 	
-	$titu = "AULA [LAyGIES-Mza]";
-	$desc = "Aula Virtual de la Licenciatura NoDocente";
+	$titu = "AULA VIRTUAL [LAyGIES-Mza]";
+	$desc = "Aula Virtual de la Licenciatura en Admnistracion y Gestión de Instutuciones de Educación Superior";
 	
 	$imag = URL_IMG."laygies.jpg";
 
