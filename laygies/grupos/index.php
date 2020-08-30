@@ -4,7 +4,7 @@
 	define('URL_IMG', URL.'_img/');
 	
 	$titu = "GRUPOS [LAyGIES-Mza]";
-	$desc = "Grupos y Compañeros de la Licenciatura NoDocente";
+	$desc = "Compañeros y Grupos de la licenciatura NoDocente";
 	
 	$imag = URL_IMG."laygies.jpg";
 
@@ -26,7 +26,7 @@
 		<body>
 			<center>
 				<iframe width="100%" height="100%" 
-					src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDGGZmqZUGDt1A3IXBLf490AJMnlNqzeSkKwHDFO2uElKb7lGKHmbAzRyF68NXgOPZkB6hQ_gEEpLN/pubhtml?gid=245913972&amp;single=false&amp;widget=true&amp;headers=false&amp;chrome=false">
+					src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSDGGZmqZUGDt1A3IXBLf490AJMnlNqzeSkKwHDFO2uElKb7lGKHmbAzRyF68NXgOPZkB6hQ_gEEpLN/pubhtml?single=false&amp;widget=false&amp;headers=false">
 					</iframe>
 			</center>
 		</body>

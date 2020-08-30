@@ -27,9 +27,9 @@
 		<body>
 			<center>
 				<p>
-					<div style="width: 90%;">
-						<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
-							<iframe frameborder="0" width="850px" height="900px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5f3ff198089eb30d797127c9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
+					<div">
+						<div style="position: relative; padding-bottom: 110%; padding-top: 0; height: 0;">
+							<iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5f3ff198089eb30d797127c9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
 						</div>
 					</div>	
 				</p>
