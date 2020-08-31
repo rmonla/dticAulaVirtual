@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v2.8.3";
+    $appVer = "v2.8.4";
 
     $grupos = '';
   
