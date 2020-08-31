@@ -55,7 +55,7 @@
                                 <?php  
                                   echo "<p>".getPList('PreIng')."</p>";
 
-                                  $lstA = ['PreIngMat', 'PreIngFis', 'PreIngQui']; 
+                                  $lstA = ['PreIng_M', 'PreIng_F', 'PreIng_Q']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
@@ -139,7 +139,7 @@
                         <div id="collapse4_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
 
-                                <?php echo getAula('Aula Pública'); ?>
+                                <?php echo getAula("APublica"); ?>
 
                             </div>
                         </div>

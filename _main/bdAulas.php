@@ -1,9 +1,9 @@
 <?php 
 
 	$bdNoms = [ // BD de Play Lists de YouTube.
-		"PreIngMat" => "08:00 - Matemática | Marcela SILVA",
-		"PreIngFis" => "10:15 - Física | Rubén FAINSTEIN",
-		"PreIngQui" => "15:30 - Química | Manuel MERCADO"
+		"PreIng_M" => "08:00 - Matemática | Marcela SILVA",
+		"PreIng_F" => "10:15 - Física | Rubén FAINSTEIN",
+		"PreIng_Q" => "15:30 - Química | Manuel MERCADO"
 	];
 
 	$bdPList = [ // BD de Play Lists de YouTube.
@@ -23,9 +23,9 @@
 
 	$bdZoomDats = [ // BD de IDs de Aulas Zoom. 
 		"aID/Cols"  => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
-		"PreIngMat" => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"PreIngFis" => [    2      , "96761370074", "97478835879", ""           ], // 18
-		"PreIngQui" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIng_M" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIng_F" => [    2      , "96761370074", "97478835879", ""           ], // 18
+		"PreIng_Q" => [    2      , "96761370074", "97478835879", ""           ], // 18
 		"ICI_1ro"   => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
 		"ICI_2do"   => [    3      , "96761370074", "98072933701", "92781193701"], // 5
 		"ICI_3ro"   => [    3      , "96761370074", "97101886947", "92955020518"], // 8
@@ -43,7 +43,7 @@
 		"IEL_4to"   => [    2      , "96761370074", "97174449400", ""           ], // 13
 		"IEL_5to"   => [    2      , "96761370074", "98672429951", ""           ], // 16
 		"IEL_6to"   => [    2      , "96761370074", "91937629997", ""           ], // 18
-		"Aula Pública" => [    2      , "96761370074", "435997049"  , ""           ]
+		"APublica" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 
 	function getNom($aID){
@@ -131,6 +131,28 @@ function getGrupo($grupo='', $titulo='', $aulas=''){
               </a>
           </div>
         <div id="$grupo2" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
+            <div class="panel-body p-4">
+              $aulas
+            </div>
+          </div>
+    </div>
+HTML;
+  }
+
+function getGrupo2($grupo='', $titulo='', $aulas=''){
+    $grupo2 = $grupo . '_0';
+    
+    return <<<HTML
+    <div class="card"> <!-- $titulo -->
+        <div class="card-header" role="tab" id="headingDos">
+            <a role="button" class="panel-title collapsed text-black" data-toggle="collapse" data-core="" href="#$grupo2" aria-expanded="false" aria-controls="$grupo">
+                <h4 class="mbr-fonts-style display-5">
+                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                    $titulo
+                  </h4>
+              </a>
+          </div>
+        <div id="$grupo2" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingDos" data-parent="#bootstrap-accordion_0">
             <div class="panel-body p-4">
               $aulas
             </div>

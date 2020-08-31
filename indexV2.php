@@ -1,18 +1,9 @@
 <?php 
     include_once '_main/fxs.php';
 
+    $appVer = "v2.8.3";
+
     $grupos = '';
-    //Pre-Ingreso
-      $aulas = '';
-      $lstA = ['PreIngMat', 'PreIngFis', 'PreIngQui']; 
-      foreach ($lstA as $a) $aulas .= getAula($a);
-      $grupos .= getGrupo('preingreso', 'Pre-Ingreso', $aulas);
-  
-    //Ingeniería Civil
-      $aulas = '';
-      $lstA = ['ICI_1ro', 'ICI_2do', 'ICI_3ro', 'ICI_4to', 'ICI_5to', 'ICI_6to']; 
-      foreach ($lstA as $a) $aulas .= getAula($a);
-      $grupos .= getGrupo('ICI', 'Ingeniería Civil', $aulas);
   
     //Ingeniería Electromecánica
       $aulas = '';
@@ -27,7 +18,7 @@
       $grupos .= getGrupo('IEL', 'Ingeniería Electrónica', $aulas);
   
     //Octógono
-      $grupos .= getGrupo('OCT', 'Octógono', getAula('Aula Pública'));
+      $grupos .= getGrupo('OCT', 'Octógono', getAula("APublica"));
   
     //Dpto. Carreras a Término
       $grupos .= getGrupo('CATERM', 'Dpto. Carreras a Término', getIframeCal('CATERM'));
@@ -50,7 +41,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/dticAulaVirtual.png" type="image/x-icon">
   <meta name="description" content="">
-  <meta http-equiv="Refresh" content="150"/>
+  <!-- <meta http-equiv="Refresh" content="150"/> -->
   
   <title>Aulas Virtuales - UTNLaRioja</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
@@ -72,13 +63,25 @@
                 <div class="section-head text-center space30">
                     <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2"
                     >Aulas Virtuales - UTNLaRioja</h2>
-                    <div class="align-right"><a href='./'>v2.0.2</a></div>
+                    <div class="align-right"><a href='./'><?php echo $appVer; ?></a></div>
                 </div>
                 <div class="clearfix"></div>
                 <div id="bootstrap-accordion_0" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
                     
                     <?php  
                       
+    //Pre-Ingreso
+
+      echo getGrupo('preingreso', 'Pre-Ingreso', getIframeCal('PREINGRESO'));
+  
+    //Ingeniería Civil
+      $grups = '';
+      $lstGs = ['ICI-1ro', 'ICI-2do', 'ICI-3ro', 'ICI-4to', 'ICI-5to', 'ICI-6to']; 
+      foreach ($lstGs as $a) $grups .= getGrupo2($a, $a, getIframeCal($a));
+      echo getGrupo('ICI', 'Ingeniería Civil', $grups);
+  
+
+
                       echo $grupos;
                     
                     ?>
