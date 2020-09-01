@@ -1,7 +1,7 @@
 <?php 
 	// define('URL', '../../');
-	// define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	// define('URL_IMG', URL.'_img/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/0901');
+	define('URL_IMG', URL.'_img/');
 	
 	$titu = "Curso | Materiales Piezo-magnéticos, Piezoeléctricos Ferróicos y Multi-ferróicos | POSG";
 	$desc = "Acceso al Aula Virtual, inicio 4 Septiembre 17 Hs.";
@@ -13,7 +13,7 @@
 	$time = 1800;
 	$dest = "../0901";
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/0901?1
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/0901?2
 
 	echo <<<HTML
 
