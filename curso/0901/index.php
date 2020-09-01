@@ -2,8 +2,8 @@
 	// define('URL', '../../');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/0901/');
 	
-	$titu = "Curso | Materiales Piezomagnéticos, Piezoeléctricos Ferróicos y Multiferróicos | POSG";
-	$desc = "Acceso al Aula Virtual, inicio 4 Septiembre 17 Hs.";
+	$titu = "Curso | Materiales Piezomagnéticos, Piezoeléctricos Ferróicos y Multiferróicos | POSG | UTNLaRioja";
+	$desc = "Acceso al Aula Virtual [Inicio 4 Septiembre 17 Hs.]";
 	
 	$urlGenialy = "https://view.genial.ly/5f4474b2a629680d72e9e2be";
 	
