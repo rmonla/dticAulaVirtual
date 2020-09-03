@@ -9,7 +9,7 @@
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
-	$imag = URL."imag.jpeg";
+	$imag = URL."imag.jpg";
 
 	$time = 1800;
 	$dest = "../0910";
