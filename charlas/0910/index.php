@@ -5,13 +5,13 @@
 	$titu = "ExpoFuturo2020 | UTNLaRioja";
 	$desc = "Acceso a las Charlas [Inicia 10 Septiembre 18 Hs.]";
 	
-	$genialyID = "5f510a33c763990d055ccaf6";
+	$genialyID = "5f59560e60ac360d7b3fb8ec";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
 	$imag = URL."imag.jpg";
 
-	$time = 1800;
+	$time = 300;
 	$dest = "../0910";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/0910?1
