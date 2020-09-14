@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/');
 	define('URL_IMG', URL.'_img/');
 	
-	$titu = "GRUPOS [LAyGIES-Mza]";
+	$titu = "CONTACTOS [LAyGIES-Mza]";
 	$desc = "Compañeros y Grupos de la licenciatura NoDocente";
 	
 	$imag = URL_IMG."laygies.jpg";
@@ -11,7 +11,8 @@
 	$time = 1800;
 	$dest = "../grupos";
 
-	http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/grupos?test=01
+	//Acceso al archivo del drive. 
+	//https://docs.google.com/spreadsheets/d/1fhDi2_Ax-IgIZUpXLmBiRk0IQ-o9k1JhqtaKRCGfM9E
 
 	echo <<<HTML
 
