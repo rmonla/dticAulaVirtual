@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/laygies/');
 	define('URL_IMG', URL.'_img/');
 	
-	$titu = "CONTACTOS [LAyGIES-Mza]";
+	$titu = "CONTACTOS [ExpoFuturo2020]";
 	$desc = "Compañeros y Grupos de la licenciatura NoDocente";
 	
 	$imag = URL_IMG."laygies.jpg";
@@ -12,6 +12,9 @@
 	$dest = "../contactos";
 
 	$idspreadsheets = "2PACX-1vS81-oewP8sQA3B9lHJeMj_pYxDCu3LkqWbX5cIkt1rjlCfWdfPjjc6uHiQ_1gXnBSgVbhs1-Bi_PJ5";
+
+	//URL Acceso. 
+	//  http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/contactos?1
 
 	//Acceso al archivo del drive. 
 	//https://docs.google.com/spreadsheets/d/1fhDi2_Ax-IgIZUpXLmBiRk0IQ-o9k1JhqtaKRCGfM9E
