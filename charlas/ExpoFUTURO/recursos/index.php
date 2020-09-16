@@ -8,13 +8,14 @@
 	
 	$imag = URL."recursos.png";
 
-	$time = 3;
-	$dest = "https://drive.google.com/drive/folders/1UaKCMzP2p-CtoYjO6iYYRFnbHEQQpq7O";
+	$time = 1;
+	$dest = "https://drive.google.com/drive/folders/1UaKCMzP2p-CtoYjO6iYYRFnbHEQQpq7O?usp=sharing";
 
 	$idspreadsheets = "2PACX-1vS81-oewP8sQA3B9lHJeMj_pYxDCu3LkqWbX5cIkt1rjlCfWdfPjjc6uHiQ_1gXnBSgVbhs1-Bi_PJ5";
 
 	//URL Acceso. 
 	//  http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/recursos?1
+	//  https://drive.google.com/drive/folders/1UaKCMzP2p-CtoYjO6iYYRFnbHEQQpq7O?usp=sharing
 
 
 	echo <<<HTML
