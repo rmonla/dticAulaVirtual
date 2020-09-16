@@ -14,10 +14,8 @@
 	$idspreadsheets = "2PACX-1vS81-oewP8sQA3B9lHJeMj_pYxDCu3LkqWbX5cIkt1rjlCfWdfPjjc6uHiQ_1gXnBSgVbhs1-Bi_PJ5";
 
 	//URL Acceso. 
-	//  http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/contactos?1
+	//  http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/recursos?1
 
-	//Acceso al archivo del drive. 
-	//https://docs.google.com/spreadsheets/d/1fhDi2_Ax-IgIZUpXLmBiRk0IQ-o9k1JhqtaKRCGfM9E
 
 	echo <<<HTML
 
