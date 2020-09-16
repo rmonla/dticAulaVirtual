@@ -7,7 +7,7 @@
 	
 	$imag = URL."contactos.png";
 
-	$time = 1800;
+	$time = 300;
 	$dest = "../contactos";
 
 	$idspreadsheets = "2PACX-1vS81-oewP8sQA3B9lHJeMj_pYxDCu3LkqWbX5cIkt1rjlCfWdfPjjc6uHiQ_1gXnBSgVbhs1-Bi_PJ5";
