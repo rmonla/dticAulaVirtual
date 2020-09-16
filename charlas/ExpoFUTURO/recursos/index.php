@@ -1,7 +1,7 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/');
-	define('URL', SITIO.'contactos/');
+	define('URL', SITIO.'recursos/');
 	
 	$titu = "RECURSOS [ExpoFuturo2020]";
 	$desc = "Presentaciones, Videos, Guiones, etc.";
