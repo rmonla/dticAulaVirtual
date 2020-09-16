@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/contactos/');
 	
 	$titu = "CONTACTOS [ExpoFuturo2020]";
-	$desc = "Compañeros y Grupos de la licenciatura NoDocente";
+	$desc = "Números y datos de contacto de Coordinación";
 	
 	$imag = URL."contactos.png";
 
