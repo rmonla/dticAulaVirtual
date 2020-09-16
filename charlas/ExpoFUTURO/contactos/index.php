@@ -1,12 +1,11 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/contactos/');
-	define('URL_IMG', URL.'_img/');
 	
 	$titu = "CONTACTOS [ExpoFuturo2020]";
 	$desc = "Compañeros y Grupos de la licenciatura NoDocente";
 	
-	$imag = URL_IMG."contactos.png";
+	$imag = URL."contactos.png";
 
 	$time = 1800;
 	$dest = "../contactos";
