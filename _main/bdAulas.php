@@ -7,42 +7,75 @@
 	];
 
 	$bdPList = [ // BD de Play Lists de YouTube.
-		"PreIng"  => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"ICI_1ro" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
-		"ICI_2do" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
-		"ICI_3ro" => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
-		"ICI_4to" => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
-		"ICI_5to" => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
-		"IEL_1ro" => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
-		"IEL_2do" => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
-		"IEL_3ro" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
-		"IEM_1ro" => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
-		"IEM_2do" => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
-		"IEM_3ro" => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc"
+		"PreIng" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
+		"ICI1ro" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
+		"ICI2do" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
+		"ICI3ro" => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
+		"ICI4to" => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
+		"ICI5to" => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
+		"IEL1ro" => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
+		"IEL2do" => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
+		"IEL3ro" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
+		"IEM1ro" => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
+		"IEM2do" => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
+		"IEM3ro" => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc"
 	];
 
+	$bdEstados = [
+		[ 
+			"0=Estado" 
+		],[ 
+			"1=Bloqueda" 
+		],[ 
+			"ICI3ro",
+			"ICI4to",
+			"ICI5to",
+			"ICI6to",
+			"IEM4to",
+			"IEM5to",
+			"IEL4to",
+			"IEL5to",
+			"IEL6to",
+			"APublica",
+			"2=BASIC"
+		],[ 
+			"ICI1ro",
+			"ICI2do",
+			"IEM1ro",
+			"IEL1ro",
+			"IEM2do",
+			"IEM3ro",
+			"IEL2do",
+			"IEL3ro",
+			"PreIng_M",
+			"PreIng_F",
+			"PreIng_Q",
+			"3=PRO"
+		]
+	];
+	
 	$bdZoomDats = [ // BD de IDs de Aulas Zoom. 
 		"aID/Cols" => ["0=Estado" , "1=Bloqueda" , "2=Basic"    , "3=Pro"      ],
-		"ICI_1ro"  => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
-		"ICI_2do"  => [    3      , "96761370074", "98072933701", "92781193701"], // 5
-		"IEM_1ro"  => [    3      , "96761370074", "91277544291", "91277544291"], // 3
-		"IEL_1ro"  => [    3      , "96761370074", "92116614010", "92116614010"], // 4
 		"PreIng_M" => [    3      , "96761370074", ""           , "97478835879"], // 18
 		"PreIng_F" => [    3      , "96761370074", ""           , "97478835879"], // 18
 		"PreIng_Q" => [    3      , "96761370074", ""           , "97478835879"], // 18
-		"IEM_2do"  => [    3      , "96761370074", "92086937597", "92086937597"], // 6
-		"IEL_2do"  => [    3      , "96761370074", "91667813566", "96130488690"], // 7
-		"IEM_3ro"  => [    3      , "96761370074", "94060234711", "92894001255"], // 9
-		"IEL_3ro"  => [    3      , "96761370074", "98516961454", "98516961454"], // 10
-		"ICI_3ro"  => [    2      , "96761370074", "97101886947", "92955020518"], // 8
-		"ICI_4to"  => [    2      , "96761370074", "94629812640", "95994613482"], // 11
-		"ICI_5to"  => [    2      , "96761370074", "99884405368", ""           ], // 14
-		"ICI_6to"  => [    2      , "96761370074", "95518301143", ""           ], // 17
-		"IEM_4to"  => [    2      , "96761370074", "92351175502", ""           ], // 12
-		"IEM_5to"  => [    2      , "96761370074", "96665531385", ""           ], // 15
-		"IEL_4to"  => [    2      , "96761370074", "97174449400", ""           ], // 13
-		"IEL_5to"  => [    2      , "96761370074", "98672429951", ""           ], // 16
-		"IEL_6to"  => [    2      , "96761370074", "91937629997", ""           ], // 18
+		"ICI1ro"   => [    3      , "96761370074", "879934863"  , "92023658063"], // 2
+		"ICI2do"   => [    3      , "96761370074", "98072933701", "92781193701"], // 5
+		"IEM1ro"   => [    3      , "96761370074", "91277544291", "91277544291"], // 3
+		"IEL1ro"   => [    3      , "96761370074", "92116614010", "92116614010"], // 4
+		"IEM2do"   => [    3      , "96761370074", "92086937597", "92086937597"], // 6
+		"IEL2do"   => [    3      , "96761370074", "91667813566", "96130488690"], // 7
+		"IEM3ro"   => [    3      , "96761370074", "94060234711", "92894001255"], // 9
+		"IEL3ro"   => [    3      , "96761370074", "98516961454", "98516961454"], // 10
+		"ICI3ro"   => [    2      , "96761370074", "97101886947", "92955020518"], // 8
+		"ICI4to"   => [    2      , "96761370074", "94629812640", "95994613482"], // 11
+		"ICI5to"   => [    2      , "96761370074", "99884405368", ""           ], // 14
+		"ICI6to"   => [    2      , "96761370074", "95518301143", ""           ], // 17
+		"IEM4to"   => [    2      , "96761370074", "92351175502", ""           ], // 12
+		"IEM5to"   => [    2      , "96761370074", "96665531385", ""           ], // 15
+		"IEL4to"   => [    2      , "96761370074", "97174449400", ""           ], // 13
+		"IEL5to"   => [    2      , "96761370074", "98672429951", ""           ], // 16
+		"IEL6to"   => [    2      , "96761370074", "91937629997", ""           ], // 18
 		"APublica" => [    2      , "96761370074", "435997049"  , ""           ]
 	];
 

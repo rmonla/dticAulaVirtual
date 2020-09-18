@@ -1,0 +1,1651 @@
+ÍNDICE
+UNIDAD 2 ...................................................................................................................................... 2
+Las fases del proyecto. El inicio y la etapa de análisis ................................................................... 2
+Introducción .................................................................................................................................. 2
+2.1. Distintas perspectivas sobre las fases de los proyectos..................................................... 2
+2.1.1 . Veamos algunos enfoques prescriptivos ................................................................... 3
+2.1.2 . Las fases del proyecto. Un enfoque prescriptivo ....................................................... 9
+2.1.3. Algunos enfoques descriptivos de las fases del proyecto ......................................... 12
+2.2. El inicio del proyecto ........................................................................................................ 13
+¿ Cómo finaliza la fase de inicio del proyecto? ................................................................... 15
+2.3 . El análisis ......................................................................................................................... 17
+2.3.1 . El análisis de los participantes .................................................................................. 18
+2.3.2. El análisis de los problemas....................................................................................... 21
+2.3.3 . El análisis de los objetivos ........................................................................................ 24
+2.3.4 . La evaluación de alternativas ................................................................................... 27
+
+UNIDAD 2
+Las fases del proyecto. El inicio y la etapa de análisis
+Introducción
+Los proyectos que logran continuidad van pasando, en forma secuencial, por determinadas fases,
+desde su inicio a su terminación.
+La metodología de marco lógico, que a grandes rasgos guía el desarrollo del texto, se presenta para
+facilitar y mejorar los procesos de toma de decisiones programadas, tal como ocurre en el caso del
+diseño de programas y proyectos. Ella establece que, en el momento inicial de la planificación, se
+deben realizar cuatro procesos básicos de análisis: de los problemas, de los objetivos, de los
+participantes y de las alternativas. Estos cuatro dispositivos de análisis a veces son presentados como
+pasos sucesivos que se ponen en acción. Otras veces se los reconoce como procesos que pueden
+realizarse en forma simultánea
+En esta unidad, en primer lugar se describen las perspectivas prescriptivas y las descriptivas sobre las
+fases de los proyectos, y luego se analizan distintos caminos que se podrían transitar para comenzar
+su diseño. El camino de inicio utilizado no debe modificar el resultado final que debe alcanzar quien
+realiza el diseño: obtener un proyecto apropiado al problema, razonable e inteligente. Posteriormente
+se presentan las particularidades de los procesos de análisis de los participantes, del análisis de
+problemas, del de objetivos y de la evaluación de alternativas. Con estos procesos correctamente
+realizados, se contará con la información necesaria que se requiere para diseñar un proyecto y lograr
+incidir con alto impacto en el problema seleccionado.
+
+2.1. Distintas perspectivas sobre las fases de los proyectos
+Los autores que se dedican al trabajo de diseño y elaboración de proyectos, muestran una amplia
+diversidad en lo que respecta a la forma de presentar los distintos momentos por los que se debe
+realizar un proyecto. Encontramos denominaciones como: fases, proceso, etapas, funciones, etc.
+Además, esta diversidad también se encuentra en la forma de diagramación del proceso global del
+proyecto. La misma puede ser presentado a través de círculo, en el que se prioriza la idea de ciclo y
+retroalimentación, o también puede ser a través de líneas, en el que se resalta la unicidad y su
+necesaria finalización. Esto se debe, a que no es claro si quien piensa al proyecto lo realiza desde su
+análisis y sus ideas pensándolo desde una mirada prescriptiva descriptiva o si está realizando
+apreciaciones de lo que cree que debe suceder, es decir desde una mirada prescriptiva.
+
+Realizar modelos descriptivos de proyectos es pensar a los mismos desde la realidad tal cual es, o por
+lo menos, como la ve quien piensa el proyecto. Se encuentran relacionados directamente con la
+finalidad de la ciencia: la comprensión de la realidad. Recordemos que un conocimiento científico nos
+dota de una explicación descriptiva y analítica de un determinado objeto de conocimiento. Para poder
+llevar a cabo un diseño desde una mirada descriptiva nos preguntaríamos: ¿cómo es usualmente el
+ciclo que cumplen los proyectos? ¿Qué procesos o etapas recorren?
+En lo que respecta a los modelos prescriptivos, éstos se presentan desde la miradas de los autores la
+mejor manera que existe para realizar determinadas tareas o cumplir con determinados
+procedimientos. Establecen normas de comportamiento. Desde esta perspectiva, nos preguntaríamos:
+¿cuáles son las etapas por las que deberían transitar los proyectos?
+En general, los diseños de proyectos se realizan a partir de la perspectiva prescriptiva, ya que,
+permiten determinar sus propias normas de las fases que deben tenerse en cuenta para llevar a cabo
+un proyecto.
+Veremos algunos enfoques prescriptivos para ver cómo deben diseñarse, y además , visualizar cómo
+se diseñan los proyectos en nuestro medio desde una mirada descriptiva
+
+2.1.1 . Veamos algunos enfoques prescriptivos
+Entre los proyectos prescriptivos es normal que se encuentre presente un modelo de comportamiento
+racional, que son los que elaboran tipos ideales de comportamiento de un actor. El tipo ideal
+constituye una construcción mental, un ejercicio artificial de razonamiento que lleva a producir un tipo
+ideal totalmente racional, dejando de lado, incluso en forma voluntaria, las posibles incidencias de la
+contradicción, del conocimiento empírico, los valores, los sentimientos, la tradición, lo irracional y la
+presencia de otros actores que pueden intervenir en el proceso.
+Como vimos en la unidad anterior, existe una manera en que se trabajan las políticas públicas, éstas
+se encuentran vistas desde un enfoque clásico. Siguiendo a Tamayo Sáez (1997), nos dice que:
+Las políticas públicas son el conjunto de objetivos, decisiones y acciones que lleva a cabo un gobierno
+para solucionar los problemas que en un momento determinado los ciudadanos y el propio gobierno
+consideran prioritarios. Desde este punto de vista, las políticas públicas se pueden entender como un
+proceso que se inicia cuando un gobierno o un directivo público detecta la existencia de un problema
+que, por su importancia, merece su atención y termina con la evaluación de los resultados que han
+tenido las acciones emprendidas para eliminar, mitigar o variar ese problema. Planteando el ciclo de
+proyecto de políticas públicas de la siguiente manera:
+
+Fuente: Tamayo Sáez (1997: 282).
+Al observar el esquema se desprende que, el proceso de las políticas públicas tiene un carácter cíclico.
+Esto quiere decir que el gobierno, una vez que lleva a cabo la intervención, realiza una evaluación sobre
+el problema planteado y mediante la observación si se ha finalizado o permanece el problemas se
+pregunta si es necesario continuar. Si la respuesta es afirmativa, se debe realizar un nuevo proceso de
+formulación de alternativas. Los resultados de la política retroalimentan el proceso. En todo caso,
+conviene señalar que el ciclo o proceso de las políticas públicas es una construcción conceptual que no
+tiene por qué ocurrir en la realidad. No todas las políticas públicas de un gobierno siguen este proceso
+en todas sus fases, e incluso con frecuencia algunas políticas alteran el orden del proceso.
+En el siguiente cuadro Tamayo Sáez, expone una serie de preguntas que servirán a la hora de visualizar
+las diferencias entre cada una de las etapas.
+FASES DEL PROCESO DE LA POLÍTICA PREGUNTAS QUE PLANTEA EL ANÁLISIS DE POLÍTICAS
+PÚBLICA
+PÚBLICAS
+
+1. LA DEFINICIÓN DEL PROBLEMA
+
+¿Cuál es el problema? ¿Cuáles son sus dimensiones?
+¿Cuáles son las causas del problema? ¿A quién afecta y
+en qué medida? ¿Cómo evolucionará el problema sino
+actuamos sobre él ?
+
+¿Cuál es nuestro plan para atajar el problema? ¿Cuáles
+deben ser nuestros objetivos y prioridades? ¿Qué
+2. LA FORMULACIÓN DE LAS
+alternativas existen para alcanzar esas metas? ¿Qué
+ALTERNATIVAS DE SOLUCIÓN AL
+riesgos, beneficios y costes acompañan a cada
+PROBLEMA
+alternativa? ¿Qué alternativa produce los mejores
+resultados con los menores efectos negativos?
+
+3.
+LA
+ELECCIÓN
+ALTERNATIVA
+
+DE
+
+4. LA IMPLANTACIÓN
+ALTERNATIVA ELEGIDA
+
+UNA ¿Es viable técnicamente la alternativa seleccionada? ¿Es
+viable políticamente la alternativa seleccionada?
+
+DE
+
+LA
+
+¿Quién es el responsable de la implantación? ¿Qué
+medios se usan para asegurar que la política se lleva a
+cabo de acuerdo al plan previsto?
+¿Podemos asegurar que hemos alcanzado los objetivos?
+
+5. LA EVALUACIÓN DE
+RESULTADOS OBTENIDOS
+
+LOS ¿Qué criterios hay que tener en cuenta para juzgar los
+resultados de la política? ¿Hay que continuar o terminar
+la política? ¿Podemos decir que la política ha sido justa?
+
+Modelo según el BID
+Esta propuesta plantea al proyecto en 6 etapas.
+
+
+Identificación de ideas de proyecto: a partir de una serie de problemas detectados previamente, se
+generan potenciales proyectos para solucionarlos.
+
+
+
+Objetivos: se estipulan en función de cada uno de los proyectos, profundizando el análisis de la
+situación inicial (actual) y los involucrados.
+
+
+
+Diseño: se realiza a partir de la evaluación de posibles alternativas para llevar a cabo el proyecto en
+función a los análisis técnicos, económicos, financieros, sociales, etc.
+
+
+
+Análisis de viabilidad y aprobación del proyecto: es el momento que define la posibilidad de viabilidad
+y a partir de allí se aprueba , para pasar a la siguiente etapa.
+
+
+
+Ejecución: es la etapa propiamente dicha de gestión del proyecto. En esta etapa se planifican en
+detalle las actividades a realizar y recursos a utilizar, así como el seguimiento y control para corregir o
+ajustar la marcha del proyecto.
+
+
+
+Evaluación ex – post: consiste en verificar el logro de los objetivos y los impactos del proyecto.
+Identificación de ideas
+de proyecto
+
+Definición de objetivos
+
+Evaluación ex - post
+
+Diseño
+
+Ejecución
+
+Análisis y aprobación
+Gestión del Proyecto
+
+Preparación
+
+Control
+
+Evaluación
+
+A la etapa de ejecución del proyecto la subdividen en tres fases:
+
+
+Preparación de la ejecución: es la etapa que se encarga de organizar y programar el proyecto a llevar
+a cabo. Aquí se incluye la planificación detallada de los tiempos, costos, recursos y calidad esperada,
+fijando indicadores.
+
+
+
+Control de la ejecución : aquí se asegura el cumplimiento de lo determinado en la fase de preparación
+y ejecución, así como de corregir desvíos, mitigar riesgos y reprogramar actividades
+
+
+
+Evaluación y término del proyecto: tercer y último lugar se realiza el cierre administrativo del
+proyecto, así como la evaluación de los objetivos específicos del proyecto
+
+Modelo del ILPES
+Este modelo establece tres fases consecutivas:
+
+
+Preinversión: consiste en definir un problema y determinar alternativas de solución para el mismo,
+analizarlas y decidir cuál adoptar.
+
+
+
+Inversión: consta del diseño detallado del proyecto y su ejecución / implantación.
+
+
+
+Operación: consiste en la puesta en marcha del proyecto terminado y la generación de los beneficios
+determinados en la primera fase.
+A su vez, cada una de estas fases tiene sus sub – fases o sub – etapas. Este caso, el ciclo de vida
+incorpora la operación posterior a la conclusión del proyecto.
+
+Idea del
+proyecto
+
+Puesta en marcha
+Operación
+
+Operación
+
+Preinversión
+
+Estudio a nivel
+de perfil
+Prefactibilidad
+Factibilidad
+
+Prefactibilidad
+
+Prefactibilidad
+
+Inversión
+Diseño
+Ejecución
+
+Modelo según PMI
+Propone un modelo que consta de cinco grupos de procesos.
+
+
+Inicio: en el cual se determina formalmente el alcance, los objetivos y condiciones generales del
+proyecto. En esta fase se autoriza el comienzo del proyecto.
+
+
+
+Planificación: se define en forma detallada cómo se realizará el proyecto, teniendo en cuenta el
+alcance, los costos, recursos, riesgos, tiempo, calidad, comunicaciones y adquisiciones necesarias.
+
+
+
+Ejecución: cuyo propósito es completar el trabajo definido en la etapa anterior, de forma tal de
+conseguir los objetivos planteados en el proyecto.
+
+
+
+Monitoreo y control. Esta etapa tiene como objetivo medir el desempeño en relación al plan
+establecido previamente, así como aprobar o rechazar cambios e identificar la necesidad de
+implementar acciones correctivas y/o preventivas.
+
+
+
+Cierre: incluye las actividades necesarias para finalizar formalmente el proyecto, ya sea porque se
+entrega el producto / servicio solicitado o porque se cancela el proyecto.
+
+Inicio
+Acta de inicio del proyecto
+Alcance preliminar
+
+Planificación
+
+Seguimiento y control
+Ejecución
+Aprobación /Rechazo de cambios
+de medidas correctivas y preventivas
+Reportes de performance
+Cierre
+Cierre administrativo
+Cierre de contratos
+
+Plan de proyecto
+Alcance
+Estimación / Presupuesto
+Agenda / Cronogramas /Asignaciones
+Análisis de riesgos
+
+Entregables
+Solicitud de cambio
+Implementación de medidas correctivas
+y preventivas
+
+Veamos un cuadro comparativo de los tres modelos, con las características de cada uno que hemos
+visto.
+BID
+
+ILPES
+
+Si
+
+Si
+
+Si
+
+Si
+
+Si
+
+Si
+
+Considera a los proyectos
+acotados en el tiempo
+
+PMI
+
+Determina etapas en la
+formulación y evaluación
+de proyectos
+Definición de problemas
+identificación de
+involucrados /
+beneficiarios
+/externalidades
+
+No lo incluye
+
+Incluida en la etapa de
+
+explícitamente
+
+preinversión
+
+Incluido en el
+establecimiento de
+objetivos
+
+No lo incluye
+
+Incluida en la etapa de
+
+Incluido en la etapa
+
+preinversión
+
+de inicio
+
+No incluido en la
+Definición y selección de
+
+Incluido en las etapas de
+
+Incluida en la etapa de
+
+alternativas
+
+diseño/aprobación
+
+preinversión
+
+definición de
+proyectos. Incluido
+en la gestión de
+portafolio/programa
+
+Diseño del plan detallado Incluido en la etapa de
+
+incluida en la etapa de
+
+del proyecto
+
+inversión
+
+ejecusión
+
+Incluido en las
+etapas de inicio /
+planificación
+Incluido en las
+
+Gestión y control del
+
+Incluido de la etapa de
+
+Incluido en la etapa de
+
+proyecto
+
+ejecución
+
+inversión
+
+etapas de
+ejecución/
+seguimiento y
+control
+
+Cierre administrativo del
+
+Incluido en la etapa de
+
+Incluido en la etapa de
+
+Incluido en la etapa
+
+proyecto
+
+ejecución
+
+operación
+
+de cierre
+
+Operación posterior a la
+conclusión del proyecto
+
+No, aunque en la
+evaluación ex - post
+analiza los impactos
+
+incluido en la etapa de
+operación
+
+No lo incluye
+
+2.1.2 . Las fases del proyecto. Un enfoque prescriptivo
+A continuación les presento un posible modelo prescriptivo, en el mismo consideraremos:
+Fase de inicio: se trata del comienzo del proceso dado que , a partir de una idea se elige uno de los
+problemas en el que se estima necesario y oportuno intervenir mediante un proyecto. En esta fase,
+se realiza un diagnóstico preliminar, un breve análisis de las principales alternativas de acción y una
+identificación general de los destinatarios. Hay que recordar que, en la gestión de proyectos nos
+encontramos con distintas situaciones en lo que respecta a los términos de magnitud y complejidad.
+Los proyectos de gran magnitud, durante el proceso de inicio se irá consolidando el “perfil del
+proyecto” o “anteproyecto”, es decir, una primera versión sintética de sus componentes principales.
+Los proyectos que requieren de la inversión de pocos recursos pueden unificar la fase de inicio con la
+de planificación, por lo que no será necesaria la elaboración de un anteproyecto.
+En la primera instancia de aprobación, se estará dando el visto bueno al anteproyecto y, a la vez, se
+estará asignando la labor de la planificación a un proyectista, quien se responsabilizará de diseñar el
+proyecto, pudiendo ser tanto un sujeto individual, como una organización. En esta aprobación se
+
+establecerán las razones por las que se debe poner en marcha (problema que se quiere solucionar u
+objetivo del proyecto), los destinatarios del proyecto y algunas precisiones sobre sus límites (recursos
+disponibles, tiempos con que se cuenta, etc.). Generalmente, en esta instancia se definen los términos
+de referencia que guiarán la relación entre quien requiere el desarrollo del proyecto y el proyectista.
+La instancia de inicio podrá existir de manera independiente o podrá estar integrada a la de
+planificación, tal como decíamos respecto de los proyectos de poca envergadura. En las fases de
+aprobación estarán presentes cuatro grandes opciones:
+
+
+Seguir adelante con el diseño.
+
+
+
+Cambiar la propuesta.
+
+
+
+Abandonar la idea.
+
+
+
+Demorar el proceso de diseño.
+
+Fase de planificación: se lleva adelante el diseño definitivo del proyecto. Esta fase la dividiremos en
+dos etapas: de análisis y de diseño.
+o
+
+Etapa de análisis: se deberá realizar el estudio de los participantes, de los problemas y de los
+objetivos, así como la evaluación de las alternativas;
+
+o
+
+Etapa de diseño se elaborará la matriz, se establecerán los indicadores, el diseño del
+cronograma, la elaboración del presupuesto, la definición de un sistema de control, entre otros
+componentes.
+
+Esta fase finaliza con una nueva instancia de aprobación, en ella se evalúa el proyecto en su
+consistencia y su viabilidad, y, en caso de aprobarse, se formaliza la decisión. En los organismos
+públicos esto se hará a través de un instrumento legal, como la resolución, el decreto, la ordenanza, la
+ley. Presentar la aprobación como una fase posterior a la de planificación no implica que durante el
+proceso de elaboración del proyecto, de ser posible, no se deban hacer consultas al actor que aprobará
+posteriormente el proyecto. Estas consultas pueden brindar información muy importante al
+proyectista para ajustar progresivamente el proyecto, para que, finalmente, se mejoren sus
+probabilidades de aprobación.
+Fase de implementación: constituye la puesta en acción, la ejecución de cada una de las actividades
+del proyecto. Implica además una labor de comunicación con los actores intervinientes, el
+aseguramiento de la calidad y la gestión de los riesgos del proyecto. Esta fase la sub dividiremos en
+dos etapas:
+o
+
+Inversión: se realizan las contrataciones necesarias y se efectúan las compras de los materiales
+y equipos
+
+o
+
+Operación las actividades del proyecto se ponen en marcha.
+
+Fase de control: se desarrolla cuando se implementan las actividades del proyecto, en la que se debe
+hacer un seguimiento del cumplimiento de las actividades y del logro de los resultados. Claro que,
+como veremos, también podrá realizarse tanto un control previo (al finalizar la etapa de planificación),
+como un control posterior (al finalizar la ejecución).
+Fase de evaluación: es la que dispone de mayor grado de flexibilidad, al presentarse de distintas
+maneras, en función de las particularidades del proyecto, de las necesidades de información de los
+actores intervinientes y de los recursos disponibles. Al momento de la planificación es correcto
+disponer de una instancia de evaluación de la consistencia del proyecto y su viabilidad (evaluación
+previa). La situación será distinta y más discutible al tener que precisarse en qué momentos y con qué
+periodicidad deberán llevarse adelante instancias de evaluación, durante la fase de operación de las
+actividades o al finalizar el proyecto. No es necesario, que la evaluación deba abarcar todo lo que se
+hace, ni que deba estar siempre presente.
+Fase de cierre es el proceso en el que se prepara y ejecuta la terminación de las acciones. Un proyecto
+puede necesitar ser terminado antes de completarse todas las actividades, si ya “no se requiere los
+entregables del proyecto o si resulta obvio que alguno o todos los objetivos no pueden ser alcanzados”.
+Graficamente sería
+INICIO
+Aprobación
+
+PLANIFICACIÓN
+
+Análisis
+Diseño
+
+APROBACIÓN
+Inversión
+EVALUACIÓN
+
+CONTROL
+
+IMPLEMENTACIÓN
+N
+
+Operación
+
+CIERRE
+Fuente : Elaboración propia
+
+Para que un proyecto tenga un buen desempeño, es necesario que las fases del mismo se encuentren
+integradas. Hay que tener en cuenta que al realizar un proyecto para una institución de educación
+superior, debe estar en relación con los objetivos de la institución en la que se implementará. Además,
+cada uno de los actores que intervienen en el mismo, deben estar coordinados en relación a cada una
+de las fases, como tener coherencia en su accionar para el logro del objetivo del proyecto.
+
+2.1.3. Algunos enfoques descriptivos de las fases del proyecto
+Llevar a cabo un proyecto, desde una perspectiva descriptiva, es centrar la atención en lo que
+realmente es, lo que suele ocurrir en la realizad , en lugar de lo que debería ser (modelo prescriptivo).
+Según Charles Lindblom (2010), en los organismos públicos las decisiones del gestor son usualmente
+reacciones ante una situación particular, que llevarán a realizar solo ajustes de las políticas que ya
+están en marcha. No se parte desde cero (desde la raíz), con el diagnóstico del problema a abordar,
+sino que se parte desde lo que ya se está haciendo respecto del tema en cuestión (desde las ramas).
+Desde una mirada descriptiva, y observando lo que sucede en nuestro país, en general los proyectos
+se originan sin llegar a producirse un proceso válido y serio, de análisis de los problemas y de alternativas.
+Por el contrario, las mayoría de las veces, son originados por la idea de la urgencia, se aprueban proyectos
+sobre la base de considerar, especialmente, la relevancia de las actividades que se proponen. El análisis
+consistente del problema a abordar y el de las múltiples opciones alternativas, en muchas ocasiones, no
+existe.
+
+Por otra parte, es habitual que la disposición de información sobre algunos problemas recurrentes, e
+incluso provenientes de bancos de proyectos, motiven en muchos casos acudir a la réplica, con ciertas
+adaptaciones, más que a la generación de procesos de inicio que partan desde cero. El uso de
+proyectos enlatados hace que las fases de inicio y planificación se presenten en forma unificada.
+La fase de retroalimentación del proceso, generalmente, deja mucho que desear en los proyectos de
+nuestro medio. Estos suelen disponer de algún que otro dispositivo de control, pero en muchas
+ocasiones no llega a ser un sistema, sino una serie de dispositivos informales de supervisión de
+actividades desplegadas de manera aislada. Mucho menos habitual es que se realice un proceso de
+evaluación. La fase de evaluación generalmente es pobre, y en la mayoría de los casos inexistente. Esto
+hace que el denominado ciclo con frecuencia no se cumpla. Los dispositivos de control y los de
+evaluación producen poca información; no siempre esta llega a los responsables de la planificación y
+no siempre aquellos toman medidas correctivas o la aprovechan para la mejora de los proyectos.
+Finalmente, hay proyectos que tampoco cumplen con la idea de temporalidad y de cierre. Se crean sin
+definir el momento de terminación, e incluso se dispone que el objetivo sea permanecer más allá de
+los cambios de gobierno, para transformarse en políticas de Estado. La no especificación de tiempo,
+no condice con lo que se caracteriza por tener un proyecto, dado que éstos deben ser puntuales y
+tener límites de tiempo.
+Veamos cómo resultaría gráficamente las fases de un proyecto si le incorporamos los interrogantes
+que nos proporcionan los enfoques descriptivos.
+
+INICIO -FORMACIÓN
+Aprobación
+PLANIFICACIÓN
+
+APROBACIÓN
+
+EVALUACIÓN
+
+CONTROL
+
+IMPLEMENTACIÓN
+N
+CIERRE
+
+2.2. El inicio del proyecto
+¿Cómo comenzar el diseño de un proyecto?. Una de las cosas a tener en cuenta, es que no hay una única y
+mejor manera de empezar el diseño que sea aplicable a todas las situaciones en las que se encuentra el
+actor que va a emprender la elaboración de un proyecto. De hecho, los proyectos se inician atravesando
+distintos caminos y entendemos que no es sustantivo establecer desde dónde se debe comenzar, sino cómo
+debe ser el proceso de gestión del diseño y cuál debería ser el producto final diseñado. Veamos a
+continuación, estos distintos caminos
+Un camino es el que comienza con el análisis de los problemas. Es el que proponen el enfoque clásico y,
+además, las metodologías participativas de diseño de proyectos. En ocasiones, motivados por una
+oportunidad de financiamiento, desde una organización de la sociedad civil o desde alguna de las unidades
+del Estado, se convoca a la ciudadanía o a los vecinos de determinado barrio para analizar los problemas.
+Una vez que se los analiza, se selecciona uno de ellos. Se lo define correctamente y pasa a ser el problema
+central del proyecto.
+Los primeros pasos para el diseño de proyectos: Camino 1
+
+1. PROBLEMAS
+
+2. OBJETIVOS
+
+3.ALTERNATIVAS
+
+4. ACTIVIDADES
+
+A nivel organizacional, como se puede observar en el gráfico un camino podría comenzar cuando el directivo
+(o su equipo de trabajo) percibe, o es empujado a percibir, que algo no anda bien. O por propia iniciativa o
+por demandas externas (demandas sociales o que le llegan jerárquicamente), el funcionario se encuentra
+con que alguno de los problemas que le competen a su unidad organizativa debe ser enfrentado.
+
+Los primeros pasos para el diseño de proyectos: Camino 2
+
+1. OBJETIVOS
+
+2.PROBLEMAS
+
+3.ALTERNATIVAS
+
+4. ACTIVIDADES
+
+En este camino se produce cuando se inicia el proceso de toma de decisiones con la definición de una
+imagen, con un deseo de estado de situación futura. En lugar de comenzar por detectar el problema, lo que
+se visualiza es una situación determinada que nos interesa alcanzar en el futuro. Por ejemplo: “vivir en una
+sociedad sin violencia familiar”. Definida esa situación futura, debemos analizar cuál es la situación presente
+(el diagnóstico). Detectaremos así la brecha entre situación deseada y situación presente (los problemas),
+y analizaremos luego las alternativas a seguir, tal como en el caso anterior. Este es el camino elegido desde
+la habitual metodología de diseño de planes estratégicos participativos. En el caso de un plan estratégico
+participativo de una ciudad, el primer paso será entonces que la ciudadanía considere, a través de espacios
+participativos, cómo querría que fuese la ciudad en donde vive, en un término de diez o veinte años. Si es
+un plan estratégico de una organización, la pregunta será la misma, aunque usualmente el plazo suele ser
+menor.
+Los primeros pasos para el diseño de proyectos: Camino 3
+
+1. ACTIVIDADES
+
+2. ALTERNATIVAS
+
+3.OBJETIVOS
+
+4. PROBLEMAS
+
+Este camino comienza a partir de una idea, por ejemplo “Qué bueno que sería abrir un centro de
+participación en el barrio”, “¿Y si realizamos un video sobre planificación familiar y lo disponemos en los
+centros barriales de salud?”, “¿Qué les parece si hacemos en la facultad una encuesta para medir el grado
+de satisfacción de los estudiantes con los servicios que brinda en función de becas?. Las ideas que se nos
+ocurren, generalmente están relacionadas con actividades concretas, como se observa en los ejemplos
+anteriores. Otras veces, la actividad viene definida en forma externa a la unidad de gestión. Por ejemplo:
+
+el decano quiere que empecemos a realizar talleres para armar el presupuesto en forma participativa. Otra
+dato a tener en cuentan, es que hay posibilidades de disponer de recursos externos, pero que solo van
+dirigidos a financiar determinadas actividades. Por ejemplo, cuando entidades externas como puede ser el
+BID, la UNESCO , realizan financiación para que los gobiernos puedan llevar a cabo algunas actividades,
+como vemos estas ya están determinadas. En estos casos un tanto rígidos, pero usuales, el diseño del
+proyecto va a tener que empezar precisamente por las actividades. A partir de ellas, uno se preguntará:
+¿qué resultados generará? ¿Cuál de los múltiples problemas que tenemos podría ser atacado con dicha
+actividad?
+Los dos primeros caminos son, usualmente, los que se siguen desde un enfoque prescriptivo. Mientras que
+el tercer camino suele presentarse en los hechos. Lo detectaríamos a partir de hacer un análisis descriptivo
+de cómo suele iniciarse el diseño de los proyectos.
+En conclusión, elegir el camino a llevar a cabo va a depender de las circunstancias específicas de cada
+proyecto. Si elegimos algún camino, el primero es el más adecuado para diseñar u proyecto, mientras que
+el segundo sería más conveniente para un plan estratégico, dado que el realizar un análisis de problemas o
+la visualización de una situación determinada a futuro nos permiten ir más allá de las actividades concretas.
+Ahora bien, si se desea trabajar sobre situaciones especiales o para rediseñar un proyecto, el tercer camino
+es la opción más adecuada. De todos modos, mas allá del camino a seguir, es claro que se deberá realizar
+el resto de los pasos necesarios para completar el proyecto.
+Veamos otro ejemplo, en este caso desde la música. ¿ cómo se compone una canción? ¿Hay recetas? ¿Se
+compone primero la introducción y luego el resto del tema? ¿Primero la letra o primero la música? Los
+invito a ver este capítulo del Programa Cómo hice, del canal Encuentro, dirigido por Emilio Del
+
+Guercio.
+
+Capítulo:
+
+El
+
+momento
+
+en
+
+que
+
+estás
+
+(Presente)
+
+http://encuentro.gob.ar/programas/serie/8037/471?temporada=1
+
+¿ Cómo finaliza la fase de inicio del proyecto?
+El poder pasar de una idea a un anteproyecto es todo un logro, dado que el hecho de comenzar con una
+idea, analizarla y ordenarla implica superar barreras básica, muchas veces propias, de poder concretar
+nuestros deseos o ideas que tuvimos en mente por mucho tiempo.
+Desde lo formal, esta fase finaliza con la presentación de un documento, en el que se encuentran las ideas
+centrales del anteproyecto. Para realizar el documento, es necesario contar con un análisis de:
+
+o
+
+El problema a resolver.
+
+o
+
+Las principales alternativas a seguir.
+
+o
+
+Los destinatarios del proyecto.
+
+o
+
+Las posibles actividades a implementar y, a grandes rasgos, la factibilidad de llevarlas a cabo.
+
+o
+
+El tiempo estimado de duración del proyecto.
+
+o
+
+El equipo de gestión del proyecto.
+
+o
+
+Los recursos estimados de los que podrá disponerse.
+
+Si esta idea se tratara de una intervención en un determinado contexto, se podrá agregar un primer
+análisis de viabilidad de algunas o de todas las actividades que se implementarán. Toda esta
+información conformará lo que se denomina anteproyecto o perfil del proyecto. Este será el
+documento a entregar de la primera fase, que estará a consideración de la autoridad competente.
+Como ya vimos, tras considerarse el anteproyecto se presentarán al menos cuatro grandes
+alternativas:
+o
+
+Desaprobación: implica un abandono, al menos momentáneo, de la idea del proyecto.
+
+o
+
+Revisión: consiste en la necesidad de modificar algunos de los componentes del anteproyecto
+y ponerlos nuevamente a consideración.
+
+o
+
+Postergación: constituye un tipo de desaprobación, dado que, aunque el anteproyecto se
+considera apropiado, se decide no continuar con la etapa de planificación hasta tanto se
+modifique alguna situación.
+
+o
+
+Aprobación: implica la aceptación para que se continúe con la fase siguiente, de planificación
+del proyecto. Al aprobarse el anteproyecto, se estará asignando a un sujeto la responsabilidad
+de la planificación global y completa del proyecto: el proyectista.
+
+Como hemos visto, la idea contempla únicamente aspectos muy generales del proyecto, como una
+propuesta de actividades a desarrollar, objetivo y destinatarios, la que también puede ser evaluada.
+Si esto sucede, se estaría aprobando así un paso previo a la realización del anteproyecto.
+Siguiendo a Cohen y Martínez (2002), a medida que se pasa de una fase a otra, se obtiene mayor
+información sobre el proyecto, pero, a la vez, va aumentando el costo del análisis realizado. Por
+consiguiente, en cuanto uno entienda que la idea no es buena, será correcto dejarla de lado
+inmediatamente.
+
+2.3 . El análisis
+Es la primer etapa de la planificación, en la que se realizan acciones para obtener un buen diagnóstico
+de la situación, un claro objetivo y un correcto estudio de las alternativas a seguir.
+Una vez que se encuentre aprobado el anteproyecto, será el momento de profundizar en el análisis
+de la situación y de la propuesta a seguir, de manera de planificar correctamente el proyecto y contar
+con información suficiente para la toma de decisiones.
+A continuación, nos detendremos en la presentación de los instrumentos de análisis que establece la
+metodología de marco lógico y que utilizaremos:
+
+17
+
+Análisis de los participantes
+Tipos de estudios
+
+Análisis de los problemas
+Análisis de los objetivos
+Evaluación de las alternativas
+
+Cada uno de estos instrumentos permite que sean planteados en diferentes grados de profundidad.
+Esto lo determinarán las características que cada proyecto presente. Es claro que aquellos proyectos
+más complejos requerirán de un análisis más profundo, que los de menos complejidad. Hay que tener
+en cuenta, que a mayor grado de impacto social esperado, mayor deberá ser la profundización del
+diagnóstico de la situación y el estudio de las opciones de intervención. Cada paso en la profundización
+del análisis reducirá los niveles de incertidumbre, pero claro que a costa de aumentar los recursos
+destinados para esta labor. Veamos cada uno de ellos.
+
+2.3.1 . El análisis de los participantes
+Realizar el análisis de los participantes, requiere llevar a cabo la identificación de los destinatarios y el
+análisis de los actores intervinientes. Según Ortegón, Pacheco, Prieto (2005), el análisis de los
+involucrados se encuentra presente a lo largo del diseño y ejecución del proyecto jugando un papel
+importante en la selección de las estrategias y en el monitoreo y evaluación del mismo.
+Entonces, realizar el análisis de los participantes permite llevar a cabo un diagnóstico sobre los
+diferentes actores sociales que se encuentran implicados en la realidad en que se va a intervenir, y
+ayuda a poder definir con más claridad la población beneficiaria del proyecto y al resto de los
+afectados, positiva o negativamente por esa intervención.
+Los destinatarios del proyecto
+Al momento de llevar a cabo el análisis de los participantes, es necesario delimitar quiénes son los
+destinatarios del proyecto. Esta definición y caracterización luego será incorporada al diseño oficial del
+proyecto.
+Una de los temas a tener en cuenta, es la concepción política y los principios que guían cada proyecto
+ya que estas miradas harán que se considere de distintas maneras a la población destinataria. No es lo
+mismo tenerla como objeto receptor de un bien o servicio, que debe estar agradecido con el actor que
+lo provee, que considerar a la población destinataria como un sujeto activo y reflexivo, que participa
+de las acciones en un plano de igualdad. Los dos proyectos tienen población destinataria, pero lo que
+se modifica es la concepción predominante sobre los sujetos.
+
+18
+
+Entonces ¿quién es la población destinataria de un proyecto? es la población a la que están dirigidas
+las actividades del proyecto. Un concepto clave para la definición de la población destinataria es el de
+focalización. Con una buena focalización, el proyecto podrá centrar sus actividades y resultados en la
+población sobre la cual quiere efectivamente intervenir.
+Por una parte, se hace necesario establecer el perfil de los destinatarios directos (por ejemplo,
+mujeres embarazadas radicadas en barrios con Necesidades Básicas Insatisfechas [NBI]). En segundo
+término, debemos hacer el cálculo del número de los destinatarios indirectos del proyecto. Siguiendo
+el ejemplo anterior podríamos tener dos opciones: 1) considerar como destinatario indirecto al resto
+de las mujeres de los barrios en donde vamos a realizar las actividades, o 2) considerar como
+destinatarios indirectos a los grupos familiares en los que se encuentra la mujer embarazada. Veamos
+un ejemplo:
+Un proyecto dirigido a la capacitación de los docentes de una determinada carrera tendrá como
+destinatarios directos a un cierto número de docentes. A nivel indirecto, seguramente generará
+impactos positivos también en los estudiantes de la carrera. Ese total de estudiantes de la carrera
+también debe cuantificarse en forma precisa. Además, uno podría considerar como destinatario
+indirecto al grupo familiar de cada docente. Es, en cada caso, una elección de quien diseña el proyecto.
+El planteo de focalización de los proyectos, se encuentra muy cuestionada, pero creo que para lograr
+resultados equitativos, en las políticas universales (por ejemplo, el servicio de educación primaria) la
+focalización de los proyectos ayuda mucho. Siguiendo con el ejemplo, para garantizar que se cumpla
+el derecho a la educación primaria (un servicio), muchas veces es necesario disponer de proyectos
+focalizados que se dirijan en particular a quienes no llegan a acceder a la escuela; o acceden, pero
+desertan; o tienen alto nivel de repitencia. Bien planificadas, son alternativas de intervención
+complementarias; no son excluyentes.
+Cohen y Martinez (2002), plantean que hay dos situaciones en las que no es recomendable focalizar:
+
+
+Cuando la probabilidad de impacto sobre el problema depende de la incorporación de otros
+sectores como beneficiarios, aun cuando los productos distribuidos a cada uno sean
+diferenciados. Por ejemplo, no es factible detener la pandemia del SIDA si no se sensibiliza a
+toda la sociedad y se divulgan las formas de evitar el contagio.
+
+
+
+Cuando hacerlo es más caro que distribuir los productos universalmente. Por ejemplo, la
+distribución de vacunas y/o medicamentos ante una epidemia (Cohen y Martínez, 2002: 10)
+
+Un concepto muy útil en el diseño y evaluación de proyecto es el de cobertura. De acuerdo con Cohen
+y Martínez (2002: 9), la cobertura mide la relación entre la población destinataria del proyecto y el
+número de personas efectivamente atendidas en un determinado momento.
+
+19
+
+Cobertura = Cantidad de personas atendidas
+
+x 100
+
+Cantidad de población destinataria
+Un proyecto de alfabetización podría partir de la base de calcular que existen 200 personas adultas
+analfabetas en un barrio pero, por distintas razones, a un año de implementarse el proyecto solo
+alcanzar a 50 de ellas. En ese caso, la cobertura será del 25%. Al momento de diseñar el proyecto, se
+podrá hacer una estimación de cómo se irá avanzando gradualmente en el grado de cobertura.
+Nota: para ampliar sobre este tema pueden hacerlo en: Cohen, E y Martinez, R (2002). Manual de
+Formulación, evaluación y monitoreo de proyectos sociales. CEPAL. Santiago de Chile, capítulo 2. En el
+siguiente
+
+enlace:
+
+http://files.ujghpee.webnode.com/200000191-
+
+c6b90c7b32/Manual%20Formulacion%20Evaluacion%20y%20Monitoreo%20de%20Proyectos.pdf
+Los actores intervinientes
+El análisis de los participantes también ha sido identificado como el estudio de los grupos relevantes,
+grupos de intereses o actores intervinientes. A partir de este análisis, suele elaborarse un gráfico
+denominado “mapa de actores” en el campo de las políticas públicas, o sociograma, en el de la
+sociología.
+Podemos describir a los actores del proyecto según sean:
+
+
+Afines: son los que se encuentran de acuerdo con el fin que persigue el proyecto, con su
+objetivo central, con la metodología de trabajo, con los valores del equipo directivo
+
+
+
+Opuestos: son los que no estarán a favor de la intervención y cuáles son los motivos que
+determinan este comportamiento
+
+
+
+Indiferentes: son los que no muestran ningún tipo de interés en el proyecto, no les interesa
+modificar absolutamente nada y no quieren ser partícipes
+
+Tanto durante el diseño del proyecto como en su implementación, el equipo de gestión podrá llevar
+adelante conversaciones y negociaciones con todos estos actores, a fin de facilitar la implementación.
+Con los actores afines será más factible alcanzar acuerdos de cooperación; con los indiferentes, se
+podría llegar a visualizar la posibilidad de que tengan un rol activo; mientras que con los posibles
+opositores, si existen condiciones básicas, también se pueden generar espacios de comunicación
+donde, al menos, se intercambien ideas sobre las motivaciones de cada uno, y hasta se lleguen a
+flexibilizar las posiciones, que muchas veces, a primera vista, se plantean como chocantes e
+irreconciliables.
+Una de las cosas a tener en cuenta al momento de gestionar un proyecto es la de disponer de una
+estrategia de comunicación y de acción diferenciada con cada uno de los actores intervinientes. En ella
+se deberán considerar los requerimientos, las expectativas y el rol que asume cada uno. Recordemos,
+20
+
+que tanto los problemas públicos como las organizaciones son complejas, ya que conviven distintas
+posiciones
+Generalmente, los actores rara vez tienen en claro, y en forma ordenada, sus propios objetivos.
+Muchas veces estos objetivos no se presentan de manera explícita, o son confusos o contradictorios.
+Esto hace que no deban despreciarse las instancias de diálogo, incluso entre actores que suelen
+presentarse como antagónicos.
+Otro punto a tener en cuenta es que somos el único actor que intervendrá frente a un determinado
+problema. En la gran mayoría de los problemas públicos intervienen distintas agencias
+gubernamentales, de distintos niveles de gobierno e incluso de distintas secretarías de una misma
+instancia estatal. Incluso es probable que intervengan organizaciones sociales de muy distinta
+caracterización.
+Además, los actores son dinámicos y cambiantes, dado que con el paso del tiempo, el mapa de actores
+se va modificando. Ellos cambian en la medida en que avanzan los proyectos, con las modificaciones
+del contexto, con la renovación de sus directivos, con la de los interlocutores de cada organización,
+entre tantas otras variables. A veces es solo cuestión de esperar un tiempo para que varíen las
+condiciones y se generen nuevas oportunidades para el diálogo y el trabajo colaborativo.
+El estudio de los destinatarios constituye un análisis que posteriormente se incorporará en el diseño
+del proyecto. Salvo que la entidad que aprueba y/o financia el proyecto lo requiera, el análisis de los
+actores intervinientes no es recomendable integrarlo a la documentación oficial del proyecto, dado
+que constituye un instrumento de trabajo interno y, llegado el caso, hasta de carácter confidencial.
+
+2.3.2. El análisis de los problemas
+Se pueden utilizar dos grandes vías para la selección del problema en que se intervendrá con un
+proyecto: la vía completa y la vía rápida.
+La vía completa constituye una secuencia de acciones que dan la idea de un inicio desde cero, mientras
+que la vía rápida presupone que ya se ha seleccionado un problema, por lo que solo resta analizarlo y
+definirlo correctamente. Existen distintas metodologías y variantes que se utilizan para el análisis y la
+selección de problemas. A continuación veremos un ejemplo de vía completa:
+El Ministerio de Educación de la provincia de Mendoza dispone la financiación de proyectos de mejora
+educativa elaborados por las propias escuelas. En la Escuela 4-050, de la provincia de Mendoza, la
+directora organiza un taller para el equipo docente, que se desarrollará de la siguiente manera:
+Listado de los problemas. En una escuela existe una amplia diversidad de problemas y la idea de esta
+instancia de práctica es la de enumerarlos. ¿Qué problemas tiene hoy la escuela? Se puede utilizar para
+esta labor la técnica de la lluvia de ideas. En la lluvia de ideas, con un diseño de mesa redonda, cada
+
+21
+
+participante tendrá la palabra para nombrar alguno/s de los problemas. El coordinador debe cuidar
+que todos participen y dejar en claro que se trata solo de una enumeración de problemas. No se
+jerarquizan, ni se explican más de lo necesario para que quede en claro de qué problema se trata. Estos
+problemas se escriben en una pizarra para que luego puedan estar a la vista de todos y se identifican
+con un número o letra. El coordinador deberá promover que no se relacione el problema con la
+persona que lo sugirió, sino que se lo identifique en forma neutral.
+Priorización de los problemas. Constituye una valoración de los problemas en función de criterios que
+deberán establecerse en cada caso. Entre estos criterios podría considerarse la importancia, la
+intensidad del problema, la urgencia, el número de afectados, el impacto a largo plazo en la gestión
+escolar, etc. Para esta labor, no será útil el dispositivo de la lluvia de ideas, ya que generalmente es
+necesario el diálogo, para profundizar el análisis de cada uno de ellos.
+Selección del problema. Uno podría presuponer que el problema priorizado es el que se debe
+seleccionar, pero no es así. Al momento de seleccionar el problema a abordar, se debe considerar
+también qué tipo de problema se puede y se quiere atacar desde la escuela y cuáles, no. Podría ser
+que se seleccione como problema prioritario “los niveles crecientes de deserción”, pero que este ya
+sea un problema que la escuela está trabajando con otro proyecto. También podría ser que uno de los
+problemas detectados se origina a su vez en la situación de pobreza del barrio, el cual excede
+ampliamente las posibilidades de intervención con un proyecto de una escuela. De esta manera, se
+irán dejando de lado los problemas priorizados, pero no factibles de abordar. Y nos quedaremos con
+un problema central, que deberá definirse, acotarse en forma precisa.
+Análisis y definición del problema. Seleccionado el problema central, los pasos siguientes serán
+definirlo, precisarlo y analizarlo. Desde ya que, cuanto más se conozca sobre el problema, mayor será
+la posibilidad de definirlo y analizarlo correctamente.
+La vía rápida se ejemplifica en el siguiente caso. Desde el Ministerio de Educación se dispone que se
+destinen recursos para el financiamiento de proyectos diseñados por las escuelas y dirigidos a la
+mejora de la convivencia escolar. En la Escuela 4-050, la directora convoca a un taller al equipo docente
+y éste centra su foco de análisis en las dificultades que existen en la escuela respecto de la convivencia,
+sin necesidad de empezar haciendo el listado de todo los problemas, la priorización y la selección.
+Así, el diagnóstico se hace de manera focalizada. Se centra la acción en el cuarto paso, de análisis y
+definición del problema. Como vimos en la unidad anterior, sea a través del cumplimiento de una u
+otra secuencia, lo importante es que se llegue a analizar seriamente el problema a abordar y se diseñe
+un proyecto razonable y correctamente enfocado para intervenir en una problemática en particular.
+A continuación, veamos algunas preguntas significativas que deberían tenerse en cuenta al momento
+de definir correctamente un problema, para ello continuaremos con el ejemplo de convivencia escolar:
+
+22
+
+¿Cuáles son los principales problemas de convivencia que se registran en la escuela?
+¿Se producen en algunos cursos más que en otros? ¿En cuáles? ¿Varían de acuerdo
+con los cursos? ¿Cuáles son los problemas más característicos en cada uno de ellos?
+¿Entre quienes se manifiestan? ¿Se han detectado hechos de discriminación? ¿De
+qué tipo? ¿Estos hechos se dan solo entre los alumnos o también entre docentes y
+alumnos y entre los propios docentes?
+¿Cuáles son los prejuicios que operan detrás de estos hechos? ¿En qué ámbitos se
+producen con mayor frecuencia estas situaciones (en los recreos, en el aula)? ¿Qué
+porcentaje de estos hechos se han resuelto en forma pacífica y qué porcentaje han
+derivado en situaciones de violencia? ¿Qué tipos de diferencia generan un mayor
+nivel de conflicto (socio-económicas, culturales, étnicas, religiosas, de género,
+orientación sexual, aspecto físico, etcétera)?
+¿En qué medida estos problemas de convivencia son retomados desde la enseñanza
+de las áreas? ¿De qué manera impactan en las propuestas de enseñanza?
+Para relevar esta información se podrán realizar observaciones de clase, de los
+recreos, entrevistas a estudiantes, sus familias, docentes, analizar los libros de texto
+y otros recursos que se utilizan, etc. Una vez analizada la misma, es posible formular
+el problema de un modo más preciso. Para el ejemplo en cuestión podría ser: El
+mayor porcentaje de problemas de convivencia se produce entre los alumnos de los
+últimos años. En un gran porcentaje se trata de actos de discriminación hacia los
+alumnos pertenecientes a otras nacionalidades. Un alto (x) porcentaje de situaciones
+derivan en hechos de violencia entre pares, sobre todo a la salida de la escuela
+Una vez definido el problema, es preciso dar un paso más en el análisis y obtener unas primeras
+explicaciones acerca de por qué se produce el problema. ¿Cuáles son sus causas? ¿Qué hipótesis se
+pueden plantear? Al respecto, más que considerar la especificidad de la situación particular del caso,
+la primera acción es conocer las investigaciones que existan sobre las causas que suelen producir el
+problema seleccionado. Tal como vimos con anterioridad, sería de esperar que la situación tenga
+algunas particularidades que se deben considerar, pero la detección de la particularidad no debe
+llevarnos a dejar de lado la generalidad. Seguramente, en el problema también inciden causas
+detectadas en investigaciones realizadas en otros casos, en otros ámbitos y/o en otros tiempos. Tener
+en cuenta estas investigaciones es signo de conocimiento del campo de actuación por parte de quien
+diseña el proyecto.
+
+23
+
+El árbol de problemas
+Para abordar este punto los invito a ver los siguientes video , que nos ayudaran a entender esta
+herramienta:
+Qué es el Árbol de Problemas: Concepto, componentes y Ejemplo
+https://www.youtube.com/watch?v=tnHhXtoNSFc
+Árbol de problemas: https://www.youtube.com/watch?v=w1W0Mewowv0
+
+Para tener en cuenta:
+Es recomendable no atacar todas las causas del problema, sino solo las que tienen mayor relevancia,
+dejando así de lado aquellas que producen un impacto marginal. De esta manera se podrían utilizar
+los recursos “ahorrados” para atacar otros de los múltiples problemas en los que seguramente nuestra
+unidad de gestión debe intervenir. Con esta afirmación lo que estamos haciendo es salir de “la lógica
+del proyecto” y considerar también “la lógica del plan de acción”, o la lógica de una unidad de gobierno,
+ampliando así la mirada, el enfoque de análisis. Está claro que hay excepciones. Existen problemas
+puntual es que, de no ser abordados desde todas sus causas, no se solucionan.
+Una vez que hemos decidido cuáles causas son las que creemos estratégicas y podemos atacar, pasamos
+a llamarlas nuestros “puntos de ataque” y las trasladamos al árbol de objetivos como “resultados” del
+proyecto.
+
+2.3.3 . El análisis de los objetivos
+Siempre que planifiquemos una acción a futuro, de alguna manera, estaremos haciendo una
+simplificación de la realidad, la que nos permite reducir variables y acotar objetivos. Es en este marco
+social u organizacional en que el diseño de planes y proyectos, con objetivos acotados y explícitos, es
+todo un desafío. Veamos a continuación de qué manera se puede realizar el diseño del árbol de
+objetivos a partir del árbol de problemas.
+Árbol de objetivos https://www.youtube.com/watch?v=d9mPMLGy3D4
+Como hemos podido observar en el video, se trata de un mero traslado de información, ya que solo se
+debe modificar la redacción de las frases, sin llegar a incluir ideas que no aparecen en el árbol de
+problemas.
+Si en el árbol de problemas cada frase denota una situación negativa, en el árbol de objetivos estas
+mismas situaciones deberán expresarse en forma positiva. Por otra parte, cada una de las frases
+mantendrá su ubicación en el árbol. Si una frase se encuentra en la raíz del árbol de problemas, al pasar
+al árbol de objetivos, deberá seguir siendo raíz
+
+24
+
+Aunque sea un traslado de la información, el árbol de objetivos tendrá generalmente en sus raíces igual
+o menos resultados de los que tenía el árbol de problemas. Esto es así por lo que hemos visto respecto
+de los puntos de ataque.
+Para que sea bien claro el proyecto, todos los objetivos empezarán con un verbo en infinitivo. En cambio,
+los resultados no comenzarán de ese modo, sino que deberán expresarse en forma contundente, como
+productos concretos que ofrece el proyecto. Los resultados también deben ser claros y concretos, en
+particular porque el gestor del proyecto se está responsabilizando de lograrlos. Por lo tanto, al momento
+de diseñar un proyecto es importante que el diseñador evalúe si son resultados que se conseguirán o no
+con las actividades previstas, haciendo un análisis de tipo causa-efecto.
+Si el problema debe ser redactado en forma clara y precisa, también deben estar redactados así los
+objetivos y los resultados. Uno de los errores usuales en los diseños de programas y proyectos públicos
+es la poca claridad del objetivo central
+Para tener en cuenta:
+Un buen proyecto se detecta a primera vista porque expresa de manera clara qué se propone,
+es decir, su objetivo. Además de ser claro debe ser alcanzable. Esto implica que será posible
+alcanzar el objetivo mediante las actividades programadas, con los recursos disponibles y en el
+contexto vigente. Si el objetivo es un agregado de múltiples ideas y deseos grandilocuentes, lo
+primero que se desprende es que no se podrá lograr con un proyecto limitado.
+
+Veamos un ejemplo actual a nivel nacional. Programa Nexos. Se trata de un programa de articulación
+entre la universidad y la escuela secundaria. En la Resolución de creación se plantean 5 grandes
+objetivos. Ahora bien la pregunta es ¿ estos objetivos son claros? Desde mi mirada me parece que son
+muchos y que se podría haber realizado un solo objetivo general y luego realizar objetivos específicos
+que
+
+amplíen
+
+ese
+
+gran
+
+objetivo
+
+general.
+
+https://dpicuantico.com/sitio/wp-
+
+content/uploads/2017/08/Resolucion-3117.2017-Ministerio-de-Educacion.pdf
+Si analizamos el primer objetivo “ Promover desde los CPRES una política de articulación del nivel
+superior y de la universidad con la escuela secundaria, a través de una perspectiva
+interinstitucional que involucre a las Universidades, las Jurisdicciones Provinciales, el INFD y el
+INET, y estimule el diseño de mecanismos que permitan alcanzar un diagnóstico compartido y
+un plan de trabajo común como resultado del aporte y compromiso de los actores involucrados”
+En este objetivo que es muy amplio podría haber sido confeccionado solamente con la primer
+parte: “ Promover desde los CPRES una política de articulación del nivel superior y de la
+universidad con la escuela secundaria a través de una perspectiva interinstitucional que
+involucre a las Universidades, las Jurisdicciones Provinciales, el INFD y el INET ” con esta parte
+25
+
+del objetivo es claro que se realizará una articulación entre los distintos interesados para
+trabajar conjuntamente entre la universidad y la escuela secundaria. Si yo a este objetivo le
+realizo una series de preguntas como: ¿qué queremos?, ¿para qué articulamos?, ¿implementar
+políticas de articulación? Las respuestas no darían los objetivos específicos, para dar
+cumplimiento a este gran objetivo general.
+La última parte del objetivo habla de: “Alcanzar un diagnóstico compartido y un plan de trabajo
+común como resultado del aporte y compromiso de los actores involucrados” Lo colocaría como
+un objetivo específico, ya que me dice para qué vamos a articular la universidad con la escuela
+secundaria.(https://www.argentina.gob.ar/sites/default/files/libro_nexos__la_educacion_como_sistema.pdf)
+Otro dato a tener en cuenta al momento de crear objetivos es la no utilización del gerundio en el medio
+de la redacción de un objetivo. Por ejemplo, como cuando se afirma que el objetivo es “promover la
+participación institucional , generando lazos…”. Sucede que luego del gerundio (el “generando”) estaría
+apareciendo la actividad del proyecto: el “qué vamos a hacer”.
+Un buen objetivo es una frase de construcción simple, que no incorpora gerundios ni conectores
+como “a través” , “ con el objeto de” , “mediante”, etc
+
+Veamos en el siguiente cuadro un ejemplo sencillo de árbol de problemas y, posteriormente, su
+correspondiente árbol de objetivos.1
+Árbol de problemas
+
+1
+
+Extraido de Ilari, S (2014) Formulación y evaluación de problemas.
+
+26
+
+En el ejemplo, se ve que aparecen explícitas dos instancias del análisis: el momento de la elaboración
+del árbol de problemas y el momento de la selección de los puntos de ataque, es decir, de las causas
+del problema que serán efectivamente abordadas a través de las actividades del proyecto.
+Árbol de objetivos
+
+Al comparar los dos árboles, cabe observar que en el árbol de objetivos solo aparecen los resultados
+que corresponden a los puntos de ataque seleccionados. Cada uno de los componentes del gráfico
+debe estar numerado y mantener la misma ubicación que en el árbol correspondiente. Estas
+cuestiones son básicas para facilitarle la comprensión al lector del proyecto. Por lo tanto, es necesario
+hacer un esfuerzo para presentar con mucha claridad la propuesta. Todas las ideas que están en uno
+de los árboles deben aparecer también en el otro, aunque redactadas de distinta manera (como
+problemas, en uno; y como situación positiva en el otro), pero excluyendo del árbol de objetivos las
+causas que no son puntos de ataque. Cabe notar finalmente que las flechas indican que se trata de
+relaciones causa-efecto.
+Los objetivos son el “para qué” queremos hacer algo. Las actividades el “qué” vamos hacer
+concretamente. Por lo tanto, en el árbol de problemas y en el árbol de objetivos no deben aparecer
+aún las actividades; estos no deben dar cuenta de qué queremos hacer.
+
+2.3.4 . La evaluación de alternativas
+Hasta aquí, hemos trabajado el análisis de los participantes y, la relación lógica que existe entre los
+árboles de problemas y de objetivos. Ahora trabajaremos la evaluación de las alternativas. Esta
+actividad, desde la metodología de marco lógico, se presenta como análisis de alternativas. Nosotros
+consideramos que en su naturaleza constituye una evaluación, con su necesario juicio de valor
+respecto de alternativas y en función de criterios previamente seleccionados.
+
+27
+
+Nuevamente, nos encontramos con el debate que existe en la bibliografía existente sobre las distintas
+formas de llevar a cabo en diseño de proyectos. Algunos sostienen que luego de analizar y definir los
+problemas habría que pensar en las alternativas que se nos ocurren para lograr los resultados.
+Mientras que otros sostienen que las alternativas ya están decididas desde que se comienza con el
+diseño. De cualquier manera, desde las dos posiciones debemos fundamentar la decisión, por lo cual,
+tarde o temprano, será necesario hacer el análisis de alternativas.
+A continuación los invito a ver el siguiente video que nos ayudará a comprender mejor en qué consiste
+llevar a cabo un análisis de alternativas:
+Qué es y cómo se hace el análisis de alternativas https://www.youtube.com/watch?v=aS8bPA4EXGg
+Entonces, una vez que tenemos el árbol de objetivos nos encontramos en condiciones para llevar a
+cabo la evaluación. En primer lugar tomaremos cada uno de los resultados, en forma separada, y
+preguntarnos: ¿qué actividades podríamos llevar a cabo para lograr cada resultado? Este es un
+momento oportuno para una “lluvia de ideas”, dado que quien o quienes diseñan el proyecto deberían
+contar con múltiples opiniones y sugerencias.
+En esta instancia, se requiere apertura para considerar propuestas alternativas; creatividad, para no
+analizar solo las alternativas de siempre; un buen conocimiento de la problemática a abordar y una
+actualización de las experiencias de intervenciones públicas llevadas a cabo con anterioridad. El desafío
+ahora será detectar un buen número de alternativas, tanto clásicas como innovadoras, que logren los
+resultados seleccionados. Este proceso de “lluvia de ideas” muchas veces es realizado por el equipo
+técnico del organismo, pero también puede ser un espacio donde participen los destinatarios del
+proyecto. En todo caso, la generación de ideas constituye un esfuerzo presente (y pasado), de
+reflexión, de revisión de experiencias anteriores, de generación de nuevas combinaciones de
+conocimientos previos, de diálogo. Veamos las reflexiones de Pedro Saborido sobre la lluvia de ideas.
+
+Charla
+
+“De
+
+ideas
+
+y
+
+palanganas”,
+
+ofrecida
+
+por
+
+Pedro
+
+Saborido
+
+en
+
+el
+
+evento
+
+TEDxJoven@RíodelaPlata 2012. https://www.youtube.com/watch?v=AJ82VQp-gvI
+
+28
+
+La selección de las alternativas
+Uno de los dilemas con los que nos encontramos en el diseño de proyectos, es saber cómo elegir las
+alternativas que surgieron para llevar adelante la evaluación de nuestro proyecto. En primer lugar,
+debemos establecer cuáles serán los criterios que utilizaremos para comparar las alternativas y
+seleccionar la mejor, o mejores. Uno de estos criterios de comparación suele ser el grado de impacto
+que tiene cada alternativa para conseguir el resultado. Y es vital para la selección de alternativas: ¿qué
+actividades lograrían mayores resultados? ¿Existe evidencia empírica de que será así? ¿Hay estudios
+serios, investigaciones científicas que lo demuestren? Claro está que para llegar a saber todo esto
+deberemos estudiar y conocer el problema o, en todo caso, buscar asesoramiento que nos ayude a
+responder estos interrogantes.
+Otro de los criterios es considerar el costo de cada una de ellas. Así, será preciso hacer un cálculo
+estimativo para cada alternativa. El costo no solo se refiere al aspecto financiero, sino también al
+análisis de los recursos que insume cada alternativa (humanos, materiales y financieros). ¿Cuántos
+recursos es preciso invertir en cada alternativa para lograr cada resultado? ¿La inversión debe
+mantenerse durante cuánto tiempo?
+También es importante considerar el impacto que produce cada alternativa en al resto de los
+resultados del proyecto. Una alternativa deberá tener “mayor valor” tanto si impacta en forma positiva
+en uno de los resultados, como en otro. También se puede considerar el grado de complejidad que
+tiene la gestión de cada alternativa. Existen actividades cuyas tareas son sencillas de llevar a la práctica;
+que precisan de equipos técnicos y profesionales fáciles de contratar en nuestro medio o que ya
+conocemos dado que hemos realizado experiencias anteriores. Estas alternativas también podrían ser
+valoradas, puesto que reducen el riesgo de que se produzcan serios problemas de gestión en el
+momento de la implementación.
+A su vez, debe considerarse el grado de adecuación de la alternativa a la metodología, los valores y
+los principios del proyecto. Aunque en esta instancia se está fragmentando el análisis de cada
+resultado en particular, nunca debe perderse de vista que se trata de un único proyecto, que integra
+diversos resultados y actividades. Así, no solo la alternativa seleccionada debe ser la mejor (o una
+buena) opción en relación con el resultado a alcanzar, sino que también debe estar en concordancia
+con las particularidades del todo, del proyecto en su totalidad. Se debe promover una integración entre
+las partes, de manera de que el proyecto, aun disponiendo de actividades individualizadas y muchas
+veces de distintas organizaciones participantes, vaya en consonancia con su propio estilo, logre
+afinación y armonía.
+
+29
+
+A continuación les dejo unos videos en los que se explica cómo llevar a cabo el proceso de Selección
+de alternativas https://www.youtube.com/watch?v=ba27Q76Lvl4
+https://www.youtube.com/watch?v=ii-zmx-3Wp0&t=111s
+
+El análisis de viabilidad
+Una vez que hemos determinado las alternativas con las que trabajaremos en nuestro proyecto, se
+hace necesario poder establecer la viabilidad del mismo. Para hacer el análisis desagregaremos el
+concepto en siete indicadores:
+Viabilidad técnica: la actividad es viable en términos técnicos cuando es factible de llevar a cabo,
+considerando su complejidad para realizarla, así como la capacidad técnica y la experiencia con que
+cuenta el organismo responsable para realizar tareas de ese tipo.
+Viabilidad jurídica o legal: en ocasiones disponemos de alternativas brillantes, pero que no son viables
+de realizar en nuestro medio, dado que las prohíbe la norma. Conocer las normas que regulan las
+actividades es central para que el “esto no se puede hacer” no aparezca al momento de la
+implementación, es decir, cuando ya es demasiado tarde.
+Viabilidad política: existen alternativas que van en la misma dirección de los principios definidos por
+una gestión. Y otras que no. Cabe tener en cuenta la diferencia. Además es preciso considerar si la
+actividad será aceptada, promovida o rechazada por los actores que intervienen en el campo de acción.
+Viabilidad económica: al respecto, claro está que las alternativas de menor costo gozarán de mayor
+viabilidad económica.
+Viabilidad ambiental: en este caso, se deberá considerar el impacto ambiental de cada actividad, tanto
+si genera impactos positivos, como negativos.
+Viabilidad cultural: la viabilidad cultural nos permite pensar si las alternativas planteadas serán
+aceptadas por los destinatarios del proyecto o si son contrarias a las pautas culturales predominantes.
+Viabilidad institucional: al respecto cabe preguntarnos si disponemos de capacidad institucional como
+para llevar adelante con éxito cada una de las alternativas
+Veamos un ejemplo de cómo se lleva a cabo la viabilidad2
+
+Tabla para la evaluación de la viabilidad global de cada alternativa. La evaluación se realizará
+considerando cada uno de los tipos de viabilidad existentes y el grado de viabilidad global que
+presenta la actividad. El rango utilizado de la tabla es de 0 a 100 puntos. Se considera:
+Alto grado de viabilidad: mayor al 80%.
+Grado medio: entre el 60 y el 79%.
+Bajo grado de viabilidad: entre el 40 y el 59%.
+
+2
+
+Ilari S formulación y evaluación de proyectos
+
+30
+
+Umbral de viabilidad aceptada: 40%. Deficiente: menor al 40%.
+Cada uno de los indicadores de viabilidad será evaluado siguiendo este rango. El grado de
+viabilidad global constituye un promedio de los valores obtenidos en cada uno de los indicadores
+en que se desagrega.
+Tabla. Grado de viabilidad de la
+
+Grado en %
+
+actividad
+Viabilidad técnica
+
+40
+
+Viabilidad jurídica o legal
+
+100
+
+Viabilidad política
+
+80
+
+Viabilidad económica
+
+60
+
+Viabilidad ambiental
+
+100
+
+Viabilidad cultural
+
+80
+
+Viabilidad institucional
+
+100
+
+Viabilidad global (promedio)
+
+80
+
+Ejemplo de evaluación de alternativas
+La evaluación de alternativas se realizará utilizando una tabla para cada uno de los resultados del
+proyecto. Cada una de las opciones será evaluada en función de criterios de comparación. El rango
+utilizado en cada tabla es el siguiente:
+1
+
+punto:
+
+Bajo
+
+2
+
+puntos:
+
+Medio
+
+3
+
+puntos:
+
+Alto
+
+Puntaje potencial máximo: 24 / Puntaje potencial mínimo: 8
+En base a este rango, si se considera que la alternativa logrará un alto impacto (Criterio 1) se le
+asignarán 3 puntos, mientras que será considerado con un bajo puntaje (1 punto), si su impacto es
+menor. El mismo análisis haremos respecto de los recursos (Criterio 2). A la alternativa que precisa
+de menores recursos se le asignarán 3 puntos, mientras que a la más costosa, 1 punto. Cabe
+destacar que el Criterio de evaluación 8, “Adecuación al proyecto”, ha sido ponderado de manera
+distinta al resto de los criterios de comparación, dado que se considera que es muy relevante que
+las alternativas seleccionadas se enmarquen en los valores, objetivos superiores y principios
+establecidos por el proyecto. Por este motivo, el Criterio 8 tendrá el doble de valor que el resto de
+los criterios.
+31
+
+Personas asistidas avanzan en reconstruir sus vínculos3
+Alternativas
+
+1.- organización de
+
+2.
+
+espacios
+terapéuticos
+
+Realización
+
+de
+
+3. Combinación de
+
+4.
+
+acompañamiento
+
+las dos primeras
+
+encuentros con los grupos
+
+terapéutico individual
+
+alternativas
+
+familiares de las personas
+
+Criterios
+
+grupales
+
+Impacto esperado
+
+1
+
+2
+
+3
+
+2
+
+Recursos materiales
+
+2
+
+3
+
+1
+
+2
+
+3
+
+2
+
+1
+
+2
+
+de
+
+2
+
+3
+
+1
+
+2
+
+de
+
+2
+
+3
+
+1
+
+1
+
+Viabilidad
+
+2
+
+3
+
+1
+
+1
+
+Impacto al resto de
+
+2
+
+2
+
+3
+
+2
+
+6 (3)
+
+4 (2)
+
+6 (3)
+
+6 (3)
+
+20
+
+22
+
+18
+
+18
+
+Realización
+
+de
+
+asistidas
+
+necesarios
+Recursos humanos
+requeridos
+Tiempo
+implementación
+Riesgo
+implementación
+
+los resultados
+Adecuación
+
+al
+
+proyecto (*2)
+Puntaje total
+
+Resolución: En función del puntaje asignado, se selecciona la actividad de realización de
+acompañamiento terapéutico individual, por lo cual pasará a ser la actividad que dispone el
+proyecto para el logro del resultado nº 3. Se prevé que dicha actividad logra por sí sola el resultado
+previsto, por lo cual no se incorporan en el proyecto el resto de las opciones consideradas en esta
+tabla.
+Tal como se observa en el ejemplo anterior, al momento de diseñar el proyecto se deberá tener
+cuidado, en forma explícita, de dejar sentados los criterios de selección utilizados, los valores que se
+le asignaron a cada criterio de comparación, las alternativas que se estudiaron y el número de
+alternativas seleccionadas para lograr el resultado. No siempre con una sola de las alternativas se logra
+el resultado; por lo que, a veces, a costa de aumentar el presupuesto del proyecto, deberán
+seleccionarse varias de ellas.
+Claro que el grado de racionalidad estará acotado a las condiciones que se presenten en cada caso, a
+la organización en la que se enmarca el proyecto, a la información de que se disponga, a la capacidad
+de análisis, a los acuerdos que se vayan logrando entre los distintos actores participantes, etcétera.
+
+3
+
+Ejemplo extraido de Ilari , S
+
+32
+
+También puede observarse en el ejemplo de análisis de alternativas presentado que no todos los
+criterios de comparación tienen la misma importancia. Suele haber algún que otro criterio que dispone
+de mayor relevancia que el resto. En el ejemplo, se establece que el criterio de comparación 8,
+“Adecuación a los valores y la metodología del proyecto”, tendrá un mayor valor que el resto de los
+criterios. Para estos casos, se debe ponderar el criterio de manera distinta, multiplicando dicho
+indicador por el valor que se considere apropiado (por ejemplo, x 1.5; x 2; x 3). La idea es que en el
+cuadro de análisis cada criterio de comparación cuente con el valor que efectivamente tiene. Cuando
+el criterio sea muy importante, también puede transformarse en requisito. En este caso, todas las
+alternativas analizadas deben disponer de un determinado atributo. Por ejemplo, se establece que
+todas las alternativas que se analizarán deben ser caracterizadas como de promoción social.
+Las alternativas seleccionadas pasarán a ser las actividades del proyecto. Y esto lo tenemos que dejar
+en claro al final de cada cuadro, donde debemos dar argumentos respecto de si se opta por una sola
+alternativa o si es necesario realizar dos o más de las alternativas que se analizaron. La actividad se
+redacta incorporando el número de veces que deberá realizarse. Es decir, si la actividad seleccionada
+es la “Realización de talleres para la prevención de adicciones”, la redacción correcta será: “Realización
+de tres talleres para la prevención de adicciones”. Una vez que tenemos decididas qué actividades
+utilizaremos para lograr cada uno de los resultados, podemos seguir adelante con el diseño del
+proyecto.
+Existen proyectos de múltiples acciones que deben ser diseñados atendiendo a su particularidad. Es el
+caso de los proyectos constructivos, que además incluyen la posterior gestión del servicio por un plazo
+determinado. En estos se deberá analizar especialmente la actividad que se desarrollará en la fase de
+inversión (por ejemplo, “Construcción de una escuela de nivel básico”). Esto implica hacer el análisis
+de alternativas del resultado que se quiere lograr con esa construcción. La actividad para la fase de
+operación del servicio (por ejemplo, “Gestión inicial del servicio educativo por el término de un año,
+hasta su regularización”), si está contemplada, también se deberá incluir en el proyecto como una
+segunda actividad. El resto de los proyectos solo tendrán actividades para la fase de operación, ya que
+las acciones que es necesario realizar en la fase de inversión las vamos a denominar tareas. Por
+ejemplo, si el proyecto incluye la actividad “Realización de un curso…”, la compra de los materiales
+para el curso, el alquiler del salón, la contratación del profesional a cargo serán tareas que se precisa
+hacer para realizar la actividad.
+Tantos los cuadros que se utilicen para el análisis de los participantes como para el estudio de las
+alternativas de cada resultado, el análisis de la viabilidad y el diseño de los árboles se deberán ubicar
+en el Anexo del proyecto
+Algunos errores que suelen aparecer al elaborarse el listado de las alternativas y seleccionar alguna de
+ellas:
+33
+
+ Muchas veces se cae en el error de considerar que el problema que hemos planteado es único,
+es novedoso, y que lo que hay no ayudan a entender este nuevo problema. De esta manera,
+se piensa que se está argumentando la necesidad de empezar de cero el análisis. La mayor
+parte de las veces esto es un error. Por ejemplo: si definimos a un problema de la siguiente
+forma “alto grado de repitencia de los niños del barrio La Estanzuela de la ciudad de Godoy
+Cruz Mendoza”, no encontraremos teorías que nos den luz sobre este problema puntual, e
+incluso es probable que no encontremos experiencias anteriores de intervención. En cambio,
+si definimos el problema como “alto grado de repitencia en familias en situación de pobreza”,
+sí hallaremos teorías desarrolladas e innumerables experiencias que podremos tomar como
+base para comprender el problema y seleccionar las alternativas más oportunas.
+ Otra equivocación que se comete es cuando se trabaja con el contexto en el que se llevará a
+cabo el proyecto. Existen muchas alternativas que se probaron en el mundo, pero “la ciudad X
+es muy particular”, “la provincia X es única…”, “los argentinos somos muy particulares”. Esto
+nos lleva a afirmar entonces que sobre el problema X en la ciudad Y no se ha escrito nada aún
+y entonces también debemos partir desde cero para nuestro análisis. El realizar planteos de
+contextos tan específicos cuando realizamos una investigación bibliográfica para ver qué hay,
+seguramente no encontraremos nada, pero si que la ciudad Y, aunque no sea idéntica, tiene
+muchos aspectos en común con otras ciudades, por lo que las teorías vigentes y las
+experiencias que se desarrollan o se han desarrollado con anterioridad nos serán útiles para
+entender el problema y visualizar alternativas. Lo mismo ocurre a nivel nacional. No somos tan
+particulares como para tener que “desaprovechar” las investigaciones que se han realizado
+décadas pasadas o en otros países de la región y el mundo.
+ A veces tamizamos la nueva información que nos llega para que las opiniones preexistentes
+permanezcan intactas. E incluso analizamos las alternativas en nuestro equipo homogéneo de
+trabajo, por el que llegamos fácilmente a visualizar unas pocas alternativas y logramos el
+acuerdo. Algunos especialistas en procesos de decisión, como Rolf Dobelli (2013),
+recomiendan todo lo contrario: es muy enriquecedor poner en consideración la alternativa
+seleccionada con gente que usualmente piensa distinto que nosotros. Nos dará la oportunidad
+de visualizar nuevas opciones y llegar a mejores hipótesis de acción.
+ A veces creemos que la mejor situación para la toma de decisiones es contar con todas las
+alternativas posibles, con la idea de que a mayor cantidad de alternativas, mejor será la
+decisión adoptada. Consideramos que no es así, siguiendo nuevamente a Dobelli. Una gran
+variedad de alternativas complica el proceso de decisión y conduce muchas veces a cierta
+parálisis interna o, al menos, a postergar la resolución. “Cuanta más abundancia, más inseguro
+
+34
+
+e insatisfecho uno estará al momento de optar por una opción. Quédese satisfecho con una
+buena solución” (Dobelli, 2013: 92).
+ En ocasiones no se llega a realizar un buen análisis de los impactos y de los efectos que
+provocará la alternativa. En particular, de los posibles efectos no deseados de la política.
+Veamos un ejemplo que también nos proporciona Dobelli (2013). La administración colonial
+francesa en Hanói (capital de Vietnam), con el objetivo de terminar con las ratas, aprobó en
+1902 una ley por la que se otorgaba un centavo por cada rata muerta que se presentaba.
+Posteriormente se descubrieron varios criaderos de ratas que los nativos habían generado al
+considerarlo un negocio en crecimiento. Buen ejemplo del “impacto no deseado” que muchas
+veces generan las intervenciones públicas.
+
+Sintetizando
+A esta altura del trabajo de análisis contaríamos entonces con los siguientes productos:
+•
+
+Responsables del diseño del proyecto seleccionado.
+
+•
+
+Destinatarios correctamente identificados y localizados (análisis de los participantes).
+
+•
+
+Cuadro de análisis de los actores involucrados en el campo de intervención del proyecto (análisis
+
+de los participantes).
+•
+
+Problema a abordar seleccionado, correctamente definido y analizado (árbol de problemas).
+
+•
+
+Resultados, objetivo central del proyecto y objetivos superiores (árbol de objetivos).
+
+•
+
+Actividades que le corresponden a cada uno de los resultados del proyecto (evaluación de
+
+alternativas).
+Estos productos conforman, a grandes rasgos, la estructura del diseño del proyecto. Conocemos con
+claridad las respuestas básicas de un proyecto: ¿quién lo va a hacer? ¿A quiénes va dirigido
+(destinatarios)? ¿Qué se va a hacer (actividades)? ¿Para qué? (objetivo) ¿Qué resultados se van a
+lograr? ¿A qué objetivos superiores se contribuye con este proyecto?
+
+35
+
+

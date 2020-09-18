@@ -1,0 +1,11 @@
+--2020-09-18 13:40:53--  https://translate.google.com.ar/translate_tts?ie=UTF-8
+Resolviendo translate.google.com.ar (translate.google.com.ar)... 172.217.172.99, 2800:3f0:4002:803::2003
+Conectando con translate.google.com.ar (translate.google.com.ar)[172.217.172.99]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 302 Found
+Localización: https://www.google.com/sorry/index?continue=https://translate.google.com.ar/translate_tts%3Fie%3DUTF-8&q=EgS-cH6SGJXGk_sFIhkA8aeDSxXYQIFwCjeCjGlakB1yKgXEyk8sMgFy [siguiendo]
+--2020-09-18 13:40:54--  https://www.google.com/sorry/index?continue=https://translate.google.com.ar/translate_tts%3Fie%3DUTF-8&q=EgS-cH6SGJXGk_sFIhkA8aeDSxXYQIFwCjeCjGlakB1yKgXEyk8sMgFy
+Resolviendo www.google.com (www.google.com)... 216.58.202.36, 2800:3f0:4002:809::2004
+Conectando con www.google.com (www.google.com)[216.58.202.36]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 429 Too Many Requests
+2020-09-18 13:40:54 ERROR 429: Too Many Requests.
+

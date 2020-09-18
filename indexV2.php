@@ -1,19 +1,19 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v2.8.4";
+    $appVer = "v2.8.5";
 
     $grupos = '';
   
     //Ingeniería Electromecánica
       $aulas = '';
-      $lstA = ['IEM_1ro', 'IEM_2do', 'IEM_3ro', 'IEM_4to', 'IEM_5to']; 
+      $lstA = ['IEM1ro', 'IEM2do', 'IEM3ro', 'IEM4to', 'IEM5to']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('IEM', 'Ingeniería Electromecánica', $aulas);
   
     //Ingeniería Electrónica
       $aulas = '';
-      $lstA = ['IEL_1ro', 'IEL_2do', 'IEL_3ro', 'IEL_4to', 'IEL_5to', 'IEL_6to']; 
+      $lstA = ['IEL1ro', 'IEL2do', 'IEL3ro', 'IEL4to', 'IEL5to', 'IEL6to']; 
       foreach ($lstA as $a) $aulas .= getAula($a);
       $grupos .= getGrupo('IEL', 'Ingeniería Electrónica', $aulas);
   
