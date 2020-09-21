@@ -1,6 +1,6 @@
 <?php 
 	// define('URL', '../../');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/0910/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/');
 	
 	$titu = "ExpoFuturo2020 | UTNLaRioja";
 	$desc = "Acceso a las Charlas [22 Septiembre 18 Hs.]";
@@ -12,7 +12,7 @@
 	$imag = URL."imag2.png";
 
 	$time = 300;
-	$dest = "../0910";
+	$dest = "../ExpoFUTURO";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO?1
 
