@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/charlas/ExpoFUTURO/');
 	
 	$titu = "ExpoFuturo2020 | UTNLaRioja";
-	$desc = "Acceso a las Charlas [22 Septiembre 18 Hs.]";
+	$desc = "Acceso a las Charlas";
 	
 	$genialyID = "5f61212c96e6bf0d97ce0587";
 	
