@@ -1,5 +1,5 @@
 <?php 
-	// define('URL', '../../');
+	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/1005impresion3D/');
 	
 	$titu = "Curso | Introducción a la impresión 3D | UTNLaRioja";
