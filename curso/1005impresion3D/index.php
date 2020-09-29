@@ -1,6 +1,6 @@
 <?php 
 	// define('URL', '../../');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/0904/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/1005impresion3D/');
 	
 	$titu = "Curso | Introducción a la impresión 3D | UTNLaRioja";
 	$desc = "Accesos al Aula Virtual [5,7 y 9 Oct. 11 Hs.]";
@@ -12,7 +12,7 @@
 	$imag = URL."imag.jpeg";
 
 	$time = 1800;
-	$dest = "../0904";
+	$dest = "../1005impresion3D";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/1005impresion3D?01
 
