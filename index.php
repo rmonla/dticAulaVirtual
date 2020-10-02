@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.30";
+    $appVer = "v1.3.31";
 
  ?>
 <!DOCTYPE html>
@@ -53,9 +53,10 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  echo "<p>".getPList('PreIng')."</p>";
+                                  $lstA = ['PreIngComA', 'PreIngComB']; 
 
-                                  $lstA = ['PreIng_M', 'PreIng_F', 'PreIng_Q']; 
+                                  // echo "<p>".getPList('PreIng')."</p>";
+                                  // $lstA = ['PreIng_M', 'PreIng_F', 'PreIng_Q']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
