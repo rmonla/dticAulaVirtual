@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.32";
+    $appVer = "v1.3.33";
 
  ?>
 <!DOCTYPE html>
@@ -139,12 +139,11 @@
                         </div>
                         <div id="cursos_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
-                                
-                                <?php  
-                                  $lstA = ['1005impresion3D']; 
-                                  foreach ($lstA as $a) echo getAula($a);
-                                ?>
-
+                                <p>
+                                  <center>
+                                    <a target='_blank' href='http://www.frlr.utn.edu.ar/dtic/aulavirtual/curso/1005impresion3D'>Curso | Introducción a la impresión 3D | UTNLaRioja</a>
+                                  </center>
+                                </p>
                             </div>
                         </div>
                     </div>
