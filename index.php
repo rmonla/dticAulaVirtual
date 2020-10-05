@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.31";
+    $appVer = "v1.3.32";
 
  ?>
 <!DOCTYPE html>
@@ -121,6 +121,27 @@
                                 
                                 <?php  
                                   $lstA = ['IEL1ro', 'IEL2do', 'IEL3ro', 'IEL4to', 'IEL5to', 'IEL6to']; 
+                                  foreach ($lstA as $a) echo getAula($a);
+                                ?>
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card"> <!-- Cursos -->
+                        <div class="card-header" role="tab" id="headingThree">
+                            <a role="button" class="collapsed text-black panel-title" data-toggle="collapse" data-core="" href="#cursos_0" aria-expanded="false" aria-controls="collapse3">
+                                <h4 class="mbr-fonts-style display-5">
+                                    <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                    Cursos y Capacitaciones
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="cursos_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
+                            <div class="panel-body p-4">
+                                
+                                <?php  
+                                  $lstA = ['1005impresion3D']; 
                                   foreach ($lstA as $a) echo getAula($a);
                                 ?>
 
