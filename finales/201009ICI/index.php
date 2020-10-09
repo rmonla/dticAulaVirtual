@@ -2,7 +2,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201009ICI/');
 	
-	$titu = "Final | Cohousing NAKAMA | ICI";
+	$titu = "Final | Cohousing NAKAMA | UTNlaRioja";
 	$desc = "Accesos a la presentación [ 9 Octubre 19 Hs.]";
 	
 	$genialyID = "5f7f979bcd6f2b0daa3b6b78";
