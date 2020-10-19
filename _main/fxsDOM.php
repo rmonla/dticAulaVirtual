@@ -2,16 +2,23 @@
 	include_once 'src/simple_html_dom.php';
 	include_once 'bdCals.php';
 
-	header('Content-Type: text/html; charset=utf-8');
+	// header('Content-Type: text/html; charset=utf-8');
 
 
 	function getHtml($url) {
 		return file_get_contents($url);
 	}
 	
-	$calID = 'PREINGRESO';
+	$calID   = 'ICI5to';
+	$calURL  = getUrlCal($calID, 1);
+	$calHTML = getHtml($calURL);
 
-	$html = getHtml(getUrlCal($calID, 1));
+
+	echo $calURL;
+	// echo $calHTML;
+	exit;
+
+	
 
   $doc = new \DOMDocument();
   @ $doc->loadHTML($html);
