@@ -1,29 +1,30 @@
 <?php 
 
 	$bdNoms = [ // BD de Play Lists de YouTube.
-		"PreIngComA" => "PREING21 - Comisión A",
-		"PreIngComB" => "PREING21 - Comisión B",
+		"PreIngComA"      => "PREING21 - Comisión A",
+		"PreIngComB"      => "PREING21 - Comisión B",
 		"1005impresion3D" => "Curso | Introducción a la impresión 3D | UTNLaRioja",
-		"PreIng_M" => "08:00 - Matemática | Marcela SILVA",
-		"PreIng_F" => "10:15 - Física | Rubén FAINSTEIN",
-		"PreIng_Q" => "15:30 - Química | Manuel MERCADO"
+		"PreIng_M"        => "08:00 - Matemática | Marcela SILVA",
+		"PreIng_F"        => "10:15 - Física | Rubén FAINSTEIN",
+		"PreIng_Q"        => "15:30 - Química | Manuel MERCADO"
 	];
 
 	$bdPList = [ // BD de Play Lists de YouTube.
 		"PreIngComA" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
 		"PreIngComB" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"PreIng" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"ICI1ro" => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
-		"ICI2do" => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
-		"ICI3ro" => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
-		"ICI4to" => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
-		"ICI5to" => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
-		"IEL1ro" => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
-		"IEL2do" => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
-		"IEL3ro" => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
-		"IEM1ro" => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
-		"IEM2do" => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
-		"IEM3ro" => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc"
+		"PreIng"     => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
+		"ICI1ro"     => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
+		"ICI2do"     => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
+		"ICI3ro"     => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
+		"ICI4to"     => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
+		"ICI5to"     => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
+		"IEL1ro"     => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
+		"IEL2do"     => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
+		"IEL3ro"     => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
+		"IEM1ro"     => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
+		"IEM2do"     => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
+		"IEM3ro"     => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc",
+		"IEM4to"     => "PLSOY8GuPHc0AefuPEpkENOln2aFecc2Ex"
 	];
 
 	$bdEstados = [

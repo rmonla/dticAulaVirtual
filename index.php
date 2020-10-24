@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.35";
+    $appVer = "v1.3.36";
 
  ?>
 <!DOCTYPE html>
