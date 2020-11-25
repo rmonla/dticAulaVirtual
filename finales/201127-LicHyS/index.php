@@ -2,7 +2,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201127-LicHyS/');
 	
-	$titu = "Final | Riesgos de Hig. y Seg. Obra Vial Padercitas - Dique Los Sauces | UTNlaRioja";
+	$titu = "PFinal | Obra Vial Padercitas - Dique Los Sauces, Análisis y Riesgos de Hig. y Seg. | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 27 Noviembre 20 Hs.]";
 	
 	$genialyID = "5f7f979bcd6f2b0daa3b6b78";
