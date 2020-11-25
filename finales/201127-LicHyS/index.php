@@ -1,9 +1,9 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201009ICI/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201127-LicHyS/');
 	
-	$titu = "Final | Cohousing NAKAMA | UTNlaRioja";
-	$desc = "Accesos a la presentación [ 9 Octubre 19 Hs.]";
+	$titu = "Final | 201127-LicHyS | UTNlaRioja";
+	$desc = "Accesos a la presentación [ 27 Noviembre 20 Hs.]";
 	
 	$genialyID = "5f7f979bcd6f2b0daa3b6b78";
 	
@@ -12,9 +12,9 @@
 	$imag = URL."imag.jpeg";
 
 	$time = 1800;
-	$dest = "../201009ICI";
+	$dest = "../201127-LicHyS";
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201009ICI?01
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201127-LicHyS?01
 
 	echo <<<HTML
 
