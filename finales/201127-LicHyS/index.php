@@ -5,7 +5,7 @@
 	$titu = "PFinal | Obra Vial Padercitas - Dique Los Sauces, Análisis y Riesgos de Hig. y Seg. | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 27 Noviembre 20 Hs.]";
 	
-	$genialyID = "5f7f979bcd6f2b0daa3b6b78";
+	$genialyID = "5fbef0a4cbed770da5edc249";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
