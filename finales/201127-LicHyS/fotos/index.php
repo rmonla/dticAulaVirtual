@@ -1,5 +1,5 @@
 <?php
-	$newURL = 'https://www.youtube.com/playlist?list=PLSOY8GuPHc0CG8aqe7KguMZyBfBOTfXro';
+	$newURL = 'https://photos.app.goo.gl/9M3LtoqFwU28ZbnS8';
 	header('Location: '.$newURL);
 	die();
 
