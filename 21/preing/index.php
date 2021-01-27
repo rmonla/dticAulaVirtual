@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL/');
 	
 	$titu = "PreIng21 - UTNLaRioja";
-	$desc = "Accesos al Aula Vrtual [ 29 Diciembre 19 Hs.]";
+	$desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "600b4a235f0d4e0d0d6c03fa";
 	
