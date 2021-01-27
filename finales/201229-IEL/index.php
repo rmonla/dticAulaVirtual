@@ -2,7 +2,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL/');
 	
-	$titu = "Sistema de Adquisición de Datos en Planta Depuradora de Afluentes Cloacales | PROYFINAL | UTNLaRioja";
+	$titu = "Presentacion de Proyecto Final | Ingeniería Electrónica | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 29 Diciembre 19 Hs.]";
 	
 	$genialyID = "5fe263a94c7b660da54921ad";
