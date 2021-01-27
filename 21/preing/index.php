@@ -1,6 +1,6 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/aulavirtual/21/preing/');
 	
 	$titu = "PreIng21 - UTNLaRioja";
 	$desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
