@@ -1,7 +1,6 @@
 <?php
-	$newURL = 'https://youtu.be/kQCCkWDm-Ag';
+	$newURL = 'https://www.youtube.com/channel/UC_cmKYtM9hy9-UI_qHpmahw';
 	header('Location: '.$newURL);
 	die();
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201127-LicHyS/youtube
 ?>
