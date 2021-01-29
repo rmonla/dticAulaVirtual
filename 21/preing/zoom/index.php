@@ -1,5 +1,8 @@
 <?php
-	$newURL = 'https://utn.zoom.us/j/84678279864';
+	$zoomID = '88274178584';
+
+	$newURL = 'https://utn.zoom.us/j/'.$zoomID;
+	
 	header('Location: '.$newURL);
 	die();
 	
