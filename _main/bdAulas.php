@@ -1,6 +1,9 @@
 <?php 
 
 	$bdNoms = [ // BD de Play Lists de YouTube.
+		"PI21CA"      => "Pre-Ingreso 2021 - Comisión A",
+		"PI21CB"      => "Pre-Ingreso 2021 - Comisión B",
+		
 		"PreIngComA"      => "PREING21 - Comisión A",
 		"PreIngComB"      => "PREING21 - Comisión B",
 		"1005impresion3D" => "Curso | Introducción a la impresión 3D | UTNLaRioja",
@@ -10,6 +13,8 @@
 	];
 
 	$bdPList = [ // BD de Play Lists de YouTube.
+		"PI21CA" => "PLSOY8GuPHc0AiPKzvqodComhSydOLVUXB",
+		"PI21CB" => "PLSOY8GuPHc0BPNoXmdoY55G_8ftUnAMjs",
 		"PreIngComA" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
 		"PreIngComB" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
 		"PreIng"     => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
@@ -51,6 +56,8 @@
 			"IEL4to",
 			"IEL5to",
 			"IEL6to",
+			"PI21CA",
+			"PI21CB",
 			"PreIngComA",
 			"PreIngComB",
 			"1005impresion3D",
@@ -63,6 +70,8 @@
 	
 	$bdZoomIDs = [ // BD de IDs de Aulas Zoom. 
 		"aID/Cols"        => ["0=Bloqueda",  "1=BASIC"    , "2=PRO"      ],
+		"PI21CA"      => ["83153084110", "83153084110", "83153084110"], // [a]
+		"PI21CB"      => ["89538675696", "89538675696", "89538675696"], // [u1]
 		"PreIngComA"      => ["88274178584", "88274178584", "88274178584"], // [a]
 		"PreIngComB"      => ["88274178584", "88274178584", "88274178584"], // [u1]
 		"1005impresion3D" => ["96761370074", "83445252626", "83445252626"], // 18
