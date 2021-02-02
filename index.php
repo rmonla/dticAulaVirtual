@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.36";
+    $appVer = "v1.3.38";
 
  ?>
 <!DOCTYPE html>
@@ -53,7 +53,7 @@
                             <div class="panel-body p-4">
                                 
                                 <?php  
-                                  $lstA = ['PreIngComA', 'PreIngComB']; 
+                                  $lstA = ['PI21CA', 'PI21CB']; 
 
                                   // echo "<p>".getPList('PreIng')."</p>";
                                   // $lstA = ['PreIng_M', 'PreIng_F', 'PreIng_Q']; 
