@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.38";
+    $appVer = "v1.3.39";
 
  ?>
 <!DOCTYPE html>
@@ -51,6 +51,8 @@
                           </div>
                         <div id="PreIng_0" class="panel-collapse noScroll collapse " role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
+                                
+                                <p><center><a target='_blank' href='./21/preing' $aOnClick>Presentador Digital</a></center></p>
                                 
                                 <?php  
                                   $lstA = ['PI21CA', 'PI21CB']; 
