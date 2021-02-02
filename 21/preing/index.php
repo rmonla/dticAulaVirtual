@@ -3,7 +3,8 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
 	
 	$titu = "PreIng2021 - UTNLaRioja";
-	$desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
+	$desc = "Presentador Digital del Seminario";
+	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "600b4a235f0d4e0d0d6c03fa";
 	
