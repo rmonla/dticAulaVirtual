@@ -1,7 +1,7 @@
 <?php 
     include_once '_main/fxs.php';
 
-    $appVer = "v1.3.39";
+    $appVer = "v1.3.40";
 
  ?>
 <!DOCTYPE html>
@@ -55,7 +55,7 @@
                                 <p><center><a target='_blank' href='./21/preing' $aOnClick>Presentador Digital</a></center></p>
                                 
                                 <?php  
-                                  $lstA = ['PI21CA', 'PI21CB']; 
+                                  $lstA = ['PI21IntCA', 'PI21IntCB']; 
 
                                   // echo "<p>".getPList('PreIng')."</p>";
                                   // $lstA = ['PreIng_M', 'PreIng_F', 'PreIng_Q']; 
