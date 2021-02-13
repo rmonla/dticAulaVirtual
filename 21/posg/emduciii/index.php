@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii/');
 	
 	$titu = "EMDUCII - UTNLaRioja";
-	$desc = "Presentador Digital del Posgrado";
+	$desc = "Especialización y Maestría en Docencia Universitaria – Comisión III";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "6027b4045884590d8d1a672f";
