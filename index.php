@@ -197,7 +197,9 @@
                         </div>
                         <div id="collapse6_0" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#bootstrap-accordion_0">
                             <div class="panel-body p-4">
-
+                                
+                                <p><center><a target='_blank' href='./21/posg/emduciii' $aOnClick>Presentador Digital</a></center></p>
+                                
                                 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FArgentina%2FLa_Rioja&amp;src=OGEzNWE2b2V2NmdrMjljZXBpcXAyOG9wZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23B39DDB&amp;mode=AGENDA" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
                                 
                             </div>
