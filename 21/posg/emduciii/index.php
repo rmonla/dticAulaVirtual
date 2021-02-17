@@ -2,7 +2,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii/');
 	
-	$titu = "EMDUCII - UTNLaRioja";
+	$titu = "EMDUCIII - UTNLaRioja";
 	$desc = "Especialización y Maestría en Docencia Universitaria – Cohorte III";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
