@@ -18,7 +18,6 @@
 		];
 
 
-
 	function getIdCal($idcal){
 		global $bdCal;
 		return (isset($bdCal[$idcal]))? $bdCal[$idcal].'@group.calendar.google.com' : 0 ;

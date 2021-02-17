@@ -1,104 +1,171 @@
 <?php 
+/**
+ * bdAulas.php es el archivo con la información de la base de datos de las aulas virtuales.
+ */
 
-	$bdNoms = [ // BD de Play Lists de YouTube.
-		"PI21IntCA"      => "Pre-Ingreso2021 Intensivo [Comisión A]",
-		"PI21IntCB"      => "Pre-Ingreso2021 Intensivo [Comisión B]",
-		
-		"PreIngComA"      => "PREING21 - Comisión A",
-		"PreIngComB"      => "PREING21 - Comisión B",
-		"1005impresion3D" => "Curso | Introducción a la impresión 3D | UTNLaRioja",
-		"PreIng_M"        => "08:00 - Matemática | Marcela SILVA",
-		"PreIng_F"        => "10:15 - Física | Rubén FAINSTEIN",
-		"PreIng_Q"        => "15:30 - Química | Manuel MERCADO"
-	];
+	$bdAulas = [
 
-	$bdPList = [ // BD de Play Lists de YouTube.
-		"PI21IntCA" => "PLSOY8GuPHc0AiPKzvqodComhSydOLVUXB",
-		"PI21IntCB" => "PLSOY8GuPHc0BPNoXmdoY55G_8ftUnAMjs",
-		"PreIngComA" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"PreIngComB" => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"PreIng"     => "PLSOY8GuPHc0AiCvJ0UHUrFFBsJYLnTAoR",
-		"ICI1ro"     => "PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV",
-		"ICI2do"     => "PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH",
-		"ICI3ro"     => "PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp",
-		"ICI4to"     => "PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q",
-		"ICI5to"     => "PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up",
-		"IEL1ro"     => "PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc",
-		"IEL2do"     => "PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn",
-		"IEL3ro"     => "PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv",
-		"IEM1ro"     => "PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM",
-		"IEM2do"     => "PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB",
-		"IEM3ro"     => "PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc",
-		"IEM4to"     => "PLSOY8GuPHc0AefuPEpkENOln2aFecc2Ex"
-	];
-
-	$bdEstados = [
-		[ 
-			"0=Bloqueda" 
-		],[ 
-			"APublica",
-			"1=BASIC"
-		],[ 
-			"ICI1ro",
-			"ICI2do",
-			"ICI3ro",
-			"ICI4to",
-			"ICI5to",
-			"ICI6to",
-			"IEM1ro",
-			"IEM2do",
-			"IEM3ro",
-			"IEM4to",
-			"IEM5to",
-			"IEL1ro",
-			"IEL2do",
-			"IEL3ro",
-			"IEL4to",
-			"IEL5to",
-			"IEL6to",
-			"PI21IntCA",
-			"PI21IntCB",
-			"PreIngComA",
-			"PreIngComB",
-			"1005impresion3D",
-			"PreIng_M",
-			"PreIng_F",
-			"PreIng_Q",
-			"2=PRO"
-		]
-	];
+		'ICI211ro' => [ 
+			'aCUE' => 'vc02'
+			'aNOM' => 'Ingeniería Civil [1er Año]',
+			'aYTB' => 'PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
 	
-	$bdZoomIDs = [ // BD de IDs de Aulas Zoom. 
-		"aID/Cols"        => ["0=Bloqueda",  "1=BASIC"    , "2=PRO"      ],
-		"PI21IntCA"      => ["83153084110", "83153084110", "83153084110"], // [a]
-		"PI21IntCB"      => ["89538675696", "89538675696", "89538675696"], // [u1]
-		"PreIngComA"      => ["88274178584", "88274178584", "88274178584"], // [a]
-		"PreIngComB"      => ["88274178584", "88274178584", "88274178584"], // [u1]
-		"1005impresion3D" => ["96761370074", "83445252626", "83445252626"], // 18
-		"PreIng_M"        => ["96761370074", "97478835879", "97478835879"], // 18
-		"PreIng_F"        => ["96761370074", "97478835879", "97478835879"], // 18
-		"PreIng_Q"        => ["96761370074", "97478835879", "97478835879"], // 18
-		"ICI1ro"          => ["96761370074", "879934863"  , "92023658063"], // 2
-		"ICI2do"          => ["96761370074", "98072933701", "92781193701"], // 5
-		"ICI3ro"          => ["96761370074", "97101886947", "92955020518"], // 8
-		"ICI4to"          => ["96761370074", "94629812640", "95994613482"], // 11
-		"ICI5to"          => ["96761370074", "99884405368", "81225885752"], // ur1
-		"ICI6to"          => ["96761370074", "95518301143", "86142676574"], // ur2
-		"IEM1ro"          => ["96761370074", "91277544291", "91277544291"], // 3
-		"IEM2do"          => ["96761370074", "92086937597", "92086937597"], // 6
-		"IEM3ro"          => ["96761370074", "94060234711", "92894001255"], // 9
-		"IEM4to"          => ["96761370074", "92351175502", "88396777950"], // ur3
-		"IEM5to"          => ["96761370074", "96665531385", "85688378524"], // ur8
-		"IEL1ro"          => ["96761370074", "92116614010", "92116614010"], // 4
-		"IEL2do"          => ["96761370074", "91667813566", "96130488690"], // 7
-		"IEL3ro"          => ["96761370074", "98516961454", "98516961454"], // 10
-		"IEL4to"          => ["96761370074", "97174449400", "87158704025"], // ur5
-		"IEL5to"          => ["96761370074", "98672429951", "86704574586"], // ur6
-		"IEL6to"          => ["96761370074", "91937629997", "86112055078"], // ur7
-		"APublica"        => ["96761370074", "435997049"  , "435997049"]
+		'ICI212do' => [ 
+			'aCUE' => 'vc05'
+			'aNOM' => 'Ingeniería Civil [2do Año]',
+			'aYTB' => 'PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'ICI213ro' => [ 
+			'aCUE' => 'vc08'
+			'aNOM' => 'Ingeniería Civil [3er Año]',
+			'aYTB' => 'PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'ICI214to' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Civil [4to Año]',
+			'aYTB' => 'PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'ICI215to' => [ 
+			'aCUE' => 'ur01'
+			'aNOM' => 'Ingeniería Civil [5to Año]',
+			'aYTB' => 'PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'ICI216to' => [ 
+			'aCUE' => 'ur02'
+			'aNOM' => 'Ingeniería Civil [6to Año]',
+			'aYTB' => 'id pList YouTube',
+			'aCAL' => 'Id Cal Google',
+			'aGEN' => 'Id Genialy'
+			],
+	
+		'IEM211ro' => [ 
+			'aCUE' => 'vc03'
+			'aNOM' => 'Ingeniería Electromecánica [1er Año]',
+			'aYTB' => 'PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEM212do' => [ 
+			'aCUE' => 'vc06'
+			'aNOM' => 'Ingeniería Electromecánica [2do Año]',
+			'aYTB' => 'PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEM213ro' => [ 
+			'aCUE' => 'vc09'
+			'aNOM' => 'Ingeniería Electromecánica [3er Año]',
+			'aYTB' => 'PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEM214to' => [ 
+			'aCUE' => 'ur03'
+			'aNOM' => 'Ingeniería Electromecánica [4to Año]',
+			'aYTB' => 'PLSOY8GuPHc0AefuPEpkENOln2aFecc2Ex',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEM215to' => [ 
+			'aCUE' => 'ur08'
+			'aNOM' => 'Ingeniería Electromecánica [5to Año]',
+			'aYTB' => 'id pList YouTube',
+			'aCAL' => 'Id Cal Google',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL211ro' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [1er Año]',
+			'aYTB' => 'PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL212do' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [2do Año]',
+			'aYTB' => 'PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL213ro' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [3er Año]',
+			'aYTB' => 'PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL214to' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [4to Año]',
+			'aYTB' => 'id pList YouTube',
+			'aCAL' => 'Id Cal Google',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL215to' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [5to Año]',
+			'aYTB' => 'id pList YouTube',
+			'aCAL' => 'Id Cal Google',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'IEL216to' => [ 
+			'aCUE' => 'vc11'
+			'aNOM' => 'Ingeniería Electrónica [6to Año]',
+			'aYTB' => 'id pList YouTube',
+			'aCAL' => 'Id Cal Google',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'PI21IntCA' => [ 
+			'aCUE' => 'ur16'
+			'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión A]',
+			'aYTB' => 'PLSOY8GuPHc0AiPKzvqodComhSydOLVUXB',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'PI21IntCB' => [ 
+			'aCUE' => 'ur17'
+			'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión B]',
+			'aYTB' => 'PLSOY8GuPHc0BPNoXmdoY55G_8ftUnAMjs',
+			'aCAL' => 'Id del Calendario',
+			'aGEN' => 'Id Genialy para el presentador digital'
+			],
+	
+		'aID' => [ // Registro modelo.
+			'aNOM' => 'Nombre completo del aula',
+			'aYTB' => 'Lista de clases grabadas en YouTube.',
+			'aCAL' => 'Id de Calendario Google donde estan las clases.',
+			'aCUE' => 'Cuenta CCEI asignada al aula.'
+			]
 	];
-		// "APublica" => [    2      , "96761370074", "435997049"  , ""           ]
 
+	
 	function getEstado($aID){
 		global $bdEstados;
 		$Estado = 0;
