@@ -12,7 +12,7 @@
 				'aNOM' => 'Ingeniería Civil [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'ICI212do' => [ 
@@ -20,7 +20,7 @@
 				'aNOM' => 'Ingeniería Civil [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'ICI213ro' => [ 
@@ -28,7 +28,7 @@
 				'aNOM' => 'Ingeniería Civil [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'ICI214to' => [ 
@@ -36,7 +36,7 @@
 				'aNOM' => 'Ingeniería Civil [4to Año]',
 				'aYTB' => 'PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'ICI215to' => [ 
@@ -44,7 +44,7 @@
 				'aNOM' => 'Ingeniería Civil [5to Año]',
 				'aYTB' => 'PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'ICI216to' => [ 
@@ -54,8 +54,7 @@
 				'aCAL' => 'Id Cal Google',
 				'aGEN' => 'Id Genialy'
 				]
-		
-		],
+			],
 		
 		'Ingeniería Electromecánica' => [
 
@@ -64,7 +63,7 @@
 				'aNOM' => 'Ingeniería Electromecánica [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEM212do' => [ 
@@ -72,7 +71,7 @@
 				'aNOM' => 'Ingeniería Electromecánica [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEM213ro' => [ 
@@ -80,7 +79,7 @@
 				'aNOM' => 'Ingeniería Electromecánica [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEM214to' => [ 
@@ -88,7 +87,7 @@
 				'aNOM' => 'Ingeniería Electromecánica [4to Año]',
 				'aYTB' => 'PLSOY8GuPHc0AefuPEpkENOln2aFecc2Ex',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEM215to' => [ 
@@ -96,10 +95,9 @@
 				'aNOM' => 'Ingeniería Electromecánica [5to Año]',
 				'aYTB' => 'id pList YouTube',
 				'aCAL' => 'Id Cal Google',
-				'aGEN' => 'Id Genialy para el presentador digital'
-				],
-		
-		],
+				'aGEN' => 'Id Genially'
+				]
+			],
 
 		'Ingeniería Electrónica' => [
 
@@ -108,7 +106,7 @@
 				'aNOM' => 'Ingeniería Electrónica [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEL212do' => [ 
@@ -116,7 +114,7 @@
 				'aNOM' => 'Ingeniería Electrónica [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEL213ro' => [ 
@@ -124,7 +122,7 @@
 				'aNOM' => 'Ingeniería Electrónica [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEL214to' => [ 
@@ -132,7 +130,7 @@
 				'aNOM' => 'Ingeniería Electrónica [4to Año]',
 				'aYTB' => 'id pList YouTube',
 				'aCAL' => 'Id Cal Google',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEL215to' => [ 
@@ -140,7 +138,7 @@
 				'aNOM' => 'Ingeniería Electrónica [5to Año]',
 				'aYTB' => 'id pList YouTube',
 				'aCAL' => 'Id Cal Google',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'IEL216to' => [ 
@@ -148,10 +146,9 @@
 				'aNOM' => 'Ingeniería Electrónica [6to Año]',
 				'aYTB' => 'id pList YouTube',
 				'aCAL' => 'Id Cal Google',
-				'aGEN' => 'Id Genialy para el presentador digital'
-				],
-		
-		],
+				'aGEN' => 'Id Genially'
+				]
+			],
 		
 		'Pre-Ingreso' => [
 
@@ -160,7 +157,7 @@
 				'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión A]',
 				'aYTB' => 'PLSOY8GuPHc0AiPKzvqodComhSydOLVUXB',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
+				'aGEN' => 'Id Genially'
 				],
 		
 			'PI21IntCB' => [ 
@@ -168,10 +165,9 @@
 				'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión B]',
 				'aYTB' => 'PLSOY8GuPHc0BPNoXmdoY55G_8ftUnAMjs',
 				'aCAL' => 'Id del Calendario',
-				'aGEN' => 'Id Genialy para el presentador digital'
-				],
-
-		],
+				'aGEN' => 'Id Genially'
+				]
+			],
 
 		'Grupo Modelo' => [
 			'aID' => [ // Registro modelo.
@@ -180,8 +176,9 @@
 				'aCAL' => 'Id de Calendario Google donde estan las clases.',
 				'aCUE' => 'Cuenta CCEI asignada al aula.'
 				]
-		],
-	];
+			]
+		
+		];
 
 	
 	function getEstado($aID){
