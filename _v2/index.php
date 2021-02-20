@@ -15,11 +15,5 @@
 	define('APPLNKPUB', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual');
 
 
-	require_once '_src/Formr/class.formr.php';
-
-	$form = new Formr\Formr();
-
-	$form->create_form('Name, Email, Comments|textarea');
-
 
 ?>
