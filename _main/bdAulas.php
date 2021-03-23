@@ -39,6 +39,8 @@
 		[ 
 			"0=Bloqueda" 
 		],[ 
+			"ICI6to",
+			"IEL6to",
 			"APublica",
 			"1=BASIC"
 		],[ 
@@ -47,7 +49,6 @@
 			"ICI3ro",
 			"ICI4to",
 			"ICI5to",
-			"ICI6to",
 			"IEM1ro",
 			"IEM2do",
 			"IEM3ro",
@@ -58,7 +59,6 @@
 			"IEL3ro",
 			"IEL4to",
 			"IEL5to",
-			"IEL6to",
 			"PI21IntCA",
 			"PI21IntCB",
 			"PreIngComA",

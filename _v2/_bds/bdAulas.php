@@ -7,7 +7,7 @@
 
 		'Ingeniería Civil' => [
 
-			'ICI211ro' => [ 
+			'ICI1ro21' => [ 
 				'aCUE' => 'vc02'
 				'aNOM' => 'Ingeniería Civil [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0Cwf44jcSVV9t54r0ykksRV',
@@ -15,7 +15,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'ICI212do' => [ 
+			'ICI2do21' => [ 
 				'aCUE' => 'vc05'
 				'aNOM' => 'Ingeniería Civil [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0BO2Oi4y9BsxfhVHP7DAvjH',
@@ -23,7 +23,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'ICI213ro' => [ 
+			'ICI3ro21' => [ 
 				'aCUE' => 'vc08'
 				'aNOM' => 'Ingeniería Civil [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0BoRPUx0szagXoK9vRrt0gp',
@@ -31,7 +31,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'ICI214to' => [ 
+			'ICI4to21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Civil [4to Año]',
 				'aYTB' => 'PLSOY8GuPHc0CtmmekAJGx1pXDFlqL-i5q',
@@ -39,7 +39,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'ICI215to' => [ 
+			'ICI5to21' => [ 
 				'aCUE' => 'ur01'
 				'aNOM' => 'Ingeniería Civil [5to Año]',
 				'aYTB' => 'PLSOY8GuPHc0CcZ5DsBMX4u3gIKG87a6up',
@@ -47,7 +47,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'ICI216to' => [ 
+			'ICI6to21' => [ 
 				'aCUE' => 'ur02'
 				'aNOM' => 'Ingeniería Civil [6to Año]',
 				'aYTB' => 'id pList YouTube',
@@ -58,7 +58,7 @@
 		
 		'Ingeniería Electromecánica' => [
 
-			'IEM211ro' => [ 
+			'IEM1ro21' => [ 
 				'aCUE' => 'vc03'
 				'aNOM' => 'Ingeniería Electromecánica [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0D1cIUQ6KE4Fa80VxzqlZGM',
@@ -66,7 +66,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEM212do' => [ 
+			'IEM2do21' => [ 
 				'aCUE' => 'vc06'
 				'aNOM' => 'Ingeniería Electromecánica [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0DVtPWmPaY0PavhT8WINUuB',
@@ -74,7 +74,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEM213ro' => [ 
+			'IEM3ro21' => [ 
 				'aCUE' => 'vc09'
 				'aNOM' => 'Ingeniería Electromecánica [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0DIwhv2NBaOIrORDH1FafVc',
@@ -82,7 +82,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEM214to' => [ 
+			'IEM4to21' => [ 
 				'aCUE' => 'ur03'
 				'aNOM' => 'Ingeniería Electromecánica [4to Año]',
 				'aYTB' => 'PLSOY8GuPHc0AefuPEpkENOln2aFecc2Ex',
@@ -90,7 +90,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEM215to' => [ 
+			'IEM5to21' => [ 
 				'aCUE' => 'ur08'
 				'aNOM' => 'Ingeniería Electromecánica [5to Año]',
 				'aYTB' => 'id pList YouTube',
@@ -101,7 +101,7 @@
 
 		'Ingeniería Electrónica' => [
 
-			'IEL211ro' => [ 
+			'IEL1ro21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [1er Año]',
 				'aYTB' => 'PLSOY8GuPHc0ABU9DTJ3u4IFXlPWtpE3Fc',
@@ -109,7 +109,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEL212do' => [ 
+			'IEL2do21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [2do Año]',
 				'aYTB' => 'PLSOY8GuPHc0DQ3sghyebH3509oFmL61Hn',
@@ -117,7 +117,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEL213ro' => [ 
+			'IEL3ro21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [3er Año]',
 				'aYTB' => 'PLSOY8GuPHc0BUcYc7vMS0tkRQDkEat9vv',
@@ -125,7 +125,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEL214to' => [ 
+			'IEL4to21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [4to Año]',
 				'aYTB' => 'id pList YouTube',
@@ -133,7 +133,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEL215to' => [ 
+			'IEL5to21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [5to Año]',
 				'aYTB' => 'id pList YouTube',
@@ -141,7 +141,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'IEL216to' => [ 
+			'IEL6to21' => [ 
 				'aCUE' => 'vc11'
 				'aNOM' => 'Ingeniería Electrónica [6to Año]',
 				'aYTB' => 'id pList YouTube',
@@ -152,7 +152,7 @@
 		
 		'Pre-Ingreso' => [
 
-			'PI21IntCA' => [ 
+			'PIICA21' => [ 
 				'aCUE' => 'ur16'
 				'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión A]',
 				'aYTB' => 'PLSOY8GuPHc0AiPKzvqodComhSydOLVUXB',
@@ -160,7 +160,7 @@
 				'aGEN' => 'Id Genially'
 				],
 		
-			'PI21IntCB' => [ 
+			'PIICB21' => [ 
 				'aCUE' => 'ur17'
 				'aNOM' => 'Pre-Ingreso2021 Intensivo [Comisión B]',
 				'aYTB' => 'PLSOY8GuPHc0BPNoXmdoY55G_8ftUnAMjs',
