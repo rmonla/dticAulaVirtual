@@ -1,6 +1,6 @@
 <?php  
 
-	define('APPVER', '2.21.1');
+	define('APPVER', '2.0.1');
 	define('APPNOM', 'dticAulaVirtual');
 
 	define('APPDET', '
