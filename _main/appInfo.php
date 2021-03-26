@@ -14,10 +14,10 @@
       ');
 
     $verLog = [
-      '2.0.1' => [
-        '---F210326H0321' => 'Divido en partes el html.',
-        'F210326H1446' => 'Actualiza y re-genera la bdAULAs.php',
-        'F210326H0146' => 'Inicio de codificación ver 2.0.1'
+      '3.0' => [
+        '3.0.3 => Divide en secciones de código HTML con las funciones getHTMLs.php.',
+        '3.0.2 => Actualiza y re-genera la bdAULAs.php',
+        '3.0.1 => Inicia codificación de la versión 3.0'
       ]
     ];
 
