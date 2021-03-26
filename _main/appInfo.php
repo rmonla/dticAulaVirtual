@@ -15,8 +15,9 @@
 
     $verLog = [
       '2.0.1' => [
-        'F210326T0321' => 'Divido en partes el html.',
-        'F210326T0146' => 'Inicio de codificación ver 2.0.1'
+        '---F210326H0321' => 'Divido en partes el html.',
+        'F210326H1446' => 'Actualiza y re-genera la bdAULAs.php',
+        'F210326H0146' => 'Inicio de codificación ver 2.0.1'
       ]
     ];
 

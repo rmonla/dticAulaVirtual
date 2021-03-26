@@ -1,6 +1,5 @@
 <?php 
     include_once '_main/fxs.php';
-    include_once '_main/appInfo.php';
 
  ?>
 <!DOCTYPE html>
