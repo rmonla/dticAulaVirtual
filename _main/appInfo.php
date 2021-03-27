@@ -1,6 +1,6 @@
 <?php 
 
-    define('APPVER', '3.0.4');
+    define('APPVER', '3.1.1');
     define('APPNOM', 'dticAulaVirtual');
     define('APPAUT', 'Ricardo MONLA <rmonla@gmail.com>');
     define('APPDEV', 'https://github.com/rmonla/dticAulaVirtual');
@@ -14,6 +14,9 @@
       ');
 
     $verLog = [
+      '3.1' => [
+        '3.1.1 => Actualiza registros de la bdAulas.php'
+      ]
       '3.0' => [
         '3.0.4 => Optimiza y limpia código.',
         '3.0.3 => Divide en secciones de código HTML con las funciones getHTMLs.php.',
