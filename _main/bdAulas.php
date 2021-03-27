@@ -19,7 +19,8 @@ $bdAULAs = [
 ['Ingeniería Electrónica | IEL','IEL3ro21','vc10','PRO','PLSOY8GuPHc0B2XXKDRFyZwtslPeI69ovR','','98516961454','IEL3ro21 | 3er Año - Ingeniería Electrónica | UTNLaRioja 2021'],
 ['Ingeniería Electrónica | IEL','IEL4to21','ur05','PRO','PLSOY8GuPHc0Bd1PJiRKKXK4Lw6HOxYpIg','','87158704025','IEL4to21 | 4to Año - Ingeniería Electrónica | UTNLaRioja 2021'],
 ['Ingeniería Electrónica | IEL','IEL5to21','ur06','PRO','PLSOY8GuPHc0BdQF6Eb61kQQt-Q0vSeje4','','86704574586','IEL5to21 | 5to Año - Ingeniería Electrónica | UTNLaRioja 2021'],
-['Ingeniería Electrónica | IEL','IEL6to21','ur07','PRO','PLSOY8GuPHc0DRhNsS5laxNnIbH8DTTJ7U','','86112055078','IEL6to21 | 6to Año - Ingeniería Electrónica | UTNLaRioja 2021']
+['Ingeniería Electrónica | IEL','IEL6to21','ur07','PRO','PLSOY8GuPHc0DRhNsS5laxNnIbH8DTTJ7U','','86112055078','IEL6to21 | 6to Año - Ingeniería Electrónica | UTNLaRioja 2021'],
+['Octógono | OCT','SUMOCT21','vc21','BAS','','','435997049','SUMOCT21 | Aula Pública | UTNLaRioja 2021']
 ];
 // GRUPO	IDCICLO	COD	ESTADO	IDPLIST	IDCAL	IDZOOM	NOMBRE
 

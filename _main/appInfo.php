@@ -1,6 +1,6 @@
 <?php 
 
-    define('APPVER', '3.1.1');
+    define('APPVER', '3.1.2');
     define('APPNOM', 'dticAulaVirtual');
     define('APPAUT', 'Ricardo MONLA <rmonla@gmail.com>');
     define('APPDEV', 'https://github.com/rmonla/dticAulaVirtual');
@@ -15,6 +15,8 @@
 
     $verLog = [
       '3.1' => [
+        '---3.1.3 => Sacar los sin plailist.',
+        '3.1.2 => bdAulas - Agrega Aula Pública Octógono.',
         '3.1.1 => Actualiza registros de la bdAulas.php'
       ],
       '3.0' => [
