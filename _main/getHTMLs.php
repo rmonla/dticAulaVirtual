@@ -56,11 +56,11 @@ function getAulas($bdAus = []){
 		$hImg = "<img src='_imgs/logoZoom.png' alt='Acceso Zoom' style='width:42px;height:42px;'>";
 		$aAu[] = "<a target='_blank' href='$urlZ'>$hImg</a>";
 		
-		//$hAu[] = " --> ";
-		
-		$urlY = "https://www.youtube.com/playlist?list=$aIDPLIST";
-		$hImg = "<img src='_imgs/logoYTB.png' alt='Clases Grabadas' style='width:42px;height:42px;'>";
-		$aAu[] = "<a target='_blank' href='$urlY'>$hImg</a>";
+		if ( $aIDPLIST != '' ) {
+			$urlY = "https://www.youtube.com/playlist?list=$aIDPLIST";
+			$hImg = "<img src='_imgs/logoYTB.png' alt='Clases Grabadas' style='width:42px;height:42px;'>";
+			$aAu[] = "<a target='_blank' href='$urlY'>$hImg</a>";
+		}
 
 		$hAu = implode(" ", $aAu);
 		$hAus .= "<p class='align-center' mbr-fonts-style panel-text display-7'>$hAu</p>";

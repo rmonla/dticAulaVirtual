@@ -14,9 +14,7 @@
       ');
 
     $verLog = [
-      '---X.X => Sacar los sin plailist.',
-      
-
+      '3.2.4 => Enlaces - Saca el icono sin playlist.',
       '3.2.3 => Enlaces - Agrega iconos de acceso a zoom y youtube.',
       '3.2.2 => bdAulas - Cambia nombres de aulas.',
       '3.2.1 => Ver LOGs - Actualiza lista de logs de versiones.',
