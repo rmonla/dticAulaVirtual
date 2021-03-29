@@ -1,6 +1,6 @@
 <?php 
 
-    define('APPVER', '3.1.2');
+    define('APPVER', '3.2.1');
     define('APPNOM', 'dticAulaVirtual');
     define('APPAUT', 'Ricardo MONLA <rmonla@gmail.com>');
     define('APPDEV', 'https://github.com/rmonla/dticAulaVirtual');
@@ -14,17 +14,15 @@
       ');
 
     $verLog = [
-      '3.1' => [
-        '---3.1.3 => Sacar los sin plailist.',
-        '3.1.2 => bdAulas - Agrega Aula Pública Octógono.',
-        '3.1.1 => Actualiza registros de la bdAulas.php'
-      ],
-      '3.0' => [
-        '3.0.4 => Optimiza y limpia código.',
-        '3.0.3 => Divide en secciones de código HTML con las funciones getHTMLs.php.',
-        '3.0.2 => Actualiza y re-genera la bdAULAs.php',
-        '3.0.1 => Inicia codificación de la versión 3.0'
-      ]
+      '3.2.1 => Ver LOGs - Actualizo lista de logs de versiones.',
+      '---3.1.4 => Sacar los sin plailist.',
+      '---3.1.3 => Sacar los sin plailist.',
+      '3.2 => bdAulas - Agrega Aula Pública Octógono.',
+      '3.1 => Actualiza registros de la bdAulas.php'
+      '3.0.3 => Optimiza y limpia código.',
+      '3.0.2 => Divide en secciones de código HTML con las funciones getHTMLs.php.',
+      '3.0.1 => Actualiza y re-genera la bdAULAs.php',
+      '3.0 => Inicia codificación de la versión 3.0'
     ];
 
  ?>
