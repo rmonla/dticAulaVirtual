@@ -44,15 +44,10 @@ function getAulas($bdAus = []){
 
 	foreach ($bdAus as $au) {
 		$aAu = [];
-		//$hAu = '';
 
 		// $au = [IDPLIST, IDCAL, IDZOOM, NOMBRE];
 		list($aIDPLIST, $aIDCAL, $aIDZOOM, $aNOMBRE) = $au;
 
-
-		// if ( is_numeric($aIDZOOM) ) echo $aIDZOOM."<br>";
-		// $urlZ = "https://zoom.us/j/$aIDZOOM";
-		
 		$urlZ = ( is_numeric($aIDZOOM) ) ? "https://zoom.us/j/$aIDZOOM" : $aIDZOOM ;
 
 		$aAu[] = "<a target='_blank' href='$urlZ'>$aNOMBRE</a>";
@@ -91,7 +86,8 @@ function getCont(){
 }
 
 function getBody(){
-  $appver = APPVER;
+  $appURL = APPPUB;
+  $appVER = APPVER;
   $hCont = getCont();
   
   return <<<HTML
@@ -104,7 +100,7 @@ function getBody(){
 		                  <h2 class="mbr-section-title pb-5 mbr-fonts-style display-2"
 		                  >Aulas Virtuales - UTNLaRioja</h2>
 		                  <div class="align-right">
-		                  	<a href='#'>$appver</a>
+		                  	<a href='$appURL'>$appVER</a>
 		                  	</div>
 		              </div>
 		              <div class="clearfix"></div>
