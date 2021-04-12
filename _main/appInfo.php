@@ -13,6 +13,8 @@
       ');
 
     $logVERs = [
+      '3.5' => 'IDZOOM - Si no es entero el IDZ coloca URL y saca logo zoom.',
+      '3.4' => 'bdAulas - Actualiza lista de aulas.',
       '3.3.1' => 'Sitio - Se publica en sitio sin problemas.',
       '3.2.5' => 'logVERs - Toma automáticamente el valor de versión desde la keys de logVERs.',
       '3.2.4' => 'Enlaces - Saca el icono sin playlist.',
