@@ -50,14 +50,17 @@ function getAulas($bdAus = []){
 		list($aIDPLIST, $aIDCAL, $aIDZOOM, $aNOMBRE) = $au;
 
 
-		// $urlZ = ( is_int($aIDZOOM) ) ? "https://zoom.us/j/$aIDZOOM" : $aIDZOOM ;
-		$urlZ = "https://zoom.us/j/$aIDZOOM";
+		// if ( is_numeric($aIDZOOM) ) echo $aIDZOOM."<br>";
+		// $urlZ = "https://zoom.us/j/$aIDZOOM";
+		
+		$urlZ = ( is_numeric($aIDZOOM) ) ? "https://zoom.us/j/$aIDZOOM" : $aIDZOOM ;
+
 		$aAu[] = "<a target='_blank' href='$urlZ'>$aNOMBRE</a>";
 		
-		// if ( is_int($aIDZOOM) ) {
-		$hImg = "<i	mg src='_imgs/logoZoom.png' alt='Acceso Zoom' style='width:42px;height:42px;'>";
-		$aAu[] = "<a t	arget='_blank' href='$urlZ'>$hImg</a>";
-		// }
+		if ( is_numeric($aIDZOOM) ) {
+			$hImg = "<img src='_imgs/logoZoom.png' alt='Acceso Zoom' style='width:42px;height:42px;'>";
+			$aAu[] = "<a t	arget='_blank' href='$urlZ'>$hImg</a>";
+		}
 		
 		if ( $aIDPLIST != '' ) {
 			$urlY = "https://www.youtube.com/playlist?list=$aIDPLIST";

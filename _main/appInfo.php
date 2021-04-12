@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.7' => 'IDZOOM - Si no es entero el IDZ coloca URL y saca logo zoom.',
       '3.6' => 'BUG - Corrige error de ids de ZOMM.',
       '3.5' => 'IDZOOM - Si no es entero el IDZ coloca URL y saca logo zoom.',
       '3.4' => 'bdAulas - Actualiza lista de aulas.',
