@@ -6,7 +6,7 @@
 	$desc = "Presentador Digital";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
-	$genialyID = "607472307cf7370d7bb5608d";
+	$genialyID = "6075e7ad5ba9090dba621700";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	

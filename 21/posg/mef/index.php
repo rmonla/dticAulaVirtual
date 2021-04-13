@@ -2,11 +2,11 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
 	
-	$titu = "1er Año - LTE - UTNLaRioja 2021";
+	$titu = "MÉTODOS DE ELEMENTOS FINITOS - UTNLaRioja 2021";
 	$desc = "Presentador Digital";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
-	$genialyID = "6075e5fa4084460cf3da4aab";
+	$genialyID = "6075df5fbba8170d0efec5f1";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	

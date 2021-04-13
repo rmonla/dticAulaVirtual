@@ -13,6 +13,8 @@
       ');
 
     $logVERs = [
+      '3.10' => 'Enlaces - Actualiza Curso LTE1ro, LTE2do, LHST1ro y POSG-MEF.',
+      '3.9' => 'bdAulas - Actualiza lista de aulas.',
       '3.8' => 'INDEX - appVER redirecciona a appPUB.',
       '3.7' => 'IDZOOM - Si no es entero el IDZ coloca URL y saca logo zoom.',
       '3.6' => 'BUG - Corrige error de ids de ZOMM.',
