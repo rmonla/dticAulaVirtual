@@ -2,8 +2,8 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
 	
-	$titu = "MÉTODOS DE ELEMENTOS FINITOS - UTNLaRioja 2021";
-	$desc = "Presentador Digital";
+	$titu = "Especialización y Maestría en Ingeniería Ambiental - UTNLaRioja 2021";
+	$desc = "Aula Virtual";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "6075df5fbba8170d0efec5f1";

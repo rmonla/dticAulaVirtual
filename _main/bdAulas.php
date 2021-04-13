@@ -23,7 +23,7 @@ $bdAULAs = [
 ['Lic. en Tecnología Educativa | LTE','LTE1ro21','ug01','PRO','','','./21/cat/lte1ro','1er Año - LTE - UTNLaRioja 2021'],
 ['Lic. en Tecnología Educativa | LTE','LTE2do21','ug01','PRO','','','./21/cat/lte2do','2do Año - LTE - UTNLaRioja 2021'],
 ['Octógono | OCT','SUMOCT21','vc21','BAS','','','435997049','Aula Pública | UTNLaRioja 2021'],
-['Posgrados | POSG','POSGMEF21','posgmef','PRO','','','./21/posg/mef','MÉTODOS DE ELEMENTOS FINITOS - UTNLaRioja 2021'],
+['Posgrados | POSG','POSGEMIA-21','posg-emia','PRO','','','./21/posg/emia','Especialización y Maestría en Ingeniería Ambiental - UTNLaRioja 2021'],
 ['Tec. Universitaria en Hig. y Seguridad en el Trabajo | TUHST','TUHST1ro21','ug01','PRO','','','./21/cat/tuhst1ro','1er Año - TUHST - UTNLaRioja 2021'],
 ['Tec. Universitaria en Hig. y Seguridad en el Trabajo | TUHST','TUHST2do21','ug01','PRO','','','./21/cat/tuhst2do','2do Año - TUHST - UTNLaRioja 2021'],
 ['Tecnicatura Universitaria en Programación | TUP','TUP1ro21','ug01','PRO','','','./21/cat/tup1ro','1er Año - TUP - UTNLaRioja 2021'],
