@@ -1,9 +1,11 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	
-	$titu = "1er Año - THS - UTNLaRioja 2021";
-	$desc = "Presentador Digital";
+	$dest = URL."21/cat/tuhst1ro";
+	
+	$titu = "TUHST1ro - UTNLaRioja 2021";
+	$desc = "Aula Virtual";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "6073f944bb4aff0d42db93b1";
@@ -13,7 +15,6 @@
 	$imag = URL."img4.jpg";
 
 	$time = 1800;
-	$dest = URL;
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing?01
 

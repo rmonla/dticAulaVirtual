@@ -1,8 +1,10 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	
-	$titu = "Especialización y Maestría en Ingeniería Ambiental - UTNLaRioja 2021";
+	$dest = URL."21/posg/emia";
+	
+	$titu = "POSG-EMIA - UTNLaRioja 2021";
 	$desc = "Aula Virtual";
 	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
@@ -13,7 +15,6 @@
 	$imag = URL."img4.jpg";
 
 	$time = 1800;
-	$dest = URL;
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing?01
 

@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.13' => 'BUG - Soluciona error de refresh y retorno a página (URL).',
       '3.12' => 'Enlaces - Cambia POSG-MEF por POSG-EMIA.',
       '3.11' => 'Enlaces - Soluciona 21/ca/thst2do 21/ca/thst2do.',
       '3.10' => 'Enlaces - Actualiza Curso LTE1ro, LTE2do, LHST1ro y POSG-MEF.',
