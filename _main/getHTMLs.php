@@ -113,8 +113,6 @@ function getBody(){
 		        </div>
 		    </div>
 		  </section>
-		<section class="engine">
-			<a href="https://mobirise.info/a">online website builder</a></section>
 		<script src="assets/web/assets/jquery/jquery.min.js"></script>
 		<script src="assets/popper/popper.min.js"></script>
 		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -122,15 +120,6 @@ function getBody(){
 		<script src="assets/smoothscroll/smooth-scroll.js"></script>
 		<script src="assets/mbr-switch-arrow/mbr-switch-arrow.js"></script>
 		<script src="assets/theme/js/script.js"></script>
-
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175446358-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-		  gtag('config', 'UA-175446358-1');
-		</script>
 	</body>
 HTML;
 }
@@ -138,10 +127,8 @@ HTML;
 function getHead(){
   return <<<HTML
 	<head>
-	  <!-- Site made with Mobirise Website Builder v4.11.6, https://mobirise.com -->
 	  <meta charset="UTF-8">
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	  <meta name="generator" content="Mobirise v4.11.6, mobirise.com">
 	  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	  <link rel="shortcut icon" href="assets/images/dticAulaVirtual.png" type="image/x-icon">
 	  <meta name="description" content="">
