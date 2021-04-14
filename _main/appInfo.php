@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.15' => '21/lagies - Agrega accesos zoom, clases y campus.',
       '3.14' => 'INDEX - Limpia código de Mobirice y Google.',
       '3.13' => 'BUG - Soluciona error de refresh y retorno a página (URL).',
       '3.12' => 'Enlaces - Cambia POSG-MEF por POSG-EMIA.',
