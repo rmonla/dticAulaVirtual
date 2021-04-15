@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.18' => 'versión PHP - Se retorna al modo PHP.',
       '3.17' => 'verHTML - Soluciona htmls de carreras a término.',
       '3.16' => 'verHTML - Por caída de enlace se arma y publica esta versión HTML en https://rmonla.github.io/dticAulaVirtual.',
       '3.15' => '21/lagies - Agrega accesos zoom, clases y campus.',
