@@ -4,7 +4,7 @@
 	
 	$dest = URL."21/final/0423ICI/";
 
-	$titu = "Presentación de Proyecto Final | Ingeniería Civil | UTNLaRioja";
+	$titu = "RESIDENCIA UNIVERSITARIA UTN FRLR | P.FINAL | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 23 Abril 19 Hs.]";
 	
 	$genialyID = "6080efacb3b2db0cfbbe95cf";
