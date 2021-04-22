@@ -1,7 +1,9 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	
+	$dest = URL."21/final/0423ICI";
+
 	$titu = "Presentacion de Proyecto Final | Ingeniería Civil | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 23 Abril 19 Hs.]";
 	
@@ -9,10 +11,9 @@
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
-	$imag = URL."img4.jpg";
+	$imag = URL."_imgs/logoUTNLR-Mini.png";
 
 	$time = 1800;
-	$dest = "../0423ICI";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL?01
 
