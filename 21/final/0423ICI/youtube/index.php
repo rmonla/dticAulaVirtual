@@ -1,5 +1,5 @@
 <?php
-	$newURL = 'https://youtu.be/kQCCkWDm-Ag';
+	$newURL = 'https://youtu.be/Es6Y2HhvOKw';
 	header('Location: '.$newURL);
 	die();
 
