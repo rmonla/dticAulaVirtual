@@ -4,7 +4,7 @@
 	
 	$dest = URL."21/final/0423ICI";
 
-	$titu = "Presentacion de Proyecto Final | Ingeniería Civil | UTNLaRioja";
+	$titu = "Presentación de Proyecto Final | Ingeniería Civil | UTNLaRioja";
 	$desc = "Accesos a la presentación [ 23 Abril 19 Hs.]";
 	
 	$genialyID = "6080efacb3b2db0cfbbe95cf";
@@ -15,7 +15,7 @@
 
 	$time = 1800;
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/finales/201229-IEL?01
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/final/0423ICI/?01
 
 	echo <<<HTML
 
