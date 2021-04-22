@@ -1,5 +1,5 @@
 <?php
-	$newURL = 'https://photos.app.goo.gl/BPQ7RhooLjrbHVkv5';
+	$newURL = 'https://photos.app.goo.gl/D7VQaQomAL8Bi5KJ9';
 	header('Location: '.$newURL);
 	die();
 
