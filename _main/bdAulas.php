@@ -26,8 +26,9 @@ $bdAULAs = [
 ['Posgrados | POSG','POSGEMIA-21','posg-emia','PRO','','','./21/posg/emia','Especialización y Maestría en Ingeniería Ambiental - UTNLaRioja 2021'],
 ['Tec. Universitaria en Hig. y Seguridad en el Trabajo | TUHST','TUHST1ro21','ug01','PRO','','','./21/cat/tuhst1ro','1er Año - TUHST - UTNLaRioja 2021'],
 ['Tec. Universitaria en Hig. y Seguridad en el Trabajo | TUHST','TUHST2do21','ug01','PRO','','','./21/cat/tuhst2do','2do Año - TUHST - UTNLaRioja 2021'],
-['Tecnicatura Universitaria en Programación | TUP','TUP1ro21','ug01','PRO','','','./21/cat/tup1ro','1er Año - TUP - UTNLaRioja 2021'],
-['Tecnicatura Universitaria en Programación | TUP','TUP2do21','ug01','PRO','','','./21/cat/tup2do','2do Año - TUP - UTNLaRioja 2021']
+['Tec. Universitaria en Programación | TUP','TUP1ro21','ug01','PRO','','','./21/cat/tup1ro','1er Año - TUP - UTNLaRioja 2021'],
+['Tec. Universitaria en Programación | TUP','TUP2do21','ug01','PRO','','','./21/cat/tup2do','2do Año - TUP - UTNLaRioja 2021'],
+['Tec. Universitaria en Seguridad Vial | TUSV','TUSV21.2do','ug06','PRO','','','./21/cat/tusv2do','2do Año - TUSV - UTNLaRioja 2021']
 ];
 // GRUPO	IDCICLO	COD	ESTADO	IDPLIST	IDCAL	IDZOOM	NOMBRE
 
