@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.23' => 'PMEF21 - Agrega S al nombre del curso.',
       '3.22' => 'PMEF21 - Crea carpeta y enlace principal al curso.',
       '3.21' => 'TUSV21.2do - Crea carpeta y enlace principal.',
       '3.20' => 'Final210423-ICI - Actualiza enlaces e imágenes.',
