@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.26' => 'PMEF21 - Agrega posg/mef/doc - Formulario de Alta de Documentación.',
       '3.25' => 'rmAPP - Cambia ubicación del archivo.',
       '3.24' => 'PMEF21 - 
         Agrega posg/mef/inscs - Planilla de inscriptos.
