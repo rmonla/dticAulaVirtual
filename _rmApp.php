@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '3.25' => 'rmAPP - Cambia ubicación del archivo.',
       '3.24' => 'PMEF21 - 
         Agrega posg/mef/inscs - Planilla de inscriptos.
         Agrega posg/mef/insc - Formulario de Pre-Inscripción.
