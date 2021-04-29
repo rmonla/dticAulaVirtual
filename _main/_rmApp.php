@@ -13,6 +13,10 @@
       ');
 
     $logVERs = [
+      '3.24' => 'PMEF21 - 
+        Agrega posg/mef/inscs - Planilla de inscriptos.
+        Agrega posg/mef/insc - Formulario de Pre-Inscripción.
+        Agrega posg/mef/insc - Planilla y Formulario de Documentación.',
       '3.23' => 'PMEF21 - Agrega S al nombre del curso.',
       '3.22' => 'PMEF21 - Crea carpeta y enlace principal al curso.',
       '3.21' => 'TUSV21.2do - Crea carpeta y enlace principal.',
