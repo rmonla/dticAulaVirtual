@@ -64,6 +64,18 @@ function getAulas($bdAs=''){
 
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
 			}
+		// Enlace Google Calendar. 'htmlembed' : 'embed'
+			if ( $aIDCAL ) {
+				$aIDCAL = "$aIDCAL@group.calendar.google.com";
+				$aURL = "https://calendar.google.com/calendar/embed?src=$aIDCAL&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
+				// $aURL = "https://calendar.google.com/calendar/u/0/r?cid=$aIDCAL&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
+				// "https://calendar.google.com/calendar/$code?src=".getIdCal($idcal)."&ctz=America%2FArgentina%2FLa_Rioja&mode=$modo"
+
+				$imgSRC = '_imgs/logoGoogleCAL.png';
+				$imgHTML = "<img src='$imgSRC' alt='Calendario de Clases' style='width:42px;height:42px;'>";
+
+				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
+			}
 		// Cargo HTML del Aula.
 			$hLNKs = implode(" ", $aLNKs);
 			$hAulas .= "<p class='align-center' mbr-fonts-style panel-text display-7'>$hLNKs</p>";
