@@ -87,7 +87,7 @@ function getCont(){
 
 function getBody(){
   $appURL = APPPUB;
-  $appVER = APPVER;
+  $appVER = 'v'.APPVER;
   $hCont = getCont();
   
   return <<<HTML
