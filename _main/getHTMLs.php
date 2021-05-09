@@ -1,20 +1,4 @@
 <?php  
-function procAulas(){
-	global $bdAULAs;
-	
-	$bdProc = [];
-
-	foreach ($bdAULAs as $aula) {
-		$grup = $aula[0];
-		// Si no está el indice de grupo lo genero.
-		if ( !isset($bdProc[$grup]) ) $bdProc[$grup] = [];
-		// Cargo los demas valores como nueva aula del grupo.
-		$bdProc[$grup][] = array_slice($aula,4);
-
-	}
-	return $bdProc;
-}
-
 function getGrupo($grupo='', $titulo='', $aulas=''){
     $grupo2 = $grupo . '_0';
     
@@ -37,58 +21,60 @@ function getGrupo($grupo='', $titulo='', $aulas=''){
 HTML;
   }
 
-function getAulas($bdAus = []){
+function getGrupos(){
+	global $bdAs;
+	$hGrupos = '';
 
-	// Html de enlaces.
-		$hAus = '';
+	foreach ($bdAs as $gGRUPO => $gAULAS) {
+		$hAulas = '';
+		list( $gNOM, $gCOD ) = explode(" | ", $gGRUPO);
 
-	foreach ($bdAus as $au) {
-		$aAu = [];
+		$hAulas = getAulas($gAULAS);
 
-		// $au = [IDPLIST, IDCAL, IDZOOM, NOMBRE];
-		list($aIDPLIST, $aIDCAL, $aIDZOOM, $aNOMBRE) = $au;
-
-		$urlZ = ( is_numeric($aIDZOOM) ) ? "https://zoom.us/j/$aIDZOOM" : $aIDZOOM ;
-
-		$aAu[] = "<a target='_blank' href='$urlZ'>$aNOMBRE</a>";
-		
-		if ( is_numeric($aIDZOOM) ) {
-			$hImg = "<img src='_imgs/logoZoom.png' alt='Acceso Zoom' style='width:42px;height:42px;'>";
-			$aAu[] = "<a t	arget='_blank' href='$urlZ'>$hImg</a>";
-		}
-		
-		if ( $aIDPLIST != '' ) {
-			$urlY = "https://www.youtube.com/playlist?list=$aIDPLIST";
-			$hImg = "<img src='_imgs/logoYTB.png' alt='Clases Grabadas' style='width:42px;height:42px;'>";
-			$aAu[] = "<a target='_blank' href='$urlY'>$hImg</a>";
-		}
-
-		$hAu = implode(" ", $aAu);
-		$hAus .= "<p class='align-center' mbr-fonts-style panel-text display-7'>$hAu</p>";
-
+		$hGrupos .= getGrupo($gCOD, $gNOM, $hAulas);
 	}
-	return $hAus;
+	return $hGrupos;
 }
 
-function getCont(){
-	$hCont = '';
-	$bdAs = procAulas();
+function getAulas($bdAs=''){
+	$hAulas = '';
+	foreach ($bdAs as $aID => $aDATS) {
+		// Inicio variables.
+			$aLNKs = [];
+			# aID => [aNOM, aIDA, aIDPL, aIDCAL]
+			list($aNOM, $aIDA, $aIDPL, $aIDCAL) = $aDATS;
+		// Enlace AULA.
+			if ( is_numeric($aIDA) ) {
+				$aURL = "https://zoom.us/j/$aIDA";
 
-	foreach ($bdAs as $grup => $bdAus) {
-		
-		list($gNom, $gCod) = explode(" | ", $grup);
-		
-		$hCont .= getGrupo( $gCod, $gNom, getAulas($bdAus) );
-	
+				$imgSRC = '_imgs/logoZoom.png';
+				$imgHTML = "<img src='$imgSRC' alt='Acceso Zoom' style='width:42px;height:42px;'>";
+				
+				$aLNKs[] = "<a target='_blank' href='$aURL'>$aNOM</a>";
+				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
+			
+			} else 
+				$aLNKs[] = "<a target='_blank' href='$aIDA'>$aNOM</a>";
+		// Enlace Play List YTB.
+			if ( $aIDPL ) {
+				$aURL = "https://www.youtube.com/playlist?list=$aIDPL";
+
+				$imgSRC = '_imgs/logoYTB.png';
+				$imgHTML = "<img src='$imgSRC' alt='Clases Grabadas' style='width:42px;height:42px;'>";
+
+				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
+			}
+		// Cargo HTML del Aula.
+			$hLNKs = implode(" ", $aLNKs);
+			$hAulas .= "<p class='align-center' mbr-fonts-style panel-text display-7'>$hLNKs</p>";
 	}
-
-	return $hCont;
+	return $hAulas;
 }
 
 function getBody(){
   $appURL = APPPUB;
   $appVER = 'v'.APPVER;
-  $hCont = getCont();
+  $hCont = getGrupos();
   
   return <<<HTML
 	<body>
