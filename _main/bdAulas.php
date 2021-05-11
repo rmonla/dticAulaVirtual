@@ -51,8 +51,8 @@ $bdAs = [
 	],
 	
 	'Posgrados | POSG' => [
-		'POSG.EMIA.21' => ['Esp. y Maestría en Ingeniería Ambiental - UTNLaRioja 2021','./21/posg/emia','PLSOY8GuPHc0CHSv2OPTWnU3VgqwYkC5pk','8a35a6oev6gk29cepiqp28opgc'],
-		'POSG.MEF.21'  => ['Método de Elementos Finitos - UTNLaRioja 2021','./21/posg/mef','PLSOY8GuPHc0AdVmrKvqXlNuOkVbcxUGHD','90dlmf0j5c9a5h09jkhbojcuss']
+		'POSG.EMIA21' => ['Esp. y Maestría en Ingeniería Ambiental - UTNLaRioja 2021','./21/posg/emia','PLSOY8GuPHc0CHSv2OPTWnU3VgqwYkC5pk','8a35a6oev6gk29cepiqp28opgc'],
+		'POSG.MEF21'  => ['Método de Elementos Finitos - UTNLaRioja 2021','./21/posg/mef','PLSOY8GuPHc0AdVmrKvqXlNuOkVbcxUGHD','90dlmf0j5c9a5h09jkhbojcuss']
 	],
 
 	'Octógono | OCT' => [

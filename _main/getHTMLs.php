@@ -48,7 +48,7 @@ function getAulas($bdAs=''){
 				$aURL = "https://zoom.us/j/$aIDA";
 
 				$imgSRC = '_imgs/logoZoom.png';
-				$imgHTML = "<img src='$imgSRC' alt='Acceso Zoom' style='width:42px;height:42px;'>";
+				$imgHTML = "<img src='$imgSRC' alt='Acceso Zoom' style='width:35px;'>";
 				
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$aNOM</a>";
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
@@ -60,7 +60,7 @@ function getAulas($bdAs=''){
 				$aURL = "https://www.youtube.com/playlist?list=$aIDPL";
 
 				$imgSRC = '_imgs/logoYTB.png';
-				$imgHTML = "<img src='$imgSRC' alt='Clases Grabadas' style='width:42px;height:42px;'>";
+				$imgHTML = "<img src='$imgSRC' alt='Clases Grabadas' style='width:40px;'>";
 
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
 			}
@@ -69,10 +69,12 @@ function getAulas($bdAs=''){
 				$aIDCAL = "$aIDCAL@group.calendar.google.com";
 				$aURL = "https://calendar.google.com/calendar/embed?src=$aIDCAL&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
 				// $aURL = "https://calendar.google.com/calendar/u/0/r?cid=$aIDCAL&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
-				// "https://calendar.google.com/calendar/$code?src=".getIdCal($idcal)."&ctz=America%2FArgentina%2FLa_Rioja&mode=$modo"
-
-				$imgSRC = '_imgs/logoGoogleCAL.png';
-				$imgHTML = "<img src='$imgSRC' alt='Calendario de Clases' style='width:42px;height:42px;'>";
+				$icoD = date("j");
+				// $icoD = date_format(date_create($strF), '.d.M.H:i');
+				$imgSRC = '//ssl.gstatic.com/calendar/images/dynamiclogo_2020q4/calendar_'.$icoD.'_2x.png';
+				// $imgSRC = '//ssl.gstatic.com/calendar/images/dynamiclogo_2020q4/calendar_'.$icoD.'_2x.png#';
+				// $imgSRC = '_imgs/logoGoogleCAL.png';
+				$imgHTML = "<img src='$imgSRC' alt='Calendario de Clases' style='width:40px;'>";
 
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
 			}
