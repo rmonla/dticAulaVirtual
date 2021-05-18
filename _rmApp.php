@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.8' => 'GAIA.CONFERENCIAS - Agrega 0617 y Actualiza Enlaces.',
       '4.7' => 'GAIA.CONFERENCIAS - Agrega 0603/pub.',
       '4.6' => 'GAIA.CONFERENCIAS - Actualiza y Corrige Enlaces.',
       '4.5' => 'GAIA.CONFERENCIAS - Agraga Celendario y Conferencia 0606.',

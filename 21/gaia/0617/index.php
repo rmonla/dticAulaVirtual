@@ -1,11 +1,11 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "GAIA.0603 - UTNLaRioja 2021";
-	$desc = "COMPOSTAJE COMO PRIMERA ETAPA DE LA SEPARACIÓN DE RESIDUOS EN ORIGEN";
+	$titu = "GAIA.0617 - UTNLaRioja 2021";
+	$desc = "LA BIOARQUITECTURA COMO PARTE DELA BIODIVERSIDAD EN UN ESCENARIOURBANO POS PANDEMIA";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0603');
+	define('URL',   '21/gaia/0617');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
