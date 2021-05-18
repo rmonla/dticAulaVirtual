@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.5' => 'GAIA.CONFERENCIAS - Agraga Celendario y Conferencia 0606.',
       '4.4' => 'Cambia iconos youtube y Google Calendar segun día.',
       '4.3' => 'Agrega Iconos y enlaces Google Calendar.',
       '4.2' => 'Regenera función getGrupos para contenido.',
