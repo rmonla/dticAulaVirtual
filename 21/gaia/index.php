@@ -5,7 +5,7 @@
 	$desc = "GAIA - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0603/');
+	define('URL',   '21/gaia/');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
@@ -13,7 +13,7 @@
 	$time = 1800;
 	$dest = URL;
 
-	$source = "./doc";
+	$source = "./cal";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
 	

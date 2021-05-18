@@ -5,7 +5,7 @@
 	$desc = "CICLO DE CONFERENCIAS-DEBATE GAIA - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/conferencias/');
+	define('URL',   '21/gaia/cal/');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
