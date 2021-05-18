@@ -5,7 +5,7 @@
 	$desc = "LA BIOARQUITECTURA COMO PARTE DELA BIODIVERSIDAD EN UN ESCENARIOURBANO POS PANDEMIA";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0617/pub');
+	define('URL', SITIO.'21/gaia/0617/pub');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";

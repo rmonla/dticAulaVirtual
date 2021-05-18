@@ -5,7 +5,7 @@
 	$desc = "COMPOSTAJE COMO PRIMERA ETAPA DE LA SEPARACIÓN DE RESIDUOS EN ORIGEN";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0603/pub');
+	define('URL', SITIO.'21/gaia/0603/pub');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";

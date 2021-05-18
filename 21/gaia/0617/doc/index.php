@@ -5,7 +5,7 @@
 	$desc = "LA BIOARQUITECTURA COMO PARTE DELA BIODIVERSIDAD EN UN ESCENARIOURBANO POS PANDEMIA";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0617/doc');
+	define('URL', SITIO.'21/gaia/0617/doc');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
@@ -13,11 +13,10 @@
 	$time = 1800;
 	$dest = URL;
 
-	$idDOC = "1bYUdG08tp59oY_3G15QP5typ-nwYToTh";
+	$idDOC = "1O8rjJ2CsVveMKPynkuXZbMkCCmyjAqbfwVQRmgd1rHM";
 	$source = "https://docs.google.com/document/d/$idDOC/edit?usp=sharing";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
-	
 	// $genialyID = "6027b4045884590d8d1a672f";
 	// $genialyURL = "https://view.genial.ly/" . $genialyID;
 
