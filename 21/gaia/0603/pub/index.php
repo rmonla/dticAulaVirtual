@@ -2,10 +2,10 @@
 	header('Content-Type: text/html; charset=utf-8');
 
 	$titu = "GAIA.0603 - UTNLaRioja 2021";
-	$desc = "COMPOSTAJE COMO PRIMERA ETAPA DE LA SEPARACIÓN DE RESIDUOS EN ORIGEN";
+	$desc = "CICLO DE CONFERENCIAS-DEBATE GAIA - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL',   '21/gaia/0603/');
+	define('URL',   '21/gaia/0603');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
@@ -13,7 +13,7 @@
 	$time = 1800;
 	$dest = URL;
 
-	$source = "./pub";
+	$source = "https://drive.google.com/file/d/1eDvSNUCB9Jsw9zj39iJoRpxxuNIFyXap/preview";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
 	
