@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.11' => 'GAIA.CONFERENCIAS - Actualiza logos e información.',
       '4.10' => 'YOUTUBE - Crea acceso al canal youtube.',
       '4.9' => 'GAIA.CONFERENCIAS - Corrige Bug SITIO.xxx.',
       '4.8' => 'GAIA.CONFERENCIAS - Agrega 0617 y Actualiza Enlaces.',

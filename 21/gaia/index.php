@@ -1,7 +1,7 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "GAIA";
+	$titu = "GAIA.UTNLaRioja";
 	$desc = "GAIA - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
