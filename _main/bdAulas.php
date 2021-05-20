@@ -1,6 +1,11 @@
 <?php  
 
 $bdAs = [
+	'Cursos, Conferencias o Eventos | EVENTOS' => [
+		'CURSO.EXCELN1' => ['Curso EXCEL Nivel Inicial - UTNLaRioja 2021','./21/cursos/exceln1','','5120gq459cmenlt918g1ncnscs'],
+		'GAIA.CONFS' => ['Ciclo de Conferencias-Debate GAIA - UTNLaRioja 2021','./21/gaia','','5120gq459cmenlt918g1ncnscs']
+	],
+
 	'Ingeniería Civil | ICI' => [
 		'ICI.1ro.21' => ['1er Año - ICI - UTNLaRioja 2021','92023658063','PLSOY8GuPHc0AWt2A38_jgaQcSdC_-hmZ4',''],
 		'ICI.2do.21' => ['2do Año - ICI - UTNLaRioja 2021','92781193701','PLSOY8GuPHc0AG96nFK7k2B0Zjza1NCVlj',''],
