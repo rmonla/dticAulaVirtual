@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.14' => 'CURSOS.EXCELN1 - Agrega, Edita y Actualiza enlaces.',
       '4.13' => 'CURSOS.EXCELN1 - Agrega enlaces.',
       '4.12' => 'CURSOS.CONFERENCIAS.EVENTOS - Agrega enlaces.',
       '4.11' => 'GAIA.CONFERENCIAS - Actualiza logos e información.',
