@@ -13,16 +13,17 @@
       ');
 
     $logVERs = [
+      '4.15' => 'GAIA.CONFS.0603 - Agrega enlace a inscripción.',
       '4.14' => 'CURSOS.EXCELN1 - Agrega, Edita y Actualiza enlaces.',
       '4.13' => 'CURSOS.EXCELN1 - Agrega enlaces.',
       '4.12' => 'CURSOS.CONFERENCIAS.EVENTOS - Agrega enlaces.',
-      '4.11' => 'GAIA.CONFERENCIAS - Actualiza logos e información.',
+      '4.11' => 'GAIA.CONFS - Actualiza logos e información.',
       '4.10' => 'YOUTUBE - Crea acceso al canal youtube.',
-      '4.9' => 'GAIA.CONFERENCIAS - Corrige Bug SITIO.xxx.',
-      '4.8' => 'GAIA.CONFERENCIAS - Agrega 0617 y Actualiza Enlaces.',
-      '4.7' => 'GAIA.CONFERENCIAS - Agrega 0603/pub.',
-      '4.6' => 'GAIA.CONFERENCIAS - Actualiza y Corrige Enlaces.',
-      '4.5' => 'GAIA.CONFERENCIAS - Agraga Celendario y Conferencia 0606.',
+      '4.9' => 'GAIA.CONFS - Corrige Bug SITIO.xxx.',
+      '4.8' => 'GAIA.CONFS - Agrega 0617 y Actualiza Enlaces.',
+      '4.7' => 'GAIA.CONFS - Agrega 0603/pub.',
+      '4.6' => 'GAIA.CONFS - Actualiza y Corrige Enlaces.',
+      '4.5' => 'GAIA.CONFS - Agraga Celendario y Conferencia 0606.',
       '4.4' => 'Cambia iconos youtube y Google Calendar segun día.',
       '4.3' => 'Agrega Iconos y enlaces Google Calendar.',
       '4.2' => 'Regenera función getGrupos para contenido.',
