@@ -2,7 +2,7 @@
 
 $bdAs = [
 	'Cursos, Conferencias o Eventos | EVENTOS' => [
-		'CURSO.EXCELN1' => ['Curso EXCEL Nivel Inicial - UTNLaRioja 2021','./21/cursos/exceln1','','5120gq459cmenlt918g1ncnscs'],
+		'CURSO.EXCELN1' => ['Curso EXCEL Nivel Inicial - UTNLaRioja 2021','./21/cursos/exceln1','','n42hrj0ftn73rtqp21qk32opps'],
 		'GAIA.CONFS' => ['Ciclo de Conferencias-Debate GAIA - UTNLaRioja 2021','./21/gaia','','5120gq459cmenlt918g1ncnscs']
 	],
 

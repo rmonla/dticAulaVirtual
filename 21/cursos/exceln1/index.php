@@ -1,11 +1,11 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "CURSOS.CONFERENCIAS.EVENTOS.UTNLaRioja";
-	$desc = "Cursos y Conferencias - UTNLaRioja 2021";
+	$titu = "CURSOS.EXCELN1";
+	$desc = "EXCEL - Nivel Inicial - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL', SITIO.'21/cursos/cal/');
+	define('URL', SITIO.'21/cursos/exceln1');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
@@ -13,9 +13,9 @@
 	$time = 1800;
 	$dest = URL;
 
-	$source = "https://calendar.google.com/calendar/u/0/embed?src=5120gq459cmenlt918g1ncnscs@group.calendar.google.com&ctz=America/Argentina/La_Rioja&mode=AGENDA";
+	$source = "./aula";
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/cursos?01
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
 	
 	// $genialyID = "6027b4045884590d8d1a672f";
 	// $genialyURL = "https://view.genial.ly/" . $genialyID;
