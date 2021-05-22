@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.16' => 'GAIA.CONFS - Agrega, Edita y Actualiza enlaces.',
       '4.15' => 'GAIA.CONFS.0603 - Agrega enlace a inscripción.',
       '4.14' => 'CURSOS.EXCELN1 - Agrega, Edita y Actualiza enlaces.',
       '4.13' => 'CURSOS.EXCELN1 - Agrega enlaces.',

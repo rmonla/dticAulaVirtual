@@ -13,7 +13,7 @@
 	$time = 1800;
 	$dest = URL;
 
-	$source = "./cal";
+	$source = "./conferencias";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
 	

@@ -13,9 +13,9 @@
 	$time = 1800;
 	$dest = URL;
 
-	$source = "https://docs.google.com/forms/d/e/1FAIpQLSeysaukVsY4GiaIIpBcjtuuTKv83V-YgX-I5ASvXchnPgkZ_g/viewform?usp=sf_link";
+	$source = "https://forms.gle/7iSuZhxSW6xx65JN8";
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/gaia/0603/insc?01
 	
 	echo <<<HTML
 
