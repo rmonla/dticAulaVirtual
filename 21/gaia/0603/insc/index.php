@@ -10,10 +10,12 @@
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
 
-	$time = 1800;
+	$time = 0;
 	$dest = URL;
 
 	$source = "https://forms.gle/7iSuZhxSW6xx65JN8";
+
+	$htmRefresh = ($time) ? "<meta http-equiv='Refresh' content='$time;url=$dest'/>" : "" ;
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/gaia/0603/insc?01
 	
@@ -25,7 +27,7 @@
 			<meta property="og:title"  content="$titu">
 			<meta name="description"   content="$desc">
 			<meta property="og:image"  content="$imag">
-			<meta http-equiv="Refresh" content="$time;url=$dest"/>
+			$htmRefresh
 		</head>
 		<body>
 			<center>
