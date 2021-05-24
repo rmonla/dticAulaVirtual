@@ -1,11 +1,11 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "INSCRIPCIÓN - GAIA.0603 - UTNLaRioja 2021";
+	$titu = "ASISTENCIA - GAIA.0603 - UTNLaRioja 2021";
 	$desc = "COMPOSTAJE COMO PRIMERA ETAPA DE LA SEPARACIÓN DE RESIDUOS EN ORIGEN";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL', SITIO.'21/gaia/0603/insc');
+	define('URL', SITIO.'21/gaia/0603/asistencia');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
@@ -13,7 +13,7 @@
 	$time = 0;
 	$dest = URL;
 
-	$source = "https://forms.gle/7iSuZhxSW6xx65JN8";
+	$source = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTIqPU7SaKMRCO4YdJr-SVv2QDPCvDOA5bn69o13IS8f5uiyjShAPqkANqh0nAf6JlR5FKeX60zekb-/pubhtml?gid=1482531832&single=true";
 
 	$htmRefresh = ($time) ? "<meta http-equiv='Refresh' content='$time;url=$dest'/>" : "" ;
 
