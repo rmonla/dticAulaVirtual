@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.18' => 'GAIA.CONFS.0603 - Corrige enlaces y Agrega enlace asistencias.',
       '4.17' => 'GAIA.CONFS.0603 - FORM INSC Si time=0 no refresca página.',
       '4.16' => 'GAIA.CONFS - Agrega, Edita y Actualiza enlaces.',
       '4.15' => 'GAIA.CONFS.0603 - Agrega enlace a inscripción.',
