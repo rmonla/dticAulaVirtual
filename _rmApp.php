@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.20' => 'ADMIN.AD - Agrega enlace a Admin de Archivo Digital.',
       '4.19' => '21.IEM.5to - Se cambio Id de Aula bloquead.',
       '4.18' => 'GAIA.CONFS.0603 - Corrige enlaces y Agrega enlace asistencias.',
       '4.17' => 'GAIA.CONFS.0603 - FORM INSC Si time=0 no refresca página.',
