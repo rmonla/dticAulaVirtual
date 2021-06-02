@@ -10,10 +10,16 @@
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
 
-	$time = 1800;
+	$time = 0;
 	$dest = URL;
 
-	$source = "./conferencias";
+	$idG    = "60a3de352c96ad0d95112eb4";
+	$source = "https://view.genial.ly/$idG";
+
+	$htmRefresh = ($time) ? "<meta http-equiv='Refresh' content='$time;url=$dest'/>" : "" ;
+
+
+	//  $source = "./conferencias";
 
 	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
 	
@@ -30,7 +36,7 @@
 			<meta property="og:title"  content="$titu">
 			<meta name="description"   content="$desc">
 			<meta property="og:image"  content="$imag">
-			<meta http-equiv="Refresh" content="$time;url=$dest"/>
+			$htmRefresh
 		</head>
 		<body>
 			<center>
