@@ -1,7 +1,7 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "ASISTENCIA - GAIA.0603 - UTNLaRioja 2021";
+	$titu = "ACREDITACIÓN - GAIA.0603 - UTNLaRioja 2021";
 	$desc = "COMPOSTAJE COMO PRIMERA ETAPA DE LA SEPARACIÓN DE RESIDUOS EN ORIGEN";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
