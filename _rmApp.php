@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.24' => 'GAIA.CONFS - Agrega acceso gaia/zoom y gaia/youtube.',
       '4.23' => 'GAIA.CONFS - Re-direcciona /gaia... -> presentador Genialy + accesos zoom y ytube.',
       '4.22' => 'GAIA.CONFS - Re-direcciona /0603/insc -> ../../inscriptos.',
       '4.21' => 'GAIA.CONFS - Agrega enlace 21/gaia/inscriptos.',

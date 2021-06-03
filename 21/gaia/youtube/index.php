@@ -1,6 +1,6 @@
 <?php
 	
-	$newURL = 'https://utn.zoom.us/j/83018102895';
+	$newURL = 'https://youtu.be/44qHMmEMGI8';
 	
 	header('Location: '.$newURL);
 	die();
