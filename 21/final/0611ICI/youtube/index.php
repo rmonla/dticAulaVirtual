@@ -9,17 +9,18 @@
 
 			CLAVE de Transmision: 7g1r-grz5-4cp9-4tuj-9maz
 
-			URL Página: https://youtu.be/44qHMmEMGI8
+			URL Página: https://youtu.be/cHtYsAENFjw
 
 		2 - Crear la reunión Zoom 
-			https://utn.zoom.us/j/83018102895
+			https://utn.zoom.us/j/82103309041
 
 		3 - Programar streaming.
 			Iniciar y dentro de la reunion ir a trasmitir personalizado.
 			
 	 */
 
-	$newURL = 'https://youtu.be/Es6Y2HhvOKw';
+	$id = 'cHtYsAENFjw';
+	$newURL = "https://youtu.be/$id";
 	header('Location: '.$newURL);
 	die();
 
