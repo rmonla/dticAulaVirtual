@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.27' => 'PFinal.0611 - Actializa enlaces fotos, doc y press.',
       '4.26' => 'bdAULAs - Agrega funsión getAulaDat.',
       '4.25' => 'PPFinal.0611 - Agrega accesos iniciales.',
       '4.24' => 'GAIA.CONFS - Agrega acceso gaia/zoom y gaia/youtube.',

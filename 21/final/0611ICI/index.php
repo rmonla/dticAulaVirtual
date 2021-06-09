@@ -4,10 +4,10 @@
 	
 	$dest = URL."21/final/0611ICI/";
 
-	$titu = "SISTEMA DE TRANSPORTE POR CABLE - COMPLEJO TELEFÉRICO | P.FINAL | UTNLaRioja";
-	$desc = "Accesos a la presentación [11 Junio 2021]";
+	$titu = "Proyecto Final - Ingeniería Civil - UTNLaRioja";
+	$desc = "[11Jun 19Hs.] - SISTEMA DE TRANSPORTE POR CABLE - COMPLEJO TELEFÉRICO LA RIOJA";
 	
-	$genialyID = "6080efacb3b2db0cfbbe95cf";
+	$genialyID = "60c01d06c19a390d26818224";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
@@ -15,7 +15,7 @@
 
 	$time = 1800;
 
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/final/0611ICI/?02
+	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/final/0611ICI?01
 
 	echo <<<HTML
 
