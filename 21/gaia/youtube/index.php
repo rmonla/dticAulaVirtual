@@ -12,9 +12,13 @@
 
 			URL Página: https://youtu.be/44qHMmEMGI8
 
-		2 - Crear la reunión Zoom y Programar streaming.
-			
+		2 - Crear la reunión Zoom 
 			https://utn.zoom.us/j/83018102895
+
+		3 - Programar streaming.
+			Iniciar y dentro de la reunion ir a trasmitir personalizado.
+			
+			
 
 	 */
 
