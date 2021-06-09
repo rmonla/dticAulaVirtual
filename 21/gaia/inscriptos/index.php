@@ -1,6 +1,6 @@
 <?php
 	
-	$newURL = '../0603/asistencias';
+	$newURL = '../acreditacion';
 	
 	header('Location: '.$newURL);
 	die();
