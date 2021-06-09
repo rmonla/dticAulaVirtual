@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.26' => 'bdAULAs - Agrega funsión getAulaDat.',
       '4.25' => 'PPFinal.0611 - Agrega accesos iniciales.',
       '4.24' => 'GAIA.CONFS - Agrega acceso gaia/zoom y gaia/youtube.',
       '4.23' => 'GAIA.CONFS - Re-direcciona /gaia... -> presentador Genialy + accesos zoom y ytube.',

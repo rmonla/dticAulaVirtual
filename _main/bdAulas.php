@@ -72,4 +72,54 @@ $bdAs = [
 ];
 
 
+function getAulaDat($idA, $optD= 'aUrlZ'){	
+	global $bdAs;
+
+	foreach ($bdAs as $aGRU) {
+		foreach ($aGRU as $aID => $aDATs) {
+			if ( isset($idA) && $idA==$aID ) {
+				list($aNOM, $aIdZ, $aIdYtbPl, $aIdCal) = $aDATs;
+
+				switch ($optD) {
+					case 'aNOM':
+						return $aNOM;
+						break;
+					
+					case 'aIdZ':
+						return $aIdZ;
+						break;
+					
+					case 'aIdZ':
+						return $aIdZ;
+						break;
+					
+					case 'aUrlZ':
+						return "https://zoom.us/j/$aIdZ";
+						break;
+					
+					case 'aIdYtbPl':
+						return $aIdYtbPl;
+						break;
+
+					case 'aUrlYtbPl':
+						return "https://www.youtube.com/playlist?list=$aIdYtbPl";
+						break;
+					
+					case 'aIdCal':
+						return $aIdCal;
+						break;
+
+					case 'aUrlCal':
+						return "https://calendar.google.com/calendar/embed?src=$aIdCal&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
+						break;
+					
+					default:
+						return 0;
+						break;
+				}
+			}
+		}
+	}
+}
+
 ?>
