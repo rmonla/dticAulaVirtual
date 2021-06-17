@@ -1,6 +1,6 @@
 <?php
 	
-	$newURL = 'https://utn.zoom.us/j/83018102895';
+	$newURL = 'https://utn.zoom.us/j/84928097209';
 	
 	header('Location: '.$newURL);
 	die();

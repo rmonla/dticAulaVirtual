@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.30' => 'GAIA.CONFS - Actuializa enlaces zoom y youtube.',
       '4.29' => 'GAIA.CONFS - Agrega acceso gaia/confs.',
       '4.28' => 'PFinal.0611 - Actuializa enlaces zoom y youtube.',
       '4.27' => 'PFinal.0611 - Actuializa enlaces fotos, doc y press.',

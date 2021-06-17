@@ -1,5 +1,4 @@
 <?php
-	
 	/*
 	Programar Streeming
 
@@ -10,21 +9,19 @@
 
 			CLAVE de Transmision: 7g1r-grz5-4cp9-4tuj-9maz
 
-			URL Página: https://youtu.be/44qHMmEMGI8
+			URL Página: https://youtu.be/jJFWnA9JmCY
 
 		2 - Crear la reunión Zoom 
-			https://utn.zoom.us/j/83018102895
+			https://utn.zoom.us/j/84928097209
 
 		3 - Programar streaming.
 			Iniciar y dentro de la reunion ir a trasmitir personalizado.
 			
-			
-
 	 */
 
-
-	$newURL = 'https://youtu.be/44qHMmEMGI8';
-	
+	$id = 'jJFWnA9JmCY';
+	$newURL = "https://youtu.be/$id";
 	header('Location: '.$newURL);
 	die();
+
 ?>
