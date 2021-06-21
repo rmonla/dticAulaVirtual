@@ -4,8 +4,8 @@
 	
 	$dest = URL."21/final/0623IEL/";
 
-	$titu = "PProy. Final - Ingeniería Electrónica - UTNLaRioja";
-	$desc = "[23Jun 19Hs.] - TITULADOR ÁCIDO-BASE Y COLORIMÉTRICO AUTOMATIZADO";
+	$titu = "TITULADOR ÁCIDO-BASE Y COLORIMÉTRICO AUTOMATIZADO";
+	$desc = "[23Jun 19Hs.] - PProy. Final - Ingeniería Electrónica - UTNLaRioja";
 	
 	$genialyID = "60d11144f0f4740d69cef2c8";
 	
