@@ -2,7 +2,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	
-	$dest = URL."21/final/0611ICI/";
+	$dest = URL."21/final/0623IEL/";
 
 	$titu = "PProy. Final - Ingeniería Electrónica - UTNLaRioja";
 	$desc = "[23Jun 19Hs.] - TITULADOR ÁCIDO-BASE Y COLORIMÉTRICO AUTOMATIZADO";
