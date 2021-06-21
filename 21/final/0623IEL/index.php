@@ -4,10 +4,10 @@
 	
 	$dest = URL."21/final/0611ICI/";
 
-	$titu = "Proyecto Final - Ingeniería Civil - UTNLaRioja";
-	$desc = "[11Jun 19Hs.] - SISTEMA DE TRANSPORTE POR CABLE - COMPLEJO TELEFÉRICO LA RIOJA";
+	$titu = "PProy. Final - Ingeniería Electrónica - UTNLaRioja";
+	$desc = "[23Jun 19Hs.] - TITULADOR ÁCIDO-BASE Y COLORIMÉTRICO AUTOMATIZADO";
 	
-	$genialyID = "60c01d06c19a390d26818224";
+	$genialyID = "60d11144f0f4740d69cef2c8";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
