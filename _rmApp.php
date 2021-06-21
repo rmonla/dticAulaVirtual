@@ -13,10 +13,11 @@
       ');
 
     $logVERs = [
-      '4.30' => 'GAIA.CONFS - Actuializa enlaces zoom y youtube.',
+      '4.31' => '0623IEL - Actualiza información de enlaces.',
+      '4.30' => 'GAIA.CONFS - Actualiza enlaces zoom y youtube.',
       '4.29' => 'GAIA.CONFS - Agrega acceso gaia/confs.',
-      '4.28' => 'PFinal.0611 - Actuializa enlaces zoom y youtube.',
-      '4.27' => 'PFinal.0611 - Actuializa enlaces fotos, doc y press.',
+      '4.28' => 'PFinal.0611 - Actualiza enlaces zoom y youtube.',
+      '4.27' => 'PFinal.0611 - Actualiza enlaces fotos, doc y press.',
       '4.26' => 'bdAULAs - Agrega funsión getAulaDat.',
       '4.25' => 'PPFinal.0611 - Agrega accesos iniciales.',
       '4.24' => 'GAIA.CONFS - Agrega acceso gaia/zoom y gaia/youtube.',
