@@ -2,6 +2,12 @@
 	/*
 	Programar Streeming
 
+		2 - Crear la reunión Zoom 
+			https://utn.zoom.us/j/88579123789
+
+		3 - Programar Streaming.
+			Iniciar y dentro de la reunion ir a trasmitir personalizado.
+			
 		1 - Crear Streeming programado en YouTube.
 			[ https://studio.youtube.com/channel/UC/livestreaming ] 
 
@@ -11,15 +17,24 @@
 
 			URL Página: https://youtu.be/xY0IBot6n28
 
-		2 - Crear la reunión Zoom 
-			https://utn.zoom.us/j/88579123789
 
-		3 - Programar streaming.
-			Iniciar y dentro de la reunion ir a trasmitir personalizado.
+			Presentación de Proyecto Final - Ing. Electrónica - UTNLaRioja
+
+			TITULADOR ÁCIDO-BASE Y COLORIMÉTRICO AUTOMATIZADO   
+			»» http://www.frlr.utn.edu.ar/l/0623iel/
+
+			https://youtu.be/rshaw2-Uk2k
+
+			836 4785 8851
+			https://utn.zoom.us/j/83647858851
 			
+			URL Transmisión: rtmp://live.restream.io/live
+			CLAVE de Transmision: re_4405626_eventa4d418bbe15342f095b6870db15ab785
+
+
 	 */
 
-	$id = 'xY0IBot6n28';
+	$id = 'rshaw2-Uk2k';
 	$newURL = "https://youtu.be/$id";
 	header('Location: '.$newURL);
 	die();
