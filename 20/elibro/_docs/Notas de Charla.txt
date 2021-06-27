@@ -1,0 +1,16 @@
+Como adminitrar usuarios Crear, editar ... 
+	Con perfil de administrador.
+
+Es una semi plataforma por cada Facultad o es para toda la UTN? 
+	Una por cada facultad.
+
+Como son las descargas, en que formato?
+	Por un cliente eLibro.
+
+Se pueden activar auto registrace al login?
+	Si
+
+En la portada cambiar el mail gmail de jorge por el de la dep.biblioteca@frlr.utn.edu.ar (Crear si hace falta)
+
+Definir Protocolo de Accesos y Usos.
+	@frlr.utn.edu.ar

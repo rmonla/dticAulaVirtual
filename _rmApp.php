@@ -13,6 +13,7 @@
       ');
 
     $logVERs = [
+      '4.33' => 'Rerganiza archivos y recupera versiones anteriores.',
       '4.32' => '0623IEL - Actualiza los enlaces de zoom y fotos.',
       '4.31' => '0623IEL - Actualiza información de enlaces.',
       '4.30' => 'GAIA.CONFS - Actualiza enlaces zoom y youtube.',
