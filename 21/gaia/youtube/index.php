@@ -1,4 +1,8 @@
 <?php
+	$newURL = "https://www.youtube.com/playlist?list=PLSOY8GuPHc0BoPqexDU39iWkFklN_WJC2";
+	header('Location: '.$newURL);
+	die();
+
 	/*
 	Programar Streeming
 
@@ -19,9 +23,6 @@
 			
 	 */
 
-	$id = 'jJFWnA9JmCY';
-	$newURL = "https://youtu.be/$id";
-	header('Location: '.$newURL);
-	die();
-
+	// $id = 'jJFWnA9JmCY';
+	// $newURL = "https://youtu.be/$id";
 ?>
