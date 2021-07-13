@@ -1,16 +1,15 @@
 <?php 
 	header('Content-Type: text/html; charset=utf-8');
-	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/preing/');
+	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/22/preing/');
 	
 	$titu = "PreIngreso2022 - UTNLaRioja";
 	$desc = "Acceso al Aula Vrtual";
-	// $desc = "Accesos al Aula Vrtual [ 01 Febrero 19 Hs.]";
 	
 	$genialyID = "600b4a235f0d4e0d0d6c03fa";
 	
 	$genialyURL = "https://view.genial.ly/" . $genialyID;
 	
-	$imag = URL."logoAV-PreIngreso.png";
+	$imag = URL."img4.jpg";
 
 	$time = 1800;
 	$dest = URL;
