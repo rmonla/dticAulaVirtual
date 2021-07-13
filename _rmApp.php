@@ -14,7 +14,7 @@
 
     $logVERs = [
       '4.35' => 'PreIng22 - Crea Enlaces',
-      '4.34' => 'GAIA.CONFS - Actualiza enlaces.',
+      '4.34' => 'GAIA.CONFS - Actualiza enlaces',
       '4.33' => 'Rerganiza archivos y recupera versiones anteriores.',
       '4.32' => '0623IEL - Actualiza los enlaces de zoom y fotos.',
       '4.31' => '0623IEL - Actualiza información de enlaces.',
