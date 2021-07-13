@@ -13,6 +13,8 @@
       ');
 
     $logVERs = [
+      '4.37' => 'App - Actualiza imágenes',
+      '4.36' => 'GAIA.CONFS - Actualiza información',
       '4.35' => 'PreIng22 - Crea Enlaces',
       '4.34' => 'GAIA.CONFS - Actualiza enlaces',
       '4.33' => 'Rerganiza archivos y recupera versiones anteriores.',
