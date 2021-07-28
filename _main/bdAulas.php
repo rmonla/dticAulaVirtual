@@ -126,7 +126,7 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 							$dst = getAulaDat($idA, 'aUrlZ');
 							$tit = getAulaDat($idA, 'aNOM');
 							$dsc = "Aula Virtual $idA";
-							$tmp = 3; 
+							$tmp = 20; 
 							$img = AV_IMGS."logoUTNLR-Mini.jpg";
 
 						/** «® SALIDA  ®» **/
