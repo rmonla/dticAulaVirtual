@@ -5,9 +5,9 @@
 	define('AV_IMGS',     AV_SITIO.'_imgs/');
 
 /* «® INCLUDES  ®» */
-	include_once AV_SITIO.'appDATs.php';
-	include_once AV_SITIO.'_main/bdAulas.php';
-	include_once AV_SITIO.'_main/getHTMLs.php';
+	include_once './appDATs.php';
+	include_once './_main/bdAulas.php';
+	include_once './_main/getHTMLs.php';
 
 /* «® PREDETERMINADOS  ®» */
 	header('Content-Type: text/html; charset=utf-8');
