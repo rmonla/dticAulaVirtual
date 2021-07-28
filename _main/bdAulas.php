@@ -1,8 +1,4 @@
 <?php  
-/* «® INCLUDES  ®» */
-	include_once "../appINCs.php";
-
-
 /* «® BASE DE DATOS DE AULAS  ®» */
 
 $bdAs = [
