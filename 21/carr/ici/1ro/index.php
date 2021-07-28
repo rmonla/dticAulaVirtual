@@ -1,12 +1,13 @@
 <?php  
 /* «® INCLUIDES  ®» */
 	include_once "../../../../_main/bdAulas.php";
+	include_once "../../../../appINCs.php";
 
 /** «® MAIN  ®» **/	
 	$idA = 'ICI.1ro.21';
 	$dst = getAulaDat($idA, 'aUrlZ');
 	$tit = getAulaDat($idA, 'aNOM');
-	$dsc = "Acceso al Aula Virtual $idA - UTNLaRioja 2021";
+	$dsc = "Acceso al Aula Virtual $idA";
 	$tmp = 1; 
 	$img = AV_IMGS."logoUTNLR-Mini.png";
 
