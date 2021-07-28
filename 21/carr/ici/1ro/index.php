@@ -9,7 +9,7 @@
 	$tit = getAulaDat($idA, 'aNOM');
 	$dsc = "Acceso al Aula Virtual $idA";
 	$tmp = 1; 
-	$img = AV_IMGS."logoUTNLR-Mini.png";
+	$img = AV_IMGS."logoUTNLR-Mini.jpg";
 
 /** «® SALIDA  ®» **/
 	echo <<<HTML
