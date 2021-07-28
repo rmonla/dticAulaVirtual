@@ -14,6 +14,8 @@
 
 /* «® LOGS  ®» */
     $logVERs = ' => 
+      3.5.8 => AULAS: Agrega aulas virtuales de las carrera ICI, IEM y IEL.
+      3.5.7 => AULAS: Agrega aulas de la Carrera ICI.
       3.5.6 => PI2022ME: Arregla error de tipeo.
       3.5.5 => PI2022ME: Agrega aula virtual.
       3.5.4 => ADIGITAL: Agrega redireccfionador al canal Youtube y a la planilla tituladora.

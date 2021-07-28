@@ -126,7 +126,7 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 							$dst = getAulaDat($idA, 'aUrlZ');
 							$tit = getAulaDat($idA, 'aNOM');
 							$dsc = "Aula Virtual $idA";
-							$tmp = 20; 
+							$tmp = 3; 
 							$img = AV_IMGS."logoUTNLR-Mini.jpg";
 
 						/** «® SALIDA  ®» **/
@@ -139,7 +139,7 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 									<meta http-equiv='Refresh' content='$tmp;url=$dst'/>
 								</head>
 								<body>
-									<p>Redireccionando a >> $dsc ...</p>
+									<p>Re-direccionando a >> <b>$dsc ...</b></p>
 								</body>
 							</html>";
 						break;
