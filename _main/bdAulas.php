@@ -1,4 +1,9 @@
 <?php  
+/* «® INCLUDES  ®» */
+	include_once "../appINCs.php";
+
+
+/* «® BASE DE DATOS DE AULAS  ®» */
 
 $bdAs = [
 	'Pre-Ingreso2022 | PI2022' => [
@@ -115,6 +120,28 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 
 					case 'aUrlCal':
 						return "https://calendar.google.com/calendar/embed?src=$aIdCal&ctz=America%2FArgentina%2FLa_Rioja&mode=AGENDA";
+						break;
+					case 'aGoTo':
+						/** «® MAIN  ®» **/	
+							$dst = getAulaDat($idA, 'aUrlZ');
+							$tit = getAulaDat($idA, 'aNOM');
+							$dsc = "Aula Virtual $idA";
+							$tmp = 3; 
+							$img = AV_IMGS."logoUTNLR-Mini.jpg";
+
+						/** «® SALIDA  ®» **/
+							return "<html>
+								<head>
+									<title>$tit</title>
+									<meta property="og:title"  content="$tit">
+									<meta name="description"   content="$dsc">
+									<meta property="og:image"  content="$img">
+									<meta http-equiv="Refresh" content="$tmp;url=$dst"/>
+								</head>
+								<body>
+									<p>Redireccionando a >> $dsc ...</p>
+								</body>
+							</html>";
 						break;
 					
 					default:
