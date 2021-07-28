@@ -3,7 +3,7 @@
 	define('URL', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/22/preing/');
 	
 	$titu = "PreIngreso2022 - UTNLaRioja";
-	$desc = "Acceso al Aula Vrtual";
+	$desc = "Acceso al Aula Virtual";
 	
 	$genialyID = "600b4a235f0d4e0d0d6c03fa";
 	

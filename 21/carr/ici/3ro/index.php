@@ -3,7 +3,7 @@
 	include_once "../../../../_main/bdAulas.php";
 
 /** «® MAIN  ®» **/	
-	$idA = 'ICI.1ro.21';
+	$idA = 'ICI.3ro.21';
 	$dst = getAulaDat($idA, 'aUrlZ');
 	$tit = getAulaDat($idA, 'aNOM');
 	$dsc = "Acceso al Aula Virtual $idA - UTNLaRioja 2021";
