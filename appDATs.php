@@ -14,6 +14,7 @@
 
 /* «® LOGS  ®» */
     $logVERs = ' => 
+      3.5.5 => PI2022ME: Agrega aula virtual.
       3.5.4 => ADIGITAL: Agrega redireccfionador al canal Youtube y a la planilla tituladora.
       3.5.3 => appDATs: Modifica como se obtiene la versión
       3.5.2 => INDEX: Modifica includes

@@ -1,6 +1,10 @@
 <?php  
 
 $bdAs = [
+	'Pre-Ingreso2022 | PI2022' => [
+		'PI2022ME' => ['Pre-Ingreso2022 Modalidad Extensiva - UTNLaRioja 2021','./22/preing/','','']
+	],
+
 	'Cursos, Conferencias o Eventos | EVENTOS' => [
 		'CURSO.EXCELN1' => ['Curso EXCEL Nivel Inicial - UTNLaRioja 2021','./21/cursos/exceln1','','n42hrj0ftn73rtqp21qk32opps'],
 		'GAIA.CONFS' => ['Ciclo de Conferencias-Debate GAIA - UTNLaRioja 2021','./21/gaia','','5120gq459cmenlt918g1ncnscs']
