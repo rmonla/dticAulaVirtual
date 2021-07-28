@@ -14,6 +14,7 @@
 
 /* «® LOGS  ®» */
     $logVERs = ' => 
+      3.5.9 => MAIN: Optimizo APPVER.
       3.5.8 => AULAS: Agrega aulas virtuales de las carrera ICI, IEM y IEL.
       3.5.7 => AULAS: Agrega aulas de la Carrera ICI.
       3.5.6 => PI2022ME: Arregla error de tipeo.
@@ -25,7 +26,7 @@
       ';
     
     $appVer = explode(" => ", $logVERs);
-    $appVer = trim($appVer[1]);
+    $appVer = 'v'.trim($appVer[1]);
     
     define('APPVER', $appVer);
 

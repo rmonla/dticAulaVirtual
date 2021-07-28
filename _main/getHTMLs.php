@@ -87,8 +87,8 @@ function getAulas($bdAs=''){
 
 function getBody(){
   $appURL = APPPUB;
-  $appVER = 'v'.APPVER;
-  $hCont = getGrupos();
+  $appVER = APPVER;
+  $hCont  = getGrupos();
   
   return <<<HTML
 	<body>
@@ -151,7 +151,6 @@ function getPag(){
   
   $hHead = getHead(); 
   $hBody = getBody();
-  //$hBody = getBody();
 
   return <<<HTML
 	<!DOCTYPE html>
