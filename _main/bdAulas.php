@@ -133,10 +133,10 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 							return "<html>
 								<head>
 									<title>$tit</title>
-									<meta property="og:title"  content="$tit">
-									<meta name="description"   content="$dsc">
-									<meta property="og:image"  content="$img">
-									<meta http-equiv="Refresh" content="$tmp;url=$dst"/>
+									<meta property='og:title'  content='$tit'>
+									<meta name='description'   content='$dsc'>
+									<meta property='og:image'  content='$img'>
+									<meta http-equiv='Refresh' content='$tmp;url=$dst'/>
 								</head>
 								<body>
 									<p>Redireccionando a >> $dsc ...</p>
