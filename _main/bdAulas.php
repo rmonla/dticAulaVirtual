@@ -1,4 +1,8 @@
 <?php  
+/* «® CONSTANTES  ®» */
+	define('AV_SITIO',    'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
+	define('AV_IMGS',     AV_SITIO.'_imgs/');
+
 /* «® BASE DE DATOS DE AULAS  ®» */
 
 $bdAs = [
