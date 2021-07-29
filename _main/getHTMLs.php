@@ -41,11 +41,11 @@ function getAulas($bdAs=''){
 	foreach ($bdAs as $aID => $aDATS) {
 		// Inicio variables.
 			$aLNKs = [];
-			# aID => [aNOM, aIDA, aIDPL, aIDCAL]
-			list($aNOM, $aIDA, $aIDPL, $aIDCAL) = $aDATS;
+			# 'aID' => ['aNOM','aIDZ','aIDPL','aIDCAL']
+			list($aNOM, $aIDZ, $aIDPL, $aIDCAL) = $aDATS;
 		// Enlace AULA.
-			if ( is_numeric($aIDA) ) {
-				$aURL = "https://zoom.us/j/$aIDA";
+			if ( is_numeric($aIDZ) ) {
+				$aURL = "https://zoom.us/j/$aIDZ";
 
 				$imgSRC = '_imgs/logoZoom.png';
 				$imgHTML = "<img src='$imgSRC' alt='Acceso Zoom' style='width:35px;'>";
@@ -54,7 +54,7 @@ function getAulas($bdAs=''){
 				$aLNKs[] = "<a target='_blank' href='$aURL'>$imgHTML</a>";
 			
 			} else 
-				$aLNKs[] = "<a target='_blank' href='$aIDA'>$aNOM</a>";
+				$aLNKs[] = "<a target='_blank' href='$aIDZ'>$aNOM</a>";
 		// Enlace Play List YTB.
 			if ( $aIDPL ) {
 				$aURL = "https://www.youtube.com/playlist?list=$aIDPL";

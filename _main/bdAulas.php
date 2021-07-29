@@ -1,7 +1,7 @@
 <?php  
-/* «® CONSTANTES  ®» */
-	define('AV_SITIO',    'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('AV_IMGS',     AV_SITIO.'_imgs/');
+/* «® INCLUDES  ®» */
+	include_once "../appDATs.php";
+
 
 /* «® BASE DE DATOS DE AULAS  ®» */
 
@@ -75,7 +75,7 @@ $bdAs = [
 	]
 
 	// NOMBRE GRUPO | CODGRU' => [
-	// 	'aID' => ['aNOMAULA','aIDZ','aIDPL','aIDCAL']
+	// 	'aID' => ['aNOM','aIDZ','aIDPL','aIDCAL']
 	// ],
 
 ];
