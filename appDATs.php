@@ -17,7 +17,7 @@
   $appVer = 'v'.trim($appVer[1]);
     
 /* «® CONSTANTES  ®» */
-  define('APPVER--', $appVer);
+  define('APPVER', $appVer);
   define('APPAUT', '«®» Ricardo MONLA <rmonla@gmail.com> «®»');
   define('APPDEV', 'https://github.com/rmonla/dticAulaVirtual');
   define('APPPUB', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual');
