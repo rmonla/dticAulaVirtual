@@ -1,6 +1,7 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
+    3.6.3 => bdAulas: Agraga IDcals en las aulas de carreras.
     3.6.2 => MAIN: Soluciona BUGs que solo se muestran en servidor UTN.
     3.6.1 => MAIN: Modifica forma de acceder a las constantes e includes.
     3.5.10 => AULAS: Mueve aulas ICI, IEM y IEL para coincidir con los calendarios.
