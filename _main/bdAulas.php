@@ -1,8 +1,4 @@
 <?php  
-/* «® INCLUDES  ®» */
-	include_once "../appDATs.php";
-
-
 /* «® BASE DE DATOS DE AULAS  ®» */
 
 $bdAs = [
@@ -127,7 +123,7 @@ function getAulaDat($idA, $optD= 'aUrlZ'){
 							$tit = getAulaDat($idA, 'aNOM');
 							$dsc = "Aula Virtual $idA";
 							$tmp = 3; 
-							$img = AV_IMGS."logoUTNLR-Mini.jpg";
+							$img = "http://www.frlr.utn.edu.ar/dtic/aulavirtual/_imgs/logoUTNLR-Mini.jpg";
 
 						/** «® SALIDA  ®» **/
 							return "<html>
