@@ -12,30 +12,30 @@ $bdAs = [
 	],
 
 	'Ingeniería Civil | ICI' => [
-		'ICI.1ro.21' => ['1er Año - ICI - UTNLaRioja 2021','92023658063','PLSOY8GuPHc0AWt2A38_jgaQcSdC_-hmZ4','hjqemm2ul3vn4vr11hm1sude5k'],
-		'ICI.2do.21' => ['2do Año - ICI - UTNLaRioja 2021','92781193701','PLSOY8GuPHc0AG96nFK7k2B0Zjza1NCVlj','v424gp9t35n8k89r5hgk4op72s'],
-		'ICI.3ro.21' => ['3er Año - ICI - UTNLaRioja 2021','92955020518','PLSOY8GuPHc0AYmaIOzd8Zyqp_NC8kRKGf','v424gp9t35n8k89r5hgk4op72s'],
-		'ICI.4to.21' => ['4to Año - ICI - UTNLaRioja 2021','95994613482','PLSOY8GuPHc0B-wvjxqUIcqb5z9JE7qd_t','hqvfb691ua6irogbg4ug56o388'],
-		'ICI.5to.21' => ['5to Año - ICI - UTNLaRioja 2021','81225885752','PLSOY8GuPHc0CxnJA4YBr6KL9T53xmbURd','ps62t3hlmljku5ogtti3sct478'],
-		'ICI.6to.21' => ['6to Año - ICI - UTNLaRioja 2021','86142676574','PLSOY8GuPHc0AZDQWyWpPoOnbJib3XBcnK','p41km38omaubbc1t2ssl8ik2v8']
+		'ICI.1ro.21' => ['1er Año - ICI - UTNLaRioja 2021','92023658063','PLSOY8GuPHc0AWt2A38_jgaQcSdC_-hmZ4',''],
+		'ICI.2do.21' => ['2do Año - ICI - UTNLaRioja 2021','92781193701','PLSOY8GuPHc0AG96nFK7k2B0Zjza1NCVlj',''],
+		'ICI.3ro.21' => ['3er Año - ICI - UTNLaRioja 2021','92955020518','PLSOY8GuPHc0AYmaIOzd8Zyqp_NC8kRKGf',''],
+		'ICI.4to.21' => ['4to Año - ICI - UTNLaRioja 2021','95994613482','PLSOY8GuPHc0B-wvjxqUIcqb5z9JE7qd_t',''],
+		'ICI.5to.21' => ['5to Año - ICI - UTNLaRioja 2021','81225885752','PLSOY8GuPHc0CxnJA4YBr6KL9T53xmbURd',''],
+		'ICI.6to.21' => ['6to Año - ICI - UTNLaRioja 2021','86142676574','PLSOY8GuPHc0AZDQWyWpPoOnbJib3XBcnK','']
 	],
 	
 	'Ingeniería Electromecánica | IEM' => [
-		'IEM.1ro.21' => ['1er Año - IEM - UTNLaRioja 2021', '91277544291','PLSOY8GuPHc0C-UDw_HMAwDiF7keOAo7hs','t7gaavtelsa9kanqripcbt4sjg'],
-		'IEM.2do.21' => ['2do Año - IEM - UTNLaRioja 2021', '92086937597','PLSOY8GuPHc0BiTC8TVfve3RnUCwOub8ri','vpvsog7l1rrcio886d06eijt00'],
-		'IEM.3ro.21' => ['3er Año - IEM - UTNLaRioja 2021', '92894001255','PLSOY8GuPHc0AbmItZ0b4fPo0OCCSDrcWy','sbb738nteavjm1rdn3pilgf7r8'],
-		'IEM.4to.21' => ['4to Año - IEM - UTNLaRioja 2021', '88396777950','PLSOY8GuPHc0C2PAfderYIE9EcnRhIoD8m','0q7t0doq7h8hna13m07alihla0'],
-		'IEM.5to.21' => ['5to Año - IEM - UTNLaRioja 2021', '87351944323','PLSOY8GuPHc0C3EfMH6KQyvg3XCfaEH543','s8e9p2424rao4err5crj7c69fg']
+		'IEM.1ro.21' => ['1er Año - IEM - UTNLaRioja 2021', '91277544291','PLSOY8GuPHc0C-UDw_HMAwDiF7keOAo7hs',''],
+		'IEM.2do.21' => ['2do Año - IEM - UTNLaRioja 2021', '92086937597','PLSOY8GuPHc0BiTC8TVfve3RnUCwOub8ri',''],
+		'IEM.3ro.21' => ['3er Año - IEM - UTNLaRioja 2021', '92894001255','PLSOY8GuPHc0AbmItZ0b4fPo0OCCSDrcWy',''],
+		'IEM.4to.21' => ['4to Año - IEM - UTNLaRioja 2021', '88396777950','PLSOY8GuPHc0C2PAfderYIE9EcnRhIoD8m',''],
+		'IEM.5to.21' => ['5to Año - IEM - UTNLaRioja 2021', '87351944323','PLSOY8GuPHc0C3EfMH6KQyvg3XCfaEH543','']
 	],
 		// 'IEM.5to.21' => ['5to Año - IEM - UTNLaRioja 2021', '85688378524','PLSOY8GuPHc0C3EfMH6KQyvg3XCfaEH543','']
 	
 	'Ingeniería Electrónica | IEL' => [
-		'IEL.1ro.21' => ['1er Año - IEL - UTNLaRioja 2021','92116614010','PLSOY8GuPHc0AqVQCmlkAK92MBRW9P8oCQ','oa74s9bk4aukr86fdovh1eudr0'],
-		'IEL.2do.21' => ['2do Año - IEL - UTNLaRioja 2021','96130488690','PLSOY8GuPHc0DcrX4Y_A3GkAirYudGqQDl','gj83igbcua9rf6dnn3k4h4f6f0'],
-		'IEL.3ro.21' => ['3er Año - IEL - UTNLaRioja 2021','98516961454','PLSOY8GuPHc0B2XXKDRFyZwtslPeI69ovR','lgmbttn7fit1adsnpot6u5rec0'],
-		'IEL.4to.21' => ['4to Año - IEL - UTNLaRioja 2021','87158704025','PLSOY8GuPHc0Bd1PJiRKKXK4Lw6HOxYpIg','iarviektj7jdret336c26l45l4'],
-		'IEL.5to.21' => ['5to Año - IEL - UTNLaRioja 2021','86704574586','PLSOY8GuPHc0BdQF6Eb61kQQt-Q0vSeje4','td8tgtio4kas1bhglkue2f5dlc'],
-		'IEL.6to.21' => ['6to Año - IEL - UTNLaRioja 2021','86112055078','PLSOY8GuPHc0DRhNsS5laxNnIbH8DTTJ7U','frf1r8m4b26vb81rma1gd1qqfs']
+		'IEL.1ro.21' => ['1er Año - IEL - UTNLaRioja 2021','92116614010','PLSOY8GuPHc0AqVQCmlkAK92MBRW9P8oCQ',''],
+		'IEL.2do.21' => ['2do Año - IEL - UTNLaRioja 2021','96130488690','PLSOY8GuPHc0DcrX4Y_A3GkAirYudGqQDl',''],
+		'IEL.3ro.21' => ['3er Año - IEL - UTNLaRioja 2021','98516961454','PLSOY8GuPHc0B2XXKDRFyZwtslPeI69ovR',''],
+		'IEL.4to.21' => ['4to Año - IEL - UTNLaRioja 2021','87158704025','PLSOY8GuPHc0Bd1PJiRKKXK4Lw6HOxYpIg',''],
+		'IEL.5to.21' => ['5to Año - IEL - UTNLaRioja 2021','86704574586','PLSOY8GuPHc0BdQF6Eb61kQQt-Q0vSeje4',''],
+		'IEL.6to.21' => ['6to Año - IEL - UTNLaRioja 2021','86112055078','PLSOY8GuPHc0DRhNsS5laxNnIbH8DTTJ7U','']
 	],
 
 	'Lic. en Higiene y Seguridad en el Trabajo | LHST' => [
