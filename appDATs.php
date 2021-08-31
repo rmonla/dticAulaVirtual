@@ -1,6 +1,7 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
+    3.7.2 => MAIN: Retorna a la versión PHP.
     3.7.1 => MAIN: Cambia a la versión html por enlace caído.
     3.6.2 => MAIN: Soluciona BUGs que solo se muestran en servidor UTN.
     3.6.1 => MAIN: Modifica forma de acceder a las constantes e includes.
