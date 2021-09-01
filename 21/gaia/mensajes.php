@@ -9,7 +9,10 @@ _[19/08/21 20Hs]_
 [ 20:10 ]* - Moderador: Diego BARTOLOME.
 [ 20:15 ]* - Exposición: Sebastián BENÍTEZ.
 
-Para ingresar lo hacemos en la opción de ZOOM del enlace:
+Ingresamos con la opción de ZOOM del siguiente enlace:
+
+_*CONFERENCIAS GAIA | UTNLaRioja*_
+»» http:/www.frlr.utn.edu.ar/l/gaia.confs/
 
 http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/gaia/confs/
 
@@ -19,3 +22,10 @@ _*CONFERENCIAS ANTERIORES*_
 
 _*ACREDITACIÓN y ASISTENCIA*_ 
 »» https://forms.gle/7iSuZhxSW6xx65JN8
+
+
+
+_*PROXIMA CONFERENCIAS GAIA*_
+»» http:/www.frlr.utn.edu.ar/l/gaia.confs/
+
+https://fb.watch/7uvCEHwvOe/
