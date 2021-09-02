@@ -1,17 +1,17 @@
 _*INFORMACIÓN DEL EVENTO*_
-_GAIA.0819_
-TECNOLOGÍA DE MITIGACIÓN EN RESIDUOS PATÓGENOS Y DESARROLLO DE DISPOSICIÓN FINAL EN FORMA SUSTENTABLE        
-Sebastián BENÍTEZ HERMIDA
-_[19/08/21 20Hs]_
+_GAIA.0902_
+MARCO LEGISLATIVO AMBIENTAL NACIONAL.CLÁUSULA AMBIENTAL DEL 41 CN. ANTECEDENTES. LEYES DE PRESUPUESTO MÍNIMO
+Dr. Santiago AZULAY
+_[02/09/21 20Hs]_
 
 [ 19:30 ]* - Previa, Preparación y Testeos.
-[ 20:00 ]* - Inicia Transmisión: Ricardo MONLA.
-[ 20:10 ]* - Moderador: Diego BARTOLOME.
-[ 20:15 ]* - Exposición: Sebastián BENÍTEZ.
+[ 20:00 ]* - Inicio, Transmisión Youtube y Grabación.
+[ 20:10 ]* - Moderador: Vicente CALBO.
+[ 20:15 ]* - Expositor: Santiago AZULAY.
 
 Para ingresar lo hacemos en la opción de ZOOM del enlace:
 
-http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/gaia/confs/
+http://www.frlr.utn.edu.ar/l/gaia.confs
 
 
 _*CONFERENCIAS ANTERIORES*_
