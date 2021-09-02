@@ -1,7 +1,10 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
-    3.7.2 => MAIN: Retorna a la versión PHP.
+    3.8.4 => bdAULAs: Baja de los Cursos EXCEL-Nivel1.
+    3.8.3 => bdAULAs: Agraga datos de PList de GAIA.
+    3.8.2 => MAIN: Corrige bug zona horaria en logo calendario.
+    3.8.1 => MAIN: Retorna a la versión PHP.
     3.7.1 => MAIN: Cambia a la versión html por enlace caído.
     3.6.2 => MAIN: Soluciona BUGs que solo se muestran en servidor UTN.
     3.6.1 => MAIN: Modifica forma de acceder a las constantes e includes.
@@ -38,4 +41,5 @@
 
 /* «® PREDETERMINACION  ®» */
   header('Content-Type: text/html; charset=utf-8');
+  date_default_timezone_set('America/Argentina/La_Rioja');
 ?>
