@@ -24,6 +24,8 @@ _*ACREDITACIÓN y ASISTENCIA*_
 »» https://forms.gle/7iSuZhxSW6xx65JN8
 
 
+»» Pueden ir enviando sus consultas por este chat para poder responderlas en el debate final.
+
 
 _*PROXIMA CONFERENCIAS GAIA*_
 »» http:/www.frlr.utn.edu.ar/l/gaia.confs/
