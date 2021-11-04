@@ -6,10 +6,10 @@ $bdAs = [
 		'PI2022ME' => ['Pre-Ingreso2022 Modalidad Extensiva - UTNLaRioja 2021','./22/preing/','PLSOY8GuPHc0CuuEwgFeH2SFrnfpZBARv8','n42hrj0ftn73rtqp21qk32opps']
 	],
 
-	'Cursos, Conferencias o Eventos | EVENTOS' => [
+	// 'Cursos, Conferencias o Eventos | EVENTOS' => [
 		//'CURSO.EXCELN1' => ['Curso EXCEL Nivel Inicial - UTNLaRioja 2021','./21/cursos/exceln1','','n42hrj0ftn73rtqp21qk32opps'],
-		'GAIA.CONFS' => ['Ciclo de Conferencias-Debate GAIA - UTNLaRioja 2021','./21/gaia','PLSOY8GuPHc0BoPqexDU39iWkFklN_WJC2','5120gq459cmenlt918g1ncnscs']
-	],
+	// 	'GAIA.CONFS' => ['Ciclo de Conferencias-Debate GAIA - UTNLaRioja 2021','./21/gaia','PLSOY8GuPHc0BoPqexDU39iWkFklN_WJC2','5120gq459cmenlt918g1ncnscs']
+	// ],
 
 	'Ingeniería Civil | ICI' => [
 		'ICI.1ro.21' => ['1er Año - ICI - UTNLaRioja 2021','92023658063','PLSOY8GuPHc0AWt2A38_jgaQcSdC_-hmZ4',''],
@@ -63,7 +63,7 @@ $bdAs = [
 	
 	'Posgrados | POSG' => [
 		'POSG.EMIA21' => ['Esp. y Maestría en Ingeniería Ambiental - UTNLaRioja 2021','./21/posg/emia','PLSOY8GuPHc0CHSv2OPTWnU3VgqwYkC5pk','8a35a6oev6gk29cepiqp28opgc'],
-		'POSG.MEF21'  => ['Método de Elementos Finitos - UTNLaRioja 2021','./21/posg/mef','PLSOY8GuPHc0AdVmrKvqXlNuOkVbcxUGHD','90dlmf0j5c9a5h09jkhbojcuss']
+		// 'POSG.MEF21'  => ['Método de Elementos Finitos - UTNLaRioja 2021','./21/posg/mef','PLSOY8GuPHc0AdVmrKvqXlNuOkVbcxUGHD','90dlmf0j5c9a5h09jkhbojcuss']
 	],
 
 	'Octógono | OCT' => [
