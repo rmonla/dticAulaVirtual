@@ -1,7 +1,8 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
-    3.9.1 => INDEX: Genera Pag. HTML de respaldo.
+    3.9.2 => INDEX: Genera Pag. HTML de preing.
+    3.9.1 => INDEX: Genera Pag. HTML MAIN de respaldo.
     3.8.6 => bdAULAs: Baja de Curso Elemento Finito.
     3.8.5 => bdAULAs: Baja de los Cursos GAIA.
     3.8.4 => bdAULAs: Baja de los Cursos EXCEL-Nivel1.
