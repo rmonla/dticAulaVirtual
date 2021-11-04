@@ -1,1 +1,0 @@
-"use strict";var isIOS=/iPhone|iPad/i.test(navigator.userAgent);if(isIOS){var body=document.getElementsByTagName("body")[0];body.classList.add("is-ios")}
