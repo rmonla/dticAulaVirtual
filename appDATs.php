@@ -1,6 +1,8 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
+    3.9.5 => INDEX: Actuaslizo HTML del INDEX MAIN.
+    3.9.4 => INDEX: Corrigue HTML de lhst1ro.
     3.9.3 => INDEX: Genera Pag. HTML de lhst1ro, lte1ro, lte2do, tuhst1ro, tup1ro, tup2do, tusv2do, posg/emia.
     3.9.2 => INDEX: Genera Pag. HTML de preing.
     3.9.1 => INDEX: Genera Pag. HTML MAIN de respaldo.
