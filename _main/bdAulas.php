@@ -3,7 +3,8 @@
 
 $bdAs = [
 	'Pre-Ingreso2022 | PI2022' => [
-		'PI2022ME' => ['Pre-Ingreso2022 Modalidad Extensiva - UTNLaRioja 2021','./22/preing/','PLSOY8GuPHc0CuuEwgFeH2SFrnfpZBARv8','n42hrj0ftn73rtqp21qk32opps']
+		'PreIng22.Int' => ['Pre-Ingreso2022 Modalidad Intensiva - UTNLaRioja 2022','./22/preing/','PLSOY8GuPHc0DWHnFV2lrP6gM3oP2yFCdW','n42hrj0ftn73rtqp21qk32opps']
+		// 'PI2022ME' => ['Pre-Ingreso2022 Modalidad Extensiva - UTNLaRioja 2021','./22/preing/','PLSOY8GuPHc0CuuEwgFeH2SFrnfpZBARv8','n42hrj0ftn73rtqp21qk32opps']
 	],
 
 	// 'Cursos, Conferencias o Eventos | EVENTOS' => [
