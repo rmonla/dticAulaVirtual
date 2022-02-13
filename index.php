@@ -1,8 +1,8 @@
 <?php 
 /* «® INCLUDES  ®» */
-	include_once './appDATs.php';
-	include_once './_main/bdAulas.php';
-	include_once './_main/getHTMLs.php';
+	include_once './appApDATs.php';
+	include_once './appBbAulas.php';
+	include_once './appFxGetHTMLs.php';
 
 /* «® SALIDA  ®» */
 	echo getPag();
