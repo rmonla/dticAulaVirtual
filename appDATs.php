@@ -1,6 +1,7 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
+    3.10.2 => MAIN: Retiro el index html y se usa el php.
     3.10.1 => AULAS: Agrego aula virtual PreIng22.Int.
     3.9.5 => INDEX: Actuaslizo HTML del INDEX MAIN.
     3.9.4 => INDEX: Corrigue HTML de lhst1ro.
