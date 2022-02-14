@@ -1,6 +1,7 @@
 <?php 
 /* «® VERSIONADO  ®» */
   $logVERs = ' => 
+    4.1.2 => MAIN: Re-ubico carpetas y optimizo código.
     4.1.1 => MAIN: Cambio nombre y ubicación de los archivos de la App.
     3.10.2 => MAIN: Retiro el index html y se usa el php.
     3.10.1 => AULAS: Agrego aula virtual PreIng22.Int.

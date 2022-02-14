@@ -1,0 +1,40 @@
+COMMANDS
+Renombrar archivos index.html
+	find -name "index.html" | xargs rename -n 's/index.html/x_index.html/g' *
+
+Renombrar archivos index.html
+	find -name "x_index.php" | xargs rename 's/x_index.php/index.php/g' *
+
+=JOIN(" ";TIPO;INCIDENTE;"["&DERECHA(REFERENTE;2)&" "&NOMPROPIO(TEXTO(FECHAHORA;"DD-MMM_HH:MM"))&"]")
+
+="Servicio Iniciado. ["&DERECHA(REFERENTE;2)&" "&NOMPROPIO(TEXTO(FECHAHORA;"DD-MMM_HH:MM"))&"]"
+
+=SI.ERROR(
+GETPIVOTDATA("maxData";tdINCIDENTEs;"IDSTEC";IDSTEC)
+;"0_Iniciado")
+
+=TEXTJOIN(" ";1;TIPO;INCIDENTE;"["&DERECHA(REFERENTE;2)&" "&NOMPROPIO(TEXTO(FECHAHORA;"DD-MMM HH:MM"))&"]")
+
+ssh-keygen -t rsa -C "rmonla@gmail.com"
+
+$ cd ~/.ssh
+$ ssh-keygen -o -t rsa -C 
+
+ssh-keygen -t rsa -b 4096 -C "rmonla@gmail.com"
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
+
+cat ~/.ssh/id_rsa.pub
+
+ssh-rsa AA...jQ== rmonla@gmail.com
+
+
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/etc/apt/trusted.gpg.d/githubcli-archive-keyring.gpg
+
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/trusted.gpg.d/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+sudo apt update
+sudo apt install gh
+
+	
